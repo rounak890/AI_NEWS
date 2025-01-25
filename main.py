@@ -3,7 +3,10 @@ from datetime import datetime, timedelta
 from fetch import fetch_recent_articles
 from summarize_and_score import process_ai_news_articles
 from loguru import logger
+from dotenv import load_dotenv
+import os
 
+load_dotenv('.env')
 logger.add('app.log')
 
 # List of AI news websites
@@ -40,7 +43,7 @@ else:
 process_ai_news_articles(
     input_csv='CSV/recent_ai_news_articles.csv',
     output_csv='CSV/processed_ai_news_articles.csv',
-    api_key='AIzaSyCg99gSTkEYGg2W6XZMZd1z8G36v7Oa0vw',
+    api_key= os.getenv("API_KEY"),
     logger = logger,
     model_name="gemini-2.0-flash-exp"
 )
