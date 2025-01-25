@@ -9,3 +9,5 @@ USAGE STEPS:-
 2. Create a file named '.env'
 3. Add your Gemini API key in .env file (API_KEY = '<your API key>') 
 4. Run the main.py file 
+
+Then your output will be in "CSV/processed_ai_news_articles.csv" path
