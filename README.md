@@ -4,5 +4,8 @@ FEATURES TO BE ADDED:-
 1. Wesbite
 2. Whatsapp/telegram/discord connectivity
 
-USAGE:-
-Till now you have to just clone the repo, add your Gemini API key and run the main.py file 
+USAGE STEPS:-
+1. Till now you have to just clone the repo
+2. Create a file named '.env'
+3. Add your Gemini API key in .env file (API_KEY = '<your API key>') 
+4. Run the main.py file 
