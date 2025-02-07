@@ -81,11 +81,16 @@ class NewsArticle(Base):
 
 Base.metadata.create_all(bind=engine)
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv('.env')
+
 # Email Configuration
 conf = ConnectionConfig(
-    MAIL_USERNAME="gerarounak890@gmail.com",
-    MAIL_PASSWORD="cpid jihx oalz eurq",
-    MAIL_FROM="gerarounak890@gmail.com",
+    MAIL_USERNAME= os.getenv("EMAIL"),
+    MAIL_PASSWORD= os.getenv("MAIL_PASSWORD"),
+    MAIL_FROM = os.getenv("EMAIL"),
     MAIL_PORT=587,
     MAIL_SERVER="smtp.gmail.com",
     MAIL_STARTTLS=True,  # Use STARTTLS
