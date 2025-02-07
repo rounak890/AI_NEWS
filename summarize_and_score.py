@@ -61,6 +61,7 @@ Explore the full details here : <url>
     # Add columns for results
     df['FINAL'] = None
     df['SCORE'] = None
+    df['CATEGORY'] = None
 
     # Loop through each row in the dataset
     for index, row in df.iterrows():
@@ -73,12 +74,20 @@ Explore the full details here : <url>
                 f"CONTENT : {content} \n URL : {link} \n TEMPLATE : {TEMPLATE_TEXT} \n ONLY RETURN FINAL POST NOTHING ELSE"
             )
             df.at[index, 'FINAL'] = response.text
+            time.sleep(5)
 
             # Generate virality score
             response2 = chat_session.send_message(
                 f'Tell me its virality score out of 10 and only return score nothing else CONTENT : {response.text}'
             )
             df.at[index, 'SCORE'] = response2.text
+            time.sleep(5)
+
+            # Generate virality score
+            response3 = chat_session.send_message(
+                f'Tell me its category and only return category nothing else CONTENT : {response.text}'
+            )
+            df.at[index, 'CATEGORY'] = response3.text
 
             logger.info(f"Processed row {index} || Score: {response2.text}")
 

@@ -1,825 +1,504 @@
-title,link,publish_date,content,FINAL,SCORE
-"Yiannis Antoniou, Lab49: OpenAI Operator kickstarts era of browser AI agents",https://www.artificialintelligence-news.com/news/yiannis-antoniou-lab49-openai-operator-era-browser-ai-agents/,2025-01-24 14:03:14+00:00,"Ryan Daws is a senior editor at TechForge Media with over a decade of experience in crafting compelling narratives and making complex topics accessible. His articles and interviews with industry leaders have earned him recognition as a key influencer by organisations like Onalytica. Under his leadership, publications have been praised by analyst firms such as Forrester for their excellence and performance. Connect with him on X (@gadget_ry), Bluesky (@gadgetry.bsky.social), and/or Mastodon (@gadgetry@techhub.social)
+title,link,publish_date,content,FINAL,SCORE,CATEGORY
+Sustainability is key in 2025 for businesses to advance AI efforts,https://www.artificialintelligence-news.com/news/sustainability-key-in-2025-businesses-advance-ai-efforts/,2025-02-04 14:44:43+00:00,"Since AI hit the mainstream in the last few years, industries across the world are feeling the positive impacts. From helping humanity to clean up our oceans to helping doctors to detect cancers earlier than ever before , AI’s potential and impact are growing by the day.
 
-OpenAI has unveiled Operator, a tool that integrates seamlessly with web browsers to perform tasks autonomously. From filling out forms to ordering groceries, Operator promises to simplify repetitive online activities by interacting directly with websites through clicks, typing, and scrolling.
+Regardless of whether this is being powered via a supercomputer, edge computing methods, or a traditional data centre, society is truly feeling the positive effect of advances in the AI industry.
 
-Designed around a new model called the Computer-Using Agent (CUA), Operator combines GPT-4o’s vision recognition with advanced reasoning capabilities—allowing it to function as a virtual “human-in-the-browser.” Yet, for all its innovation, industry experts see room for refinement.
+However, with fresh innovation has always come questions around environmental impact. These concerns are gaining momentum, especially around the energy consumption associated with the increased processing power required to run increasingly large systems.
 
-Yiannis Antoniou, Head of AI, Data, and Analytics at specialist consultancy Lab49, shared his insights on Operator’s significance and positioning in the competitive landscape of agent AI systems.
+The United Nations Environment Programme recently expressed concerns about the rising levels of e-waste and cooling considerations for data centres more specifically. This also follows on from similar concerns from academia , who have flagged that a larger carbon footprint might be the price we are paying for innovation.
 
-Agentic AI through a familiar interface
+Add on top of this the fact that governments globally are implementing new regulations and reporting requirements as part of initiatives to curb the impact of climate change, such as the EU’s Circular Economy Action Plan (CEAP), and it becomes clear this issue is coming to the forefront of the AI agenda.
 
-“OpenAI’s announcement of Operator, its latest foray into the agentic AI wars, is both fascinating and incomplete,” said Antoniou, who has over two decades of experience designing AI systems for financial services firms.
+Analysts around the globe are also beginning to focus on this, with Gartner naming energy-efficient computing as a top technology trend for 2025 , as organisations come under pressure to show they are considering the impact AI is having on the environment.
 
-“Clearly influenced by Anthropic Claude’s Computer Use system, introduced back in October, Operator streamlines the experience by removing the need for complex infrastructure and focusing on a familiar interface: the browser.”
+Businesses that are not considering sustainability as part of core AI infrastructure and expansion or technology strategies are at risk of hindering their own progress. Failing to keep pace with sustainable practices can cause reputational damage, as organisations may be seen as behind the curve in an increasingly sustainability-focused world, alongside risking non-compliance with regulation.
 
-By designing Operator to operate within an environment users already understand, the web browser, OpenAI sidesteps the need for bespoke APIs or integrations.
+When looking at the previously mentioned example of e-waste, if organisations are found to be not properly recycling devices (such as our Global Take Back Service ), they could face negative feedback and lose business as a result of poor brand image. With these factors in mind, it’s clear that businesses must consider building a sustainable AI framework that supports operational efficiency, encouraging business growth.
 
-“By leveraging the world’s most popular interface, OpenAI enhances the user experience and captures immediate interest from the general public. This browser-centric approach creates significant potential for widespread adoption, something Anthropic – despite its early-mover advantage – has struggled to achieve.”
+Prioritising the implementation of technologies that limit energy consumption can be a huge help when it comes to ensuring regulatory compliance and the ability to meet greater sustainability goals. These also come with the ability to help organisations to future-proof against market instability with reduced reliance on energy along with strengthening brand reputation in an increasingly environmentally-conscious world.
 
-Unlike some competing systems that may feel technical or niche in their application, Operator’s browser-focused framework lowers the barrier to entry and is a step forward in OpenAI’s efforts to democratise AI.
+This is within easy reach for many businesses as there is a large number of offerings in the market that can balance sustainability efforts, with high processing capabilities. At ASUS we have partnered with Intel to provide servers that prioritise energy efficiency . There is so much available to businesses today if they choose to take the initial step and consider a strategy to implement technologies which balance regulatory pressures, customer expectations, and overall business goals will help organisations to feel confident innovation won’t come at a cost to the environment.
 
-Unique take on usability and security
+IDC has raised this with its audience, recently releasing predictions on the technology industry which outlined; “To address the environmental challenges of harnessing AI’s benefits, enterprises are turning to Sustainable AI Frameworks that focus on minimising the environmental impact of artificial intelligence by addressing key elements such as energy efficiency, resource optimisation, and e-waste reduction.”
 
-One of the hallmarks of Operator is its emphasis on adaptability and security, implemented through human-in-the-loop protocols. Antoniou acknowledged these thoughtful usability features but noted that more work is needed.
+As AI innovation continues to grow, alongside market pressure, businesses will find it becomes clear which organisations within the market are able to cope, and which will be left behind. Ultimately, those who choose to embed sustainability into AI strategies will lead the way.
 
-“Architecturally, Operator’s browser integration closely mirrors Claude’s system. Both involve taking screenshots of the user’s browser and sending them for analysis, as well as controlling the screen via virtual keystrokes and mouse movements. However, Operator introduces thoughtful usability touches.
+(Photo by Angela Benito)
 
-“Features like custom instructions for specific websites add a layer of personalisation, and the emphasis on human-in-the-loop safeguards against unauthorised actions – such as purchases, sending emails, or applying for jobs – demonstrate OpenAI’s awareness of potential security risks posed by malicious websites, but more work is clearly needed to make this system widely safe across a variety of scenarios.”
-
-OpenAI has implemented a multi-layered safety framework for Operator, including takeover mode for secure inputs, user confirmations prior to significant actions, and monitoring systems to detect adversarial behavior. Furthermore, users can delete browsing data and manage privacy settings directly within the tool.
-
-However, Antoniou emphasised that these measures are still evolving—particularly as Operator encounters complex or sensitive tasks.
-
-OpenAI Operator further democratises AI
-
-Antoniou also sees the release of Operator as a pivotal moment for the consumer AI landscape, albeit one that is still in its early stages.
-
-“Overall, this is an excellent first attempt at building an agentic system for everyday users, designed around how they naturally interact with technology. As the system develops – with added capabilities and more robust security controls – this limited rollout, priced at $200/month, will serve as a testing ground.
-
-“Once matured and extended to lower subscription tiers and the free version, Operator has the potential to usher in the era of consumer-facing agents, further democratising AI and embedding it into daily life.”
-
-Designed initially for Pro users at a premium price point, Operator provides OpenAI with an opportunity to learn from early adopters and refine its capabilities.
-
-Antoniou noted that while $200/month might not yet justify the system’s value for most users, investment in making Operator more powerful and accessible could lead to significant competitive advantages for OpenAI in the long run.
-
-“Is it worth $200/month? Perhaps not yet. But as the system evolves, OpenAI’s moat will grow, making it harder for competitors to catch up. Now, the challenge shifts back to Anthropic and Google – both of whom have demonstrated similar capabilities in niche or engineering-focused products – to respond and stay in the game,” he concludes.
-
-As OpenAI continues to fine-tune Operator, the potential to revolutionise how people interact with technology becomes apparent. From collaborations with companies like Instacart, DoorDash, and Uber to use cases in the public sector, Operator aims to balance innovation with trust and safety.
-
-While early limitations and pricing may deter widespread adoption for now, these hurdles might only be temporary as OpenAI commits to enhancing usability and accessibility over time.
-
-See also: OpenAI argues against ChatGPT data deletion in Indian court
+See also: French initiative for responsible AI leaders
 
 Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
 
-Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**Operator: Your Browser's New Best Friend - Even If You're Not Techy**
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.","## AI's Green Dilemma: Innovation vs. Environment - What Does It Mean for You?
 
 **Why Read This?**
 
-OpenAI just launched ""Operator,"" a clever tool that lives right inside your web browser and does things for you! Think of it as a super-powered helper that can fill out forms, order groceries, and do all those annoying online tasks you hate.
+AI is booming, helping us with everything from ocean cleanup to cancer detection. But all that processing power comes at a cost: energy consumption and e-waste are raising serious environmental concerns.
 
 **Why It Matters for You:**
 
-Imagine having a virtual assistant that knows how to click, type, and scroll just like you do. Operator uses smart AI to understand websites and do things for you automatically. It’s like having a magic button for online chores. While it's still in its early stages, it's a glimpse into a future where AI handles the boring parts of the internet for you. Experts are already excited about how this could change the way we use technology, making it simpler and more accessible for everyone. 
+Ignoring sustainability in your AI strategy is like driving a gas guzzler in a world of electric cars. Companies are facing pressure from regulations, customers, and analysts to be eco-friendly. Those that don't prioritize energy-efficient AI risk reputational damage, non-compliance, and falling behind. The good news? Sustainable AI solutions are readily available, offering a win-win: powerful AI that's also kind to the planet. Think reduced energy bills, a stronger brand, and a future-proof business. 
 
 **Want More?**
 
-Explore the full details here: https://www.artificialintelligence-news.com/news/yiannis-antoniou-lab49-openai-operator-era-browser-ai-agents/
+Explore the full details here: https://www.artificialintelligence-news.com/news/sustainability-key-in-2025-businesses-advance-ai-efforts/
 ","7
+","Technology and Sustainability
 "
-How AI helped refine Hungarian accents in The Brutalist,https://www.artificialintelligence-news.com/news/how-ai-helped-refine-hungarian-accents-in-the-brutalist/,2025-01-24 13:38:07+00:00,"As a tech journalist, Zul focuses on topics including cloud computing, cybersecurity, and disruptive technology in the enterprise industry. He has expertise in moderating webinars and presenting content on video, in addition to having a background in networking technology.
+Zebra Technologies and enterprise AI in the APAC,https://www.artificialintelligence-news.com/news/zebra-technologies-and-enterprise-ai-in-the-apac/,2025-02-04 14:43:12+00:00,"Enterprise AI transformation is reaching a tipping point. In the Asia Pacific, Zebra Technologies has unveiled ambitious plans to change frontline operations across the region. At a time when CISQ estimates poor software quality will cost US businesses $2.41 trillion in 2022, the push for practical, results-driven AI implementation is urgent.
 
-When it comes to movies buzzing with Oscar potential, Brady Corbet’s The Brutalist is a standout this awards season.
+“Elements of our three-pillar strategy have been around for quite some time, but what’s revolutionising the frontline today is intelligent automation,” Tom Bianculli, Chief Technology Officer at Zebra Technologies, told reporters at a briefing during Zebra’s 2025 Kickoff in Perth, Australia last week. “We’re not just digitising workflows – we’re connecting wearable technology with robotic workflows, enabling frontline workers to seamlessly interact with automation in ways that were impossible just five years ago.”
 
-The visually stunning drama transports viewers to the post-World War II era, unravelling the story of László Tóth, played by Adrien Brody. Tóth, a fictional Hungarian-Jewish architect, starts over in the United States after being forced to leave his family behind as he emigrates.
+Practical applications driving change
 
-Beyond its vintage allure, something modern brews in the background: the use of AI. Specifically, AI was employed to refine Brody’s and co-star Felicity Jones’ Hungarian pronunciation. The decision has sparked lively debates about technology’s role in film-making.
+The real-world impact of enterprise AI transformation is already evident in Zebra’s recent collaboration with a major North American retailer. The solution combines traditional AI with generative AI capabilities, enabling fast shelf analysis and automated task generation.
 
-The role of AI in The Brutalist
+“You snap a picture of a shelf, [and] within one second, the traditional AI identifies all the products on the shelf, identifies where there’s missing product, maybe misplaced product… and then it makes that information available to a Gen AI agent that then decides what should you do,” Bianculli explains.
 
-According to Dávid Jancsó, the film’s editor, the production team turned to Respeecher, an AI software developed by a Ukrainian company, to tweak the actors’ Hungarian dialogue. Speaking to RedShark News (as cited by Mashable SEA), Jancsó explained that Hungarian – a Uralic language known for its challenging sounds – was a significant hurdle for the actors, despite their talent and dedication.
+This level of automation has demonstrated significant operational improvements, reducing staffing requirements at the retailer by 25%. When it detects missing stock, the system automatically generates tasks for the right personnel, streamlining what was previously a multi-step manual process.
 
-Respeecher’s software isn’t magic, but just a few years ago, it would have seemed wondrous. It creates a voice model based on a speaker’s characteristics and adjusts specific elements, like pronunciation. In this case, it was used to fine-tune the letter and vowel sounds that Brody and Jones found tricky. Most of the corrections were minimal, with Jancsó himself providing some replacement sounds to preserve the authenticity of the performances. “Most of their Hungarian dialogue has a part of me talking in there,” he joked, emphasising the care taken to maintain the actors’ original delivery.
+APAC leading AI adoption
 
-Respeecher: AI behind the scenes
+The Asia Pacific region is emerging as a frontrunner in enterprise AI transformation. IBM research presented at the briefing indicates that 54% of APAC enterprises now expect AI to deliver longer-term innovation and revenue generation benefits. The region’s AI investment priorities for 2025 are clearly defined:
 
-The is not Respeecher’s first foray into Hollywood. The software is known for restoring iconic voices like that of Darth Vader for the Obi-Wan Kenobi series, and has recreated Edith Piaf’s voice for an upcoming biopic. Outside of film, Respeecher has helped to preserve endangered languages like Crimean Tatar.
+– 21% focused on enhancing customer experiences
 
-For The Brutalist, the AI tool wasn’t just a luxury – it was a time and budget saver. With so much dialogue in Hungarian, manually editing every line would have required painstaking, manual work. Jancsó said that using AI sped up the process significantly, an important factor given the film’s modest $10 million budget.
+– 18% directed toward business process automation
 
-Beyond voice: AI’s other roles in the film
+– 16% invested in sales automation and customer lifecycle management
 
-AI was also used in other aspects of the production process, used for example to generate some of Tóth’s architectural drawings and complete buildings in the film’s Venice Biennale sequence. However, director Corbet has clarified that these images were not fully AI-generated; instead, the AI was used for specific background elements.
+Ryan Goh, Senior Vice President and General Manager of Asia Pacific at Zebra Technologies, points to practical implementations that are already driving results: “We have customers in e-commerce using ring scanners to scan packages, significantly improving their productivity compared to traditional scanning methods.”
 
-Corbet and Jancsó have been candid about their perspectives on AI in film-making. Jancsó sees it as a valuable tool, saying, “There’s nothing in the film using AI that hasn’t been done before. It just makes the process a lot faster.” Corbet added that the software’s purpose was to enhance authenticity, not replace the actors’ hard work.
+Innovation at the edge
 
-A broader conversation
+Zebra’s approach to AI deployment encompasses:
 
-The debate surrounding AI in the film industry isn’t new. From script-writing to music production, concerns about generative AI’s impact were central to the 2023 Writers Guild of America (WGA) and SAG-AFTRA strikes. Although agreements have been reached to regulate the use of AI, the topic remains a hot-button issue.
+– AI devices with native neural architecture for on-device processing
 
-The Brutalist awaits a possible Oscar nomination. From its story line to its cinematic style, the film wears its ambition on its sleeve. It’s not just a celebration of the postwar Brutalist architectural movement, it’s also a nod to classic American cinema. Shot in the rarely used VistaVision format, the film captures the grandeur of mid-20th-century film-making. Adding to its nostalgic charm, it includes a 15-minute intermission during its epic three-and-a-half-hour runtime.
+– Multimodal experiences that mirror human cognitive capabilities
 
-Yet the use of AI has given a new dimension to the ongoing conversation about AI in the creative industry. Whether people see AI as a betrayal of craftsmanship or an exciting innovative tool that can add to a final creation, one thing is certain: AI continues to transform how stories are delivered on screen.
+– Gen AI agents optimising workload distribution between edge and cloud
 
-See also: AI music sparks new copyright battle in US courts
+The company is advancing its activities in edge computing, with Bianculli revealing plans for on-device language models. This innovation mainly targets environments where internet connectivity is restricted or prohibited, ensuring AI capabilities remain accessible regardless of network conditions.
+
+Regional market dynamics
+
+The enterprise AI transformation journey varies significantly across APAC markets. India’s landscape is particularly dynamic, with the country’s GDP projected to grow 6.6% and manufacturing expected to surge by 7% YOY. Its commitment to AI is evident, with 96% of organisations surveyed by WEF actively running AI programmes.
+
+Japan presents a different scenario, with 1.2% projected GDP growth and some unique challenges to automation adoption. “We used to think that tablets are for retail, but the Bay Area proved us wrong,” Goh notes, highlighting unexpected applications in manufacturing and customer self-service solutions.
+
+Future trajectory
+
+Gartner’s projections indicate that by 2027, 25% of CIOs will implement augmented connected workforce initiatives that will halve the time required for competency development. Zebra is already moving in this direction with its Z word companion, which uses generative AI and large language models and is scheduled for pilot deployment with select customers in Q2 of this year.
+
+With a global presence spanning 120+ offices in 55 countries and 10,000+ channel partners across 185 countries, Zebra is positioned play strongly in the enterprise AI transformation across APAC. As the region moves from AI experimentation to full-scale deployment, the focus remains on delivering practical innovations that drive measurable business outcomes and operational efficiency.
+
+(Photo by )
+
+See also: Walmart and Amazon drive retail transformation with AI
 
 Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
 
-Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**The Brutalist: When Hollywood Met AI (And It Wasn't a Sci-Fi Movie)**
+Explore other upcoming enterprise technology events and webinars powered by TechForge here","## AI is Transforming Businesses in Asia Pacific: Are You Ready?
 
 **Why Read This?**
 
-Get ready for some Oscar buzz! ""The Brutalist,"" a new movie about a post-WWII architect, is making waves – and not just for its story. This film used AI to tweak the actors' Hungarian accents, sparking a whole debate about technology in movies.
+Zebra Technologies is making big moves in Asia Pacific, using AI to revolutionize how businesses operate, especially on the ""frontline"" – think retail floors, warehouses, and delivery services.
 
 **Why It Matters for You:**
 
-Imagine trying to learn a language with tricky sounds. That's what the actors in ""The Brutalist"" faced! To help them nail their Hungarian pronunciation, the filmmakers used AI. It’s like having a super tutor that can fine-tune specific sounds, making the performances more authentic. This isn’t about replacing actors; it’s about enhancing their work. This shows how AI is making its way into creative fields, changing how movies are made, and raising questions about how we use tech in art.
+Imagine AI that can instantly analyze shelves, identify missing products, and automatically assign tasks to the right employees, boosting efficiency by 25%! That's the power of AI in action. Asia Pacific is leading the way in adopting these technologies, focusing on better customer experiences, streamlined processes, and smarter sales. Whether it's ring scanners in e-commerce or AI-powered devices in manufacturing, the message is clear: AI is no longer a future possibility, but a present-day necessity for staying competitive. Find out how your business can leverage these advancements to boost productivity and cut costs.
 
 **Want More?**
 
-Explore the full details here: https://www.artificialintelligence-news.com/news/how-ai-helped-refine-hungarian-accents-in-the-brutalist/
+Explore the full details here: https://www.artificialintelligence-news.com/news/zebra-technologies-and-enterprise-ai-in-the-apac/
 ","8
-"
-OpenAI targets business sector with advanced AI tools,https://www.artificialintelligence-news.com/news/openai-targets-business-sector-advanced-ai-tools/,2025-01-24 13:30:53+00:00,"OpenAI, the powerhouse behind ChatGPT, is ramping up efforts to dominate the enterprise market with a suite of AI tools tailored for business users.
+",
+French initiative for responsible AI leaders,https://www.artificialintelligence-news.com/news/french-initiative-for-responsible-ai-leaders/,2025-02-04 13:17:12+00:00,"ESSEC Business School and Accenture have announced the launch of a new initiative, ‘AI for Responsible Leadership,’ which marks the 10th anniversary of the establishment of the role of Chair at ESSEC, titled the ESSEC Accenture Strategic Business Analytics Chair.
 
-The company recently revealed its plans to introduce a series of enhancements designed to make AI integration seamless for companies of all sizes. This includes updates to its flagship AI agent technology, expected to transform workplace productivity by automating complex workflows, from financial analysis to customer service.
+The initiative aims to encourage the use of artificial intelligence by leaders in ways that are responsible and ethical, and that lead to high levels of professional performance. It aims to provide current and future leaders with the skills they require when faced with challenges in the future; economic, environmental, or social.
 
-“Businesses are looking for solutions that go beyond surface-level assistance. Our agents are designed to provide in-depth, actionable insights,” said Sarah Friar, CFO of OpenAI. “This is particularly relevant as enterprises seek to streamline operations in today’s competitive landscape.”
+Several organisations support the initiative, including institutions, businesses, and specialised groups, including ESSEC Metalab for Data, Technology & Society, and Accenture Research.
 
-OpenAI’s corporate strategy builds on its ongoing collaborations with tech leaders such as Microsoft, which has already integrated OpenAI’s technology into its Azure cloud platform. Analysts say these partnerships position OpenAI to rival established enterprise solutions providers like Salesforce and Oracle.
+Executive Director of the ESSEC Metalab, Abdelmounaim Derraz, spoke of the collaboration, saying, “Technical subjects are continuing to shake up business schools, and AI has opened up opportunities for collaboration between partner companies, researchers, and other members of the ecosystem (students, think tanks, associations, [and] public service).”
 
-AI research assistant tools
+ESSEC and Accenture aim to integrate perspectives from multiple fields of expertise, an approach that is a result of experimentation in the decade the Chair has existed.
 
-As part of its enterprise-focused initiatives, OpenAI is emphasising the development of AI research tools that cater to specific industries.
+The elements of the initiative include workshops and talks designed to promote the exchange of knowledge and methods. It will also include a ‘barometer’ to help track AI’s implementation and overall impact on responsible leadership.
 
-For instance, its AI models are being trained on legal and medical data to create highly specialised assistants that could redefine research-intensive sectors. This focus aligns with the broader market demand for AI-driven solutions that enhance decision-making and efficiency.
+The initiative will engage with a network of institutions and academic publications, and an annual Grand Prix will recognise projects that focus on and explore the subject of AI and leadership.
 
-Infrastructure for expansion
+Fabrice Marque, founder of the initiative and the current ESSEC Accenture Strategics Business Analytics Chair, said, “For years, we have explored the potential of using data and artificial intelligence in organisations. The synergies we have developed with our partners (Accenture, Accor, Dataiku, Engie, Eurofins, MSD, Orange) allowed us to evaluate and test innovative solutions before deploying them.
 
-OpenAI’s rapid growth strategy is supported by a robust infrastructure push. The company has committed to building state-of-the-art data centers in Europe and Asia, aiming to lower latency and improve service reliability for global users. These investments reflect OpenAI’s long-term vision of becoming a critical enabler in the AI-driven global economy.
+“With this initiative, we’re taking a major step: bringing together an engaged ecosystem to sustainably transform how leaders think, decide, and act in the face of tomorrow’s challenges. Our ambition is clear: to make AI a lever for performance, innovation and responsibility for […] leaders.”
 
-Challenges and issues
+Managing Director at Accenture and sponsor of the ESSEC/Accenture Chair and initiative, Aurélien Bouriot, said, “The ecosystem will benefit from the resources that Accenture puts at its disposal, and will also benefit our employees who participate.”
 
-However, challenges persist. The company faces mounting pressure from regulators concerned about data privacy and the ethical implications of deploying powerful AI tools. Critics also question the sustainability of OpenAI’s ambitious growth targets, given its significant operational costs and strong competition from other tech giants.
+Laetitia Cailleteau, Managing Director at Accenture and leader of Responsible AI & Generative AI for Europe, highlighted the importance of future leaders understanding all aspects of AI.
 
-Despite these hurdles, OpenAI remains optimistic about its trajectory. With plans to unveil its expanded portfolio at the upcoming Global AI Summit, the company is well-positioned to strengthen its foothold in the burgeoning AI enterprise market.
+“AI is a pillar of the ongoing industrial transformation. Tomorrow’s leaders must understand the technical, ethical, and human aspects and risks – and know how to manage them. In this way, they will be able to maximise value creation and generate a positive impact for the organisation, its stakeholders and society as a whole.”
 
-(Editor’s note: This article is sponsored by AI Tools Network)
+Image credit: Wikimedia Commons
 
-See also: OpenAI argues against ChatGPT data deletion in Indian court
-
-Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
-
-Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**ChatGPT for Work? OpenAI's Big Plans to Change Business**
-
-**Why Read This?**
-
-The makers of ChatGPT, OpenAI, aren't just about chatbots anymore. They're diving headfirst into the business world, creating AI tools that could transform how companies operate. Think smarter software and automated tasks!
-
-**Why It Matters for You:**
-
-Imagine if AI could handle all the tedious parts of your job, from crunching numbers to answering customer questions. That's what OpenAI is aiming for. They're building AI tools that can do more than just provide simple answers; they can offer real insights and help businesses make better decisions. This could mean more efficient workplaces, faster processes, and maybe even fewer boring tasks for you. While there are questions about privacy and the impact of AI, it's clear that this tech is poised to reshape the future of work.
-
-**Want More?**
-
-Explore the full details here: https://www.artificialintelligence-news.com/news/openai-targets-business-sector-advanced-ai-tools/
-","6
-"
-OpenAI argues against ChatGPT data deletion in Indian court,https://www.artificialintelligence-news.com/news/openai-argues-against-chatgpt-data-deletion-in-indian-court/,2025-01-23 14:24:49+00:00,"As a tech journalist, Zul focuses on topics including cloud computing, cybersecurity, and disruptive technology in the enterprise industry. He has expertise in moderating webinars and presenting content on video, in addition to having a background in networking technology.
-
-OpenAI has argued in an Indian court that removing the training data behind ChatGPT service would clash with its legal obligations in the United States.
-
-The statement was issued in response to a lawsuit filed by Indian news agency ANI, which accused the AI business of using its content without permission.
-
-The Microsoft-backed AI giant stated that Indian courts lack jurisdiction in the case since OpenAI has no offices nor operations in the country. In its January 10 filing to the Delhi High Court, OpenAI emphasised that it is already defending similar lawsuits in the US, where it is required to preserve its training data during ongoing litigation.
-
-The case, filed by ANI in November, is one of India’s most closely-watched lawsuits involving the use of AI. ANI alleges that OpenAI utilised its published content without authorisation to train ChatGPT and is demanding the deletion of its data from the company’s systems.
-
-A global battle over copyright and AI
-
-OpenAI is no stranger to such disputes, facing a wave of lawsuits from copyright holders worldwide. In the US, the New York Times filed a similar case against the company, accusing it of misusing its content. OpenAI has consistently denied such allegations, claiming its systems rely on the fair use of publicly available data.
-
-During a November hearing in Delhi, OpenAI told the court it would no longer use ANI’s content. However, ANI argued that its previously published material remains stored in ChatGPT’s repositories and must be deleted.
-
-In its rebuttal, OpenAI highlighted that it is legally obligated under US law to retain training data while related cases are pending. “The company is under a legal obligation, under the laws of the United States, to preserve, and not delete, the said training data,” OpenAI stated in its filing.
-
-Jurisdiction dispute
-
-OpenAI also argued that the relief ANI is seeking falls outside the jurisdiction of Indian courts. It pointed out that the company has “no office or permanent establishment in India,” and its servers, which store ChatGPT’s training data, are located outside the country.
-
-ANI, which is partially owned by Reuters, countered the claim, saying the Delhi court has the authority to hear the case and that it will file a detailed response.
-
-A Reuters spokesperson declined to comment on proceedings, but has stated that the agency has no involvement in ANI’s business operations.
-
-Concerns over competition
-
-ANI has also expressed concern about unfair competition, citing OpenAI’s partnerships with major news organisations like Time Magazine, The Financial Times, and France’s Le Monde. ANI says that these agreements give OpenAI an edge.
-
-The agency further claimed that ChatGPT reproduces verbatim or similar excerpts of its works in response to user prompts. OpenAI, on the other hand, claimed that ANI deliberately used its own articles as prompts to “manipulate ChatGPT” to file the lawsuit.
-
-The case is scheduled to be heard by the Delhi High Court on January 28. Meanwhile, OpenAI is transitioning from a non-profit to a for-profit company, raising $6.6 billion last year.
-
-In recent months, OpenAI has secured high-profile deals with media outlets from around the world, highlighting its efforts to strengthen its commercial partnerships while managing regulatory concerns worldwide.
-
-(Photo by Unsplash)
-
-See also: DeepSeek-R1 reasoning models rival OpenAI in performance
+See also: Microsoft and OpenAI probe alleged data theft by DeepSeek
 
 Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
 
-Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**ChatGPT's Data Drama: A Global Legal Fight You Should Know About**
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.","## AI with a Conscience: Shaping Responsible Leaders for Tomorrow
 
 **Why Read This?**
 
-The company behind ChatGPT, OpenAI, is in a bit of a legal pickle. An Indian news agency is suing them, claiming they used its content without permission. This case is raising big questions about how AI learns and what's fair.
+Top business school ESSEC and tech giant Accenture are teaming up to launch ""AI for Responsible Leadership,"" an initiative focused on making sure AI is used ethically and effectively by future leaders.
 
 **Why It Matters for You:**
 
-This isn't just a legal battle; it's about the future of AI. Imagine if every time you learned something new, you had to worry about whether you were using someone else’s knowledge without permission. That’s kind of what’s happening with ChatGPT. The news agency wants OpenAI to delete its data, but OpenAI says they can’t because they’re in another legal fight in the US. This case highlights a growing global debate about who owns data and how AI should use it. It's a messy situation with implications for anyone who uses AI tools.
+AI is changing everything, but it's crucial that it's used responsibly. This initiative aims to equip leaders with the skills to navigate the ethical, technical, and human aspects of AI. Think of it as a crash course in building a future where AI benefits everyone, not just a select few. They'll be tracking AI's impact, hosting workshops, and even giving out awards to projects that champion responsible AI leadership. If you're interested in how AI can be a force for good, this is something to watch!
 
 **Want More?**
 
-Explore the full details here: https://www.artificialintelligence-news.com/news/openai-argues-against-chatgpt-data-deletion-in-indian-court/
-","7
-"
-World Economic Forum unveils blueprint for equitable AI,https://www.artificialintelligence-news.com/news/world-economic-forum-unveils-blueprint-equitable-ai/,2025-01-21 16:55:43+00:00,"Ryan Daws is a senior editor at TechForge Media with over a decade of experience in crafting compelling narratives and making complex topics accessible. His articles and interviews with industry leaders have earned him recognition as a key influencer by organisations like Onalytica. Under his leadership, publications have been praised by analyst firms such as Forrester for their excellence and performance. Connect with him on X (@gadget_ry), Bluesky (@gadgetry.bsky.social), and/or Mastodon (@gadgetry@techhub.social)
+Explore the full details here: https://www.artificialintelligence-news.com/news/french-initiative-for-responsible-ai-leaders/
+",,
+ChatGPT gains agentic capability for complex research,https://www.artificialintelligence-news.com/news/chatgpt-gains-agentic-capability-for-complex-research/,2025-02-03 17:22:06+00:00,"OpenAI is releasing a powerful agentic capability that enables ChatGPT to conduct complex, multi-step research tasks online. The feature, called Deep Research, reportedly achieves in tens of minutes what could take a human researcher hours or even days.
 
-The World Economic Forum (WEF) has released a blueprint outlining how AI can drive inclusivity in global economic growth and societal progress. However, it also highlights the challenges in ensuring its benefits are equitably distributed across all nations and peoples.
+OpenAI describes Deep Research as a significant milestone in its journey toward artificial general intelligence (AGI).
 
-Developed in partnership with KPMG, the blueprint offers nine strategic objectives to support government leaders, organisations, and key stakeholders through every phase of the AI lifecycle – from innovation to deployment – at local, national, and international levels. These strategies aim to bridge disparities in AI access, infrastructure, advanced computing, and skill development to promote sustainable, long-term growth.
+“The ability to synthesise knowledge is a prerequisite for creating new knowledge,” says OpenAI. “For this reason, Deep Research marks a significant step toward our broader goal of developing AGI.”
 
-Cathy Li, Head of AI, Data, and the Metaverse at the WEF, said: “Leveraging AI for economic growth and societal progress is a shared goal, yet countries and regions have very different starting points.
+Agentic AI enables ChatGPT to assist with complex research
 
-“This blueprint serves as a compass, guiding decision-makers toward impact-oriented collaboration and practical solutions that can unlock AI’s full potential.”
+Deep Research empowers ChatGPT to find, analyse, and synthesise information from hundreds of online sources autonomously. With just a prompt from the user, the tool can deliver a comprehensive report, comparable to the output of a research analyst, according to OpenAI.
 
-Call for regional collaboration and local empowerment
+Drawing capabilities from a variant of OpenAI’s upcoming “o3” model, the aim is to free users from time-consuming, labour-intensive information gathering. Whether it’s a competitive analysis of streaming platforms, an informed policy review, or even personalised recommendations for a new commuter bike, Deep Research promises precise and reliable results.
 
-Central to the ‘Blueprint for Intelligent Economies’ is the belief that successful AI adoption must reflect the specific needs of local communities—with strong leadership and collaboration among governments, businesses, entrepreneurs, civil society organisations, and end users.
+Importantly, every output includes full citations and transparent documentation—enabling users to verify the findings with ease.
 
-Solly Malatsi, South Africa’s Minister of Communications and Digital Technologies, commented: “The significant potential of AI remains largely untapped in many regions worldwide. Establishing an inclusive and competitive AI ecosystem will become a crucial priority for all nations.
+The tool appears particularly adept at uncovering niche or non-intuitive insights, making it an invaluable asset across industries like finance, science, policymaking, and engineering. But OpenAI also envisions Deep Research being useful for the average user, such as shoppers looking for hyper-personalised recommendations or a specific product.
 
-“Collaboration among multiple stakeholders at the national, regional, and global levels will be essential in fostering growth and prosperity through AI for everyone.”
+This latest agentic capability operates through the user interface of ChatGPT; users simply select the “Deep Research” option in the message composer and type their query. Supporting files or spreadsheets can also be uploaded for additional context.
 
-By tailoring approaches to reflect geographic and cultural nuances, the WEF report suggests nations can create AI systems that address local challenges while also providing a robust bedrock for innovation, investment, and ethical governance. Case studies from nations at varying stages of AI maturity are used throughout the report to illustrate practical, scalable solutions.
+Once initiated, the AI embarks on a rigorous multi-step process, which may take 5-30 minutes to complete. A sidebar provides updates on the actions taken and the sources consulted. Users can carry on with other tasks and will be notified when the final report is ready.
 
-For example, cross-border cooperation on shared AI frameworks and pooled resources (such as energy or centralised databanks) is highlighted as a way to overcome resource constraints. Public-private subsidies to make AI-ready devices more affordable present another equitable way forward. These mechanisms aim to lower barriers for local businesses and innovators, enabling them to adopt AI tools and scale their operations.
+The results are presented in the chat as detailed, well-documented reports. In the coming weeks, OpenAI plans to enhance these outputs further by embedding images, data visualisations, and graphs to deliver even greater clarity and context.
 
-Hatem Dowidar, Chief Executive Officer of E&, said: “All nations have a unique opportunity to advance their economic and societal progress through AI. This requires a collaborative approach of intentional leadership from governments supported by active engagement with all stakeholders at all stages of the AI journey.
+Unlike GPT-4o – which excels in real-time, multimodal conversations – Deep Research prioritises depth and detail. Its ability to rigorously cite sources and provide comprehensive analysis sets it apart—shifting the focus from fast, summarised answers to well-documented, research-grade insights.
 
-“Regional and global collaborations remain fundamental pathways to address shared challenges and opportunities, ensure equitable access to key AI capabilities, and responsibly maximise its transformative potential for a lasting value for all.”
+Built for real-world challenges
 
-Priority focus areas
+Deep Rsearch leverages sophisticated training methodologies, grounded in real-world browsing and reasoning tasks across diverse domains. Its model was trained via reinforcement learning to autonomously plan and execute multi-step research processes, including backtracking and adaptively refining its approach as new information becomes available.
 
-While the blueprint features nine strategic objectives, three have been singled out as priority focus areas for national AI strategies:
+The tool can browse user-uploaded files, generate and iterate on graphs using Python, embed media such as generated images and web pages into responses, and cite exact sentences or passages from its sources. The result of this extensive training is a highly capable agent for tackling complex real-world problems.
 
-Building sustainable AI infrastructure
+OpenAI evaluated Deep Research across a broad set of expert-level exams known as “Humanity’s Last Exam”. The exams – comprising over 3,000 questions covering topics from rocket science and linguistics to ecology and classics – test an AI’s competence in solving multifaceted problems.
 
-Resilient, scalable, and environmentally sustainable AI infrastructure is essential for innovation. However, achieving this vision will require substantial investment, energy, and cross-sector collaboration. Nations must coordinate efforts to ensure that intelligent economies grow in both an equitable and eco-friendly manner.
+The results were impressive, with the model achieving a record-breaking 26.6% accuracy across these domains:
 
-Curating diverse and high-quality datasets
+GPT-4o: 3.3%
 
-AI’s potential hinges on the quality of the data it can access. This strategic objective addresses barriers such as data accessibility, imbalance, and ownership. By ensuring that datasets are inclusive, diverse, and reflective of local languages and cultures, developers can create equitable AI models that avoid bias and meet the needs of all communities.
+Grok-2: 3.8%
 
-Establishing robust ethical and safety guardrails
+Claude 3.5 Sonnet: 4.3%
 
-Governance frameworks are critical for reducing risks like misuse, bias, and ethical breaches. By setting high standards at the outset, nations can cultivate trust in AI systems, laying the groundwork for responsible deployment and innovation. These safeguards are especially vital for promoting human-centred AI that benefits all of society.
+OpenAI o1: 9.1%
 
-The overall framework outlined in the report has three layers:
+DeepSeek-R1: 9.4%
 
-Foundation layer: Focuses on sustainable energy, diverse data curation, responsible AI infrastructure, and efficient investment mechanisms. Growth layer: Embeds AI into workflows, processes, and devices to accelerate sectoral adoption and boost innovation. People layer: Prioritises workforce skills, empowerment, and ethical considerations, ensuring that AI shapes society in a beneficial and inclusive way.
+Deep research: 26.6% (with browsing + Python tools)
 
-A blueprint for global AI adoption
+Deep Research also reached a new state-of-the-art performance on the GAIA benchmark, which evaluates AI models on real-world questions requiring reasoning, multi-modal fluency, and tool-use proficiency. Deep Research topped the leaderboard with a score of 72.57%.
 
-The Forum is also championing a multi-stakeholder approach to global AI adoption, blending public and private collaboration. Policymakers are being encouraged to implement supportive legislation and incentives to spark innovation and broaden AI’s reach. Examples include lifelong learning programmes to prepare workers for the AI-powered future and financial policies that enable greater technology access in underserved regions.
+Limitations and challenges
 
-The WEF’s latest initiative reflects growing global recognition that AI will be a cornerstone of the future economy. However, it remains clear that the benefits of this transformative technology will need to be shared equitably to drive societal progress and ensure no one is left behind.
+While the Deep Research agentic AI capability in ChatGPT signifies a bold step forward, OpenAI acknowledges that the technology is still in its early stages and comes with limitations.
 
-The Blueprint for Intelligent Economies provides a roadmap for nations to harness AI while addressing the structural barriers that could otherwise deepen existing inequalities. By fostering inclusivity, adopting robust governance, and placing communities at the heart of decision-making, the WEF aims to guide governments, businesses, and innovators toward a sustainable and intelligent future.
+The system occasionally “hallucinates” facts or offers incorrect inferences, albeit at a notably reduced rate compared to existing GPT models, according to OpenAI. It also faces challenges in differentiating between authoritative sources and speculative content, and it struggles to calibrate its confidence levels—often displaying undue certainty for potentially uncertain findings.
 
-See also: UK Government signs off sweeping AI action plan
+Minor formatting errors in reports and citations, as well as delays in initiating tasks, could also frustrate initial users. OpenAI says these issues are expected to improve over time with more usage and iterative refinements.
+
+OpenAI is rolling out the capability gradually, starting with Pro users, who will have access to up to 100 queries per month. Plus and Team tiers will follow suit, with Enterprise access arriving next.
+
+UK, Swiss, and European Economic Area residents are not yet able to access the feature, but OpenAI says it’s working on expanding its rollout to these regions.
+
+In the weeks ahead, OpenAI will expand the feature to ChatGPT’s mobile and desktop platforms. The long-term vision includes enabling connections to subscription-based or proprietary data sources, further enhancing the robustness and personalisation of its outputs.
+
+Looking further ahead, OpenAI envisions integrating Deep Research with “Operator,” an existing chatbot capability that takes real-world actions. This integration would allow ChatGPT to seamlessly handle tasks that require both asynchronous online research and real-world execution.
+
+(Photo by John Schnobrich)
+
+See also: Microsoft and OpenAI probe alleged data theft by DeepSeek
 
 Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
 
-Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**AI for Everyone? The World Economic Forum's Plan for a Fair Future**
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.",,,
+Qwen 2.5-Max outperforms DeepSeek V3 in some benchmarks,https://www.artificialintelligence-news.com/news/qwen-2-5-max-outperforms-deepseek-v3-some-benchmarks/,2025-01-29 10:03:48+00:00,"Alibaba’s response to DeepSeek is Qwen 2.5-Max, the company’s latest Mixture-of-Experts (MoE) large-scale model.
+
+Qwen 2.5-Max boasts pretraining on over 20 trillion tokens and fine-tuning through cutting-edge techniques like Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF).
+
+With the API now available through Alibaba Cloud and the model accessible for exploration via Qwen Chat, the Chinese tech giant is inviting developers and researchers to see its breakthroughs firsthand.
+
+Outperforming peers
+
+When comparing Qwen 2.5-Max’s performance against some of the most prominent AI models on a variety of benchmarks, the results are promising.
+
+Evaluations included popular metrics like the MMLU-Pro for college-level problem-solving, LiveCodeBench for coding expertise, LiveBench for overall capabilities, and Arena-Hard for assessing models against human preferences.
+
+According to Alibaba, “Qwen 2.5-Max outperforms DeepSeek V3 in benchmarks such as Arena-Hard, LiveBench, LiveCodeBench, and GPQA-Diamond, while also demonstrating competitive results in other assessments, including MMLU-Pro.”
+
+The instruct model – designed for downstream tasks like chat and coding – competes directly with leading models such as GPT-4o, Claude-3.5-Sonnet, and DeepSeek V3. Among these, Qwen 2.5-Max managed to outperform rivals in several key areas.
+
+Comparisons of base models also yielded promising outcomes. While proprietary models like GPT-4o and Claude-3.5-Sonnet remained out of reach due to access restrictions, Qwen 2.5-Max was assessed against leading public options such as DeepSeek V3, Llama-3.1-405B (the largest open-weight dense model), and Qwen2.5-72B. Again, Alibaba’s newcomer demonstrated exceptional performance across the board.
+
+“Our base models have demonstrated significant advantages across most benchmarks,” Alibaba stated, “and we are optimistic that advancements in post-training techniques will elevate the next version of Qwen 2.5-Max to new heights.”
+
+Making Qwen 2.5-Max accessible
+
+To make the model more accessible to the global community, Alibaba has integrated Qwen 2.5-Max with its Qwen Chat platform, where users can interact directly with the model in various capacities—whether exploring its search capabilities or testing its understanding of complex queries.
+
+For developers, the Qwen 2.5-Max API is now available through Alibaba Cloud under the model name “qwen-max-2025-01-25”. Interested users can get started by registering an Alibaba Cloud account, activating the Model Studio service, and generating an API key.
+
+The API is even compatible with OpenAI’s ecosystem, making integration straightforward for existing projects and workflows. This compatibility lowers the barrier for those eager to test their applications with the model’s capabilities.
+
+Alibaba has made a strong statement of intent with Qwen 2.5-Max. The company’s ongoing commitment to scaling AI models is not just about improving performance benchmarks but also about enhancing the fundamental thinking and reasoning abilities of these systems.
+
+“The scaling of data and model size not only showcases advancements in model intelligence but also reflects our unwavering commitment to pioneering research,” Alibaba noted.
+
+Looking ahead, the team aims to push the boundaries of reinforcement learning to foster even more advanced reasoning skills. This, they say, could enable their models to not only match but surpass human intelligence in solving intricate problems.
+
+The implications for the industry could be profound. As scaling methods improve and Qwen models break new ground, we are likely to see further ripples across AI-driven fields globally that we’ve seen in recent weeks.
+
+(Photo by Maico Amorim)
+
+See also: ChatGPT Gov aims to modernise US government agencies
+
+Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
+
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.",,,
+What’s next for smart glasses,https://www.technologyreview.com/2025/02/05/1110983/whats-next-for-smart-glasses/,2025-02-05 00:00:00,"Now the general public may finally be getting access to devices they can use. The AI world is abuzz over agents, which augment large language models (LLMs) with the ability to carry out tasks by themselves. The past 12 months have seen huge leaps in AI multimodal LLMs’ abilities to handle video, images, and audio in addition to text, which opens up new applications for smart glasses that would not have been possible previously, says Louis Rosenberg, an AR researcher who worked on the first functional augmented-reality system at Stanford University in the 1990s.
+
+We already know Meta is definitely interested in AI agents. Although the company said in September that it has no plans to sell its Orion prototype glasses to the public, given their expense, Mark Zuckerberg raised expectations for its next generations of Meta’s smart glasses when he declared Orion the “most advanced pair of AR glasses ever made.” He’s also made it clear how deeply invested Meta is in bringing a “highly intelligent and personalized AI assistant” to as many users as possible and that he’s confident Meta’s glasses are the “perfect form factor for AI.”
+
+Although Meta is already making its Ray-Ban smart glasses’ AI more conversational—its new live AI feature responds to prompts about what its wearer is seeing and hearing via its camera and microphone—future agents will give these systems not only eyes and ears, but a contextual awareness of what’s around them, Rosenberg says. For example, agents running on smart glasses could hold unprompted interactive conversations with their wearers based on their environment, reminding them to buy orange juice when they walk past a store, for example, or telling them the name of a coworker who passes them on the sidewalk. We already know Google is deeply interested in this agent-first approach: The unnamed smart glasses it first showed off at Google I/O in May 2024 were powered by its Astra AI agent system.
+
+“Having worked on mixed reality for over 30 years, it’s the first time I can see an application that will really drive mass adoption,” Rosenberg says.
+
+Meta and Google will likely tussle to be the sector’s top dog
+
+It’s unclear how far we are from that level of mass adoption. During a recent Meta earnings call, Zuckerberg said 2025 would be a “defining year” for understanding the future of AI glasses and whether they explode in popularity or represent “a longer grind.”","## Smart Glasses are About to Get REALLY Smart: AI is the Key
 
 **Why Read This?**
 
-The World Economic Forum (WEF) just dropped a big plan for how AI should grow in the world – and it's not just about tech. It's about making sure everyone, everywhere, gets a piece of the AI pie, not just the rich and powerful.
+Remember those clunky smart glasses that never quite took off? Get ready for a comeback! AI is about to make them incredibly useful, turning them into personal assistants that can see, hear, and understand the world around you.
 
 **Why It Matters for You:**
 
-Imagine a world where AI helps solve problems in your community, no matter where you live. The WEF is trying to make that happen by ensuring AI tech, skills, and access reach every corner of the globe. It's not enough to just build cool AI; it has to be fair, ethical, and benefit everyone. This plan highlights the need to invest in sustainable tech, prioritize diverse data, and set ethical guidelines to prevent AI from creating more problems than it solves. It's a roadmap for a future where AI helps lift everyone up, not just a select few.
+Imagine glasses that remind you to buy orange juice when you're near the store, or tell you the name of that coworker you always forget. Companies like Meta and Google are racing to create these AI-powered glasses, giving them the ability to have unprompted interactive conversations with you based on your environment. They're not just about seeing and recording; they're about understanding and helping. 2025 will be the year we find out if these next-gen smart glasses will be a hit or just another tech fad. Are you ready to wear the future?
 
 **Want More?**
 
-Explore the full details here: https://www.artificialintelligence-news.com/news/world-economic-forum-unveils-blueprint-equitable-ai/
-","7
-"
-Galileo launches Agentic Evaluations to fix AI agent errors before they cost you,https://venturebeat.com/ai/galileo-launches-agentic-evaluations-to-fix-ai-agent-errors-before-they-cost-you/,2025-01-23 13:00:00+00:00,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
-
-Galileo, a San Francisco-based startup, is betting that the future of artificial intelligence depends on trust. Today, the company launched a new product, Agentic Evaluations, to address a growing challenge in the world of AI: making sure the increasingly complex systems known as AI agents actually work as intended.
-
-AI agents — autonomous systems that perform multi-step tasks like generating reports or analyzing customer data — are gaining traction across industries. But their rapid adoption raises a crucial question: How can companies verify these systems remain reliable after deployment? Galileo’s CEO, Vikram Chatterji, believes his company has found the answer.
-
-“Over the last six to eight months, we started to see some of our customers trying to adopt agentic systems,” said Chatterji in an interview. “Now LLMs can be used as a smart router to pick and choose the right API calls towards actually completing a task. Going from just generating text to actually completing a task was a very big chasm that was unlocked.”
-
-A diagram showing how Galileo evaluates AI agents at three key stages: tool selection, error detection and task completion. (Credit: Galileo)
-
-AI agents show promise, but enterprises demand accountability
-
-Major enterprises like Cisco and Ema (the latter founded by Coinbase’s former chief product officer) have already adopted Galileo’s platform. These companies use AI agents to automate tasks from customer support to financial analysis, and report significant productivity gains.
-
-“A sales representative who’s trying to do outreach and outbounds would otherwise use maybe a week of their time to do that, versus with some of these AI-enabled agents, they’re doing that within two days or less,” Chatterji explained, highlighting the return on investment for enterprises.
-
-Galileo’s new framework evaluates tool selection quality, detects errors in tool calls, and tracks overall session success. It also monitors essential metrics for large-scale AI deployment, including costs and latency.
-
-A dashboard showing how Galileo evaluates AI agents at three key stages: tool selection, error detection and task completion. (Credit: Galileo)
-
-$68 million in funding fuels Galileo’s push into enterprise AI
-
-The launch builds on Galileo’s recent momentum. The company raised $45 million in series B funding led by Scale Venture Partners last October, bringing its total funding to $68 million. Industry analysts project the market for AI operations tools could reach $4 billion by 2025.
-
-The stakes are high as AI deployment accelerates. Studies show even advanced models like GPT-4 can hallucinate about 23% of the time during basic question-and-answer tasks. Galileo’s tools help enterprises identify these issues before they impact operations.
-
-“Before we launch this thing, we really, really need to know that this thing works,” Chatterji said, describing customer concerns. “The bar is really high. So that’s where we gave them this tool chain, such that they could just use our metrics as the basis for these tests.”
-
-Addressing AI hallucinations and enterprise-scale challenges
-
-The company’s focus on reliable, production-ready solutions positions it well in a market increasingly concerned with AI safety. For technical leaders deploying enterprise AI, Galileo’s platform provides essential guardrails for ensuring AI agents perform as intended while controlling costs.
-
-As enterprises expand their use of AI agents, performance monitoring tools become crucial infrastructure. Galileo’s latest offering aims to help businesses deploy AI responsibly and effectively at scale.
-
-“2025 will be the year of agents. It is going to be very prolific,” Chatterji noted. “However, what we’ve also seen is a lot of companies that are just launching these agents without good testing is leading to negative implications…The need for proper testing and evaluations is more than ever before.”","**AI Agents Need a Check-Up? This Company Says Yes!**
-
-**Why Read This?**
-
-Ever wonder if those AI helpers are actually doing their job right? A startup called Galileo is tackling that question head-on. They've created a new tool to keep AI agents in check, making sure they're reliable before they cause chaos.
-
-**Why It Matters for You:**
-
-Imagine AI tools that can do tasks for you, like writing reports or helping customers, but sometimes they make mistakes. That's where Galileo comes in. They're basically giving AI agents a performance review, making sure they're selecting the right tools, avoiding errors, and completing tasks successfully. This is a big deal because as AI gets more complex, we need ways to ensure they're trustworthy and don't mess things up. It's like having a safety net for AI, helping businesses use these powerful tools with confidence.
-
-**Want More?**
-
-Explore the full details here: https://venturebeat.com/ai/galileo-launches-agentic-evaluations-to-fix-ai-agent-errors-before-they-cost-you/
-","7
-"
-"Perplexity launches Sonar API, taking aim at Google and OpenAI with real-time AI search",https://venturebeat.com/ai/perplexity-launches-sonar-api-taking-aim-at-google-and-openai-with-real-time-ai-search/,2025-01-21 22:31:58+00:00,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
-
-Perplexity has launched an aggressive bid to capture the enterprise AI search market, unveiling Sonar, an API service that outperforms offerings from Google, OpenAI and Anthropic on key benchmarks while also undercutting their prices.
-
-The move signals a significant shift in the AI landscape, as Perplexity — now valued at $9 billion — directly challenges larger competitors by making its real-time, web-connected search capabilities available to developers and enterprises.
-
-The company’s dual-tier strategy — offering both a lightweight Sonar service and a more robust Sonar Pro version — targets different segments of the growing AI integration market.
-
-Perplexity’s Sonar Pro outperforms major AI competitors in the SimpleQA benchmark, which measures response accuracy. (Credit: Perplexity)
-
-
-
-Sonar’s real-time advantage: Bringing fresh data to enterprises
-
-Zoom has already integrated Sonar into its AI Companion 2.0 product, allowing users to access real-time information without leaving video conferences — a capability that could reshape how businesses conduct remote meetings and research.
-
-The pricing structure appears to be designed to disrupt the market. Sonar’s base tier costs $5 per 1,000 searches plus minimal token fees, while Sonar Pro, despite higher token costs, offers doubled citation density and multi-search capabilities for complex queries.
-
-What sets Sonar apart is its real-time web connection, a feature absent in many competing APIs that rely solely on training data. This approach could prove particularly valuable for enterprises requiring current information, although it may face challenges in applications requiring deterministic outputs.
-
-Perplexity’s two-tier API offering shows the feature differences between Sonar Pro (left) and the base Sonar service (right), with Pro featuring enhanced citation capability and support for complex queries. (Credit: Perplexity)
-
-Disruptive pricing: Affordable AI search for the enterprise market
-
-The launch comes at a pivotal moment in the AI industry, when companies are increasingly seeking ways to integrate AI search capabilities into their products. With recent benchmarks showing Sonar Pro achieving an 85.8 F-score on the SimpleQA benchmark — significantly outperforming GPT-4o and Claude — Perplexity appears positioned to capitalize on growing enterprise demand for accurate, citation-backed AI responses.
-
-The timing of this launch comes as Perplexity demonstrates significant market momentum, having just secured a $500 million funding round led by Institutional Venture Partners, which valued the company at $9 billion. This strategy could prove particularly effective as enterprises increasingly prioritize AI tools that provide verifiable, current information over black-box solutions.
-
-For technical decision makers, Sonar’s launch represents a new option in the AI toolkit, particularly for applications requiring real-time information access and citation tracking. However, the true test will be whether Perplexity can maintain its performance edge and pricing advantage as larger competitors inevitably adjust their strategies.","**Forget Google? This AI Search Tool Is Coming for Your Business**
-
-**Why Read This?**
-
-A company called Perplexity is shaking up the AI world with a new search tool named Sonar. It's not just another search engine; it’s designed to be better than Google and even ChatGPT for businesses, and it might just change how companies access information.
-
-**Why It Matters for You:**
-
-Imagine having a search tool that gives you real-time, up-to-date answers, and can show you exactly where that information came from. That's what Sonar is offering. It's fast, accurate, and directly connected to the web, unlike many AI tools that use outdated data. This could transform how companies research, make decisions, and even conduct meetings. Perplexity is also undercutting the prices of big tech companies, making their powerful AI search more accessible. It's a potential game-changer for businesses who need reliable, current information.
-
-**Want More?**
-
-Explore the full details here: https://venturebeat.com/ai/perplexity-launches-sonar-api-taking-aim-at-google-and-openai-with-real-time-ai-search/
-","8
-"
-OpenAI Stargate is a $500B bet: America’s AI Manhattan Project or costly dead end?,https://venturebeat.com/ai/openai-stargate-is-a-500b-bet-americas-ai-manhattan-project-or-costly-dead-end/,2025-01-22 16:38:00+00:00,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
-
-In case you missed it amid the flurry of executive orders coming out of the White House in the days since President Trump returned to office for his second non-consecutive term this week, the single largest investment in AI infrastructure was just announced yesterday afternoon. Known as “the Stargate Project,” it’s a $500 billion (half a trillion) effort from OpenAI, SoftBank, Oracle and MGX to form a new venture that will build “new AI infrastructure for OpenAI in the United States,” and as OpenAI put it in its announcement post on the social network X, to “support the re-industrialization of the United States… also provide a strategic capability to protect the national security of America and its allies.”
-
-The end goal: to build artificial general intelligence (AGI), or AI that outperforms humans on most economically valuable work, which has been OpenAI’s goal from the start — and ultimately, artificial superintelligence, or AI even smarter than humans can comprehend.
-
-Flanked by Trump himself, OpenAI cofounder and CEO Sam Altman appeared at the White House alongside Softbank CEO Masayoshi “Masa” Son and Oracle executive chairman Larry Ellison, saying “I’m thrilled we get to do this in the United States of America. I think this will be the most important project of this era — and as Masa said, for AGI to get built here, to create hundreds of thousands of jobs, to create a new industry centered here — we wouldn’t be able to do this without you, Mr. President.”
-
-Son called it “the beginning of our Golden Age.”
-
-Several high-profile technology companies have partnered with the initiative to build and operate the infrastructure. Arm, Microsoft, Nvidia, Oracle and OpenAI are among the key partners contributing their expertise and resources to the effort. Oracle, Nvidia and OpenAI, in particular, will collaborate closely on developing the computing systems essential for the project’s success.
-
-While some see the Stargate Project as a transformative investment in the future of AI, critics argue that it is a costly overreach, unnecessary in light of the rapid rise of leaner, open-source reasoning AI models like China’s DeepSeek R-1, which was just released earlier this week under a permissive MIT License — allowing it to be downloaded, fine-tuned or retrained, and used freely in commercial and noncommercial projects — and which matches or outperforms OpenAI’s own o1 reasoning models on key third-party benchmarks.
-
-The debate has become a lightning rod for competing visions of AI development and the geopolitical dynamics shaping the race for technological supremacy.
-
-A transformational leap forward?
-
-For many advocates, the Stargate Project represents an unparalleled commitment to innovation and national competitiveness, on par with prior eras of large infrastructure spending such as the U.S. highway system during the Eisenhower era (though of course, that was with public funds — not private as in this case).
-
-On X, AI commentator and former engineer David Shapiro said, “America just won geopolitics for the next 50 years with Project Stargate,” and likened the initiative to historic achievements like the Manhattan Project and NASA’s Apollo program.
-
-He argued that this level of investment in artificial intelligence is not only necessary but inevitable, given the stakes. Shapiro described the project as a strategic move to ensure that America maintains technological supremacy, framing the investment as critical to solving global problems, driving economic growth and securing national security. “When America decides something matters and backs it with this kind of money? It happens. Period,” he declared.
-
-In terms of practical applications, advocates point to the Stargate Project’s promise of AI-enabled breakthroughs in areas like cancer research, personalized medicine, and pandemic prevention.
-
-Oracle’s Ellison has specifically highlighted the potential to develop new personalized mRNA-based vaccines and cancer treatments, revolutionizing healthcare.
-
-A waste of (as yet un-procured) moneys?
-
-Despite this optimism, critics are challenging the project on multiple fronts, from its financial feasibility to its strategic direction.
-
-Elon Musk, head of the Department of Government Efficiency (DOGE) under President Donald Trump’s second administration and an OpenAI cofounder, cast doubt on the project’s funding.
-
-Musk, who has since launched his own AI company, xAI, and its Grok language model family, posted on his social network, X, “They don’t actually have the money,” alleging that SoftBank — Stargate’s primary financial backer — has secured “well under $10B.”
-
-In response, Altman replied this morning: “[I] genuinely respect your accomplishments and think you are the most inspiring entrepreneur of our time,” later writing that Musk was “wrong, as you surely know. want to come visit the first site already under way? this is great for the country. i realize what is great for the country isn’t always what’s optimal for your companies, but in your new role i hope you’ll mostly put [US flag emoji] first.”
-
-Others have questioned the timing and strategic rationale behind the initiative. Tech entrepreneur and commentator Arnaud Bertrand took to X to contrast OpenAI’s infrastructure-heavy approach with the leaner, more decentralized strategy employed by China’s High-Flyer Capital Management, creators of the new, highest performing open-source large language model (LLM), DeepSeek-R1, released earlier this week.
-
-Bertrand noted that DeepSeek has achieved performance parity with OpenAI’s latest models at just 3% of the cost, using far smaller GPU clusters and data centers.
-
-He described the divergence as a collision of philosophies, with OpenAI betting on massive centralized infrastructure while DeepSeek pursues democratized, cost-efficient AI development.
-
-“A fundamental question remains,” Bertrand wrote on X. “What will OpenAI customers be paying for exactly if much cheaper DeepSeek matches their latest models’ performance? Having spent an indecent amount of money on data centers isn’t a customer benefit in and of itself.”
-
-Bertrand further argued that OpenAI’s focus on infrastructure may represent outdated thinking. “This $500B bet on infrastructure may be OpenAI fighting the last war,” he warned, pointing to DeepSeek’s success as evidence that innovation and agility — not scale — are the key drivers of modern AI progress.
-
-The big philosophical divide: Will centralized or decentralized AI win out in the end?
-
-At its core, the Stargate debate reflects a deeper philosophical divide about the future of AI. Proponents of the project argue that massive centralized infrastructure is essential to unlock artificial general intelligence (AGI) and tackle the world’s most pressing challenges. They view Stargate as a strategic imperative for maintaining U.S. global leadership in technology, especially in the face of rising competition from China.
-
-Critics, however, question whether such centralization is necessary — or even viable — in an era when decentralized and open-source approaches are yielding increasingly competitive results. Bertrand, for example, compared the current AI race to the rivalry between Apple and Microsoft in the 1980s and 1990s.
-
-Apple’s vertically integrated, premium ecosystem ultimately lost market dominance to Microsoft’s commoditized and widely accessible operating systems. He suggested that OpenAI’s customers may similarly gravitate toward more affordable alternatives like DeepSeek if the performance gap continues to narrow.
-
-The debate over the Stargate Project extends beyond the tech industry, touching on national and global policy issues. Advocates see it as a necessary investment to ensure the U.S. retains its technological edge and addresses existential challenges like climate change, healthcare, and economic inequality. Skeptics worry it may divert resources from more effective and inclusive AI strategies, particularly as open-source models gain momentum.
-
-The involvement of figures like Elon Musk, who occupies a unique position as both a government insider and a competitor to OpenAI through his xAI startup, adds further complexity to the discourse, as it challenges the project from within the same seat of power from which it was announced.
-
-The Stargate Project is undeniably one of the most ambitious undertakings in the history of artificial intelligence, but its ultimate impact remains uncertain. If successful, it could reindustrialize the U.S. economy, secure American dominance in AI, and drive transformative breakthroughs across multiple industries. If its critics are correct, however, it could be remembered as a costly misstep — an investment that failed to anticipate the rise of leaner, more decentralized AI models.
-
-As construction begins in Texas, the philosophical and strategic divide between centralized and decentralized approaches to AI has never been more pronounced. The stakes are enormous, and the outcome of this debate could shape the trajectory of artificial intelligence — and global power — for decades to come. For now, the world watches as America’s most ambitious AI initiative takes its first steps, while challengers like China’s DeepSeek continue to quietly rewrite the rules of the game.","**Is This the Next Moonshot? The $500 Billion Bet on AI That Could Change Everything**
-
-**Why Read This?**
-
-Hold on to your hats! A massive project called ""Stargate"" just launched, and it's about building super-powerful AI right here in the US. We're talking hundreds of billions of dollars and a plan to create AI smarter than humans. Is it genius or a crazy gamble?
-
-**Why It Matters for You:**
-
-Imagine a world where AI can solve huge problems, like curing diseases and stopping pandemics. That's the vision behind Stargate. It's like the government and big tech companies are teaming up to build the ultimate AI, which they hope will give America a big tech advantage. But here's the twist: some experts think this is a waste of money. They argue that smaller, cheaper AI is already catching up. So, is this going to be a historic leap forward, or just a very expensive mistake? The debate is heating up, and it’s crucial for everyone to pay attention because the future of AI could be shaped by this project.
-
-**Want More?**
-
-Explore the full details here: https://venturebeat.com/ai/openai-stargate-is-a-500b-bet-americas-ai-manhattan-project-or-costly-dead-end/
+Explore the full details here: https://www.technologyreview.com/2025/02/05/1110983/whats-next-for-smart-glasses/
 ","9
+","Artificial Intelligence and Wearable Technology
 "
-Gaming comedy Mythic Quest Season 4 debuts on January 29 on Apple TV+,https://venturebeat.com/games/gaming-comedy-mythic-quest-season-4-debuts-on-january-29-on-apple-tv/,2025-01-24 23:16:00+00:00,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+Four Chinese AI startups to watch beyond DeepSeek,https://www.technologyreview.com/2025/02/04/1110942/four-chinese-ai-startups-deepseek/,2025-02-04 00:00:00,"An elite group of companies known as the “Six Tigers”—Stepfun, Zhipu, Minimax, Moonshot, 01.AI, and Baichuan—are generally considered to be at the forefront of China’s AI sector. But alongside them, research-focused firms like DeepSeek and ModelBest continue to grow in influence. Some, such as Minimax and Moonshot, are giving up on costly foundational model training to hone in on building consumer-facing applications on top of others’ models. Others, like Stepfun and Infinigence AI, are doubling down on research, driven in part by US semiconductor restrictions.
 
-Season 4 of a TV show is not something I write about very often, given my focus is video games. But Season 4 of Mythic Quest is another matter.
+We have identified these four Chinese AI companies as the ones to watch.
 
-Debuting with the first two episodes on January 29 on Apple TV+, the show brings back the workplace comedy about a video game studio. The ensemble cast returns with stars including Rob McElhenney (as the mercurial creative director Ian Grimm) and Charlotte Nicdao (tech leader Poppy Li) and more. The show is good at skewering the sometimes ridiculous culture of video game industry, and it’s on the mark as it was originally created by Ubisoft.
+Stepfun
 
-The show is silly as usual, but I like how one of the opening scenes is about Play Pen, a user-generated content gimmick aimed at reviving the studio’s core online game. By the second episode, the users are all busy making sex games and the studio has to figure out what to do about it. David enlists the help of the studio’s ethics committee to find the answer. And, of course, AI is the next big trend that gets skewered in the show.
+Founded in April 2023 by former Microsoft senior vice president Jiang Daxin, Stepfun emerged relatively late onto the AI startup scene, but it has quickly become a contender thanks to its portfolio of foundational models. It is also committed to building artificial general intelligence (AGI), a mission a lot of Chinese startups have given up on.
 
-Game tester Rachel (played by Ashly Burch) has now been appointed the head of monetization for the studio. She will be hard-pressed to be more evil than Brad Bakshi (played by Dani Pudi) at making money.
-
-The studio’s boss David Brittlesbee (played by David Hornsby, executive producer) continues to be caught in between the studio leads and the corporate headquarters. It’s still all-too-real when it comes to references to silly things in the game industry. Under preview, I’ve been checking it out.
-
-The opening show, Boundaries, spells out the new responsibilities and boundary lines being drawn by the characters as their lives change. Ian and Poppy have rejoined the studio after striking out on their own. But Poppy, ever the programming workaholic, now isn’t working as hard because she has a new boyfriend. It’s interesting in that the show recognizes real-world game development problems, like too much crunch, or long work hours, often unpaid. So, of course, Poppy creates an AI version of herself to do work for her and help Ian with his middle-of-the-night strokes of brilliance.
-
-The season will have 10 episodes, with the final one dropping on Apple TV+ on March 26.
-
-Mythic Quest is executive produced by McElhenney and Charlie Day under their RCG banner, Michael Rotenberg and Nicholas Frenkel on behalf of 3Arts, and Margaret Boykin, Austin Dill, and Gérard Guillemot for Ubisoft Film & Television. Hornsby and Megan Ganz also executive produce. The series is produced for Apple TV+ by Lionsgate, 3 Arts Entertainment and Ubisoft. The first three seasons of Mythic Quest are now streaming globally on Apple TV+.
-
-In the new season, the show also has an expansion of the Mythic Quest universe, Side Quest, which explores the lives of employees, players and fans who are impacted by the game in an anthology format. If you need a rest from CNN/Fox News all the time and our current political landscape, I recommend Mythic Quest as a nice diversion.","**Gamers and Non-Gamers: You Need to Watch This Hilarious Show**
+With backing from investors like Tencent and funding from Shanghai’s government, the firm released 11 foundational AI models last year—spanning language, visual, video, audio, and multimodal systems. Its biggest language model so far, Step-2, has over 1 trillion parameters (GPT-4 has about 1.8 trillion). It is currently ranked behind only ChatGPT, DeepSeek, Claude, and Gemini’s models on LiveBench, a third-party benchmark site that evaluates the capabilities of large language models.","## Beyond the Headlines: 4 Chinese AI Startups You Need to Know
 
 **Why Read This?**
 
-Forget serious news for a bit! ""Mythic Quest,"" a comedy about a video game studio, is back for Season 4 on Apple TV+. It's not just for gamers; it's a funny take on workplace craziness, and this season they're tackling the wild world of AI.
+While everyone's talking about the big names in Chinese AI, a few under-the-radar startups are making serious waves. We're spotlighting four companies that are pushing the boundaries of AI research and development in China.
 
 **Why It Matters for You:**
 
-Imagine a workplace where everything is just a little bit ridiculous, from user-created sex games to an AI version of yourself. ""Mythic Quest"" nails it with its over-the-top characters and satire of tech culture. This season, they're skewering AI by having one of the main characters create an AI to do her work for her. If you've ever felt overwhelmed by tech, or just need a good laugh, this show is for you. It's a smart comedy that's both silly and surprisingly insightful.
+Think of these companies as the dark horses in the AI race. One, Stepfun, is even daring to pursue ""artificial general intelligence"" (AGI), a goal many others have abandoned. They're releasing powerful AI models that rival those from OpenAI and Google. These startups are not just building apps; they're creating the fundamental technologies that will power the future of AI. If you want to stay ahead of the curve, keep an eye on these innovators.
 
 **Want More?**
 
-Explore the full details here: https://venturebeat.com/games/gaming-comedy-mythic-quest-season-4-debuts-on-january-29-on-apple-tv/
+Explore the full details here: https://www.technologyreview.com/2025/02/04/1110942/four-chinese-ai-startups-deepseek/
 ","7
-"
-Tech leaders respond to the rapid rise of DeepSeek,https://venturebeat.com/ai/tech-leaders-respond-to-the-rapid-rise-of-deepseek/,2025-01-24 21:10:39+00:00,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+",
+OpenAI’s new agent can compile detailed reports on practically any topic,https://www.technologyreview.com/2025/02/03/1110826/openais-new-agent-can-compile-detailed-reports-on-practically-any-topic/,2025-02-03 00:00:00,"OpenAI claims the tool represents a significant step toward its overarching goal of developing artificial general intelligence (AGI) that matches (or surpasses) human performance. It says that what takes the tool “tens of minutes” would take a human many hours.
 
-If you hadn’t heard, there’s a new AI star in town: DeepSeek, the subsidiary of Hong Kong-based quantitative analysis (quant) firm High-Flyer Capital Management, has sent shockwaves throughout Silicon Valley and the wider world with its release earlier this week of a new open source large reasoning model, DeepSeek R1, which matches OpenAI’s most powerful available model o1 — and at a fraction of the cost to users and to the company itself (when training it).
+In response to a single query, such as “Draw me up a competitive analysis between streaming platforms,” Deep Research will search the web, analyze the information it encounters, and compile a detailed report that cites its sources. It’s also able to draw from files uploaded by users.
 
-While the advent of DeepSeek R1 has already reshuffled a consistently topsy turvy, fast moving, intensely competitive market for new AI models — previous months saw OpenAI jockeying with Anthropic and Google for the most powerful proprietary models available, while Meta Platforms often came in with “close enough” open source rivals — the difference this time is the company behind the hot model is based in China, the geopolitical “frenemy” of the U.S., and whose tech sector was widely viewed, until this moment, as inferior to that of Silicon Valley.
-
-As such, it’s caused no shortage of hand-wringing and existentialism from U.S. and western bloc techies, who are suddenly doubting OpenAI and the general big tech strategy of throwing more money and more compute (graphics processing units, GPUs, the powerful gaming chips typically used to train AI models) toward the problem of inventing ever more powerful models.
-
-Yet some Western tech leaders have had a largely positive public response to DeepSeek’s rapid ascent.
-
-Marc Andreessen, a co-inventor of the pioneering Mosaic web browser, co-founder of the Netscape browser company and current general partner at the famed Andreessen Horowitz (a16z) venture capital firm, posted on X today: “Deepseek R1 is one of the most amazing and impressive breakthroughs I’ve ever seen — and as open source, a profound gift to the world [robot emoji, salute emoji].”
-
-Yann LeCun, the Chief AI Scientist for Meta’s Fundamental AI Research (FAIR) division, posted on his LinkedIn account:
-
-“To people who see the performance of DeepSeek and think:
-
-‘China is surpassing the US in AI.’
-
-You are reading this wrong.
-
-The correct reading is:
-
-‘Open source models are surpassing proprietary ones.’
+OpenAI developed Deep Research using the same “chain of thought” reinforcement-learning methods it used to create its o1 multistep reasoning model. But while o1 was designed to focus primarily on mathematics, coding, or other STEM-based tasks, Deep Research can tackle a far broader range of subjects. It can also adjust its responses in reaction to new data it comes across in the course of its research.
 
 
 
-DeepSeek has profited from open research and open source (e.g. PyTorch and Llama from Meta)
+This doesn’t mean that Deep Research is immune from the pitfalls that befall other AI models. OpenAI says the agent can sometimes hallucinate facts and present its users with incorrect information, albeit at a “notably” lower rate than ChatGPT. And because each question may take between five and 30 minutes for Deep Research to answer, it’s very compute intensive—the longer it takes to research a query, the more computing power required.
 
-They came up with new ideas and built them on top of other people’s work.
+Despite that, Deep Research is now available at no extra cost to subscribers to OpenAI’s paid Pro tier and will soon roll out to its Plus, Team, and Enterprise users.",,,
+DeepSeek might not be such good news for energy after all,https://www.technologyreview.com/2025/01/31/1110776/deepseek-might-not-be-such-good-news-for-energy-after-all/,2025-01-31 00:00:00,"Add the fact that other tech firms, inspired by DeepSeek’s approach, may now start building their own similar low-cost reasoning models, and the outlook for energy consumption is already looking a lot less rosy.
 
-Because their work is published and open source, everyone can profit from it.
+The life cycle of any AI model has two phases: training and inference. Training is the often months-long process in which the model learns from data. The model is then ready for inference, which happens each time anyone in the world asks it something. Both usually take place in data centers, where they require lots of energy to run chips and cool servers.
 
-That is the power of open research and open source.”
+On the training side for its R1 model, DeepSeek’s team improved what’s called a “mixture of experts” technique, in which only a portion of a model’s billions of parameters—the “knobs” a model uses to form better answers—are turned on at a given time during training. More notably, they improved reinforcement learning, where a model’s outputs are scored and then used to make it better. This is often done by human annotators, but the DeepSeek team got good at automating it.
 
-And even Mark “Zuck” Zuckerberg, Meta AI’s founder and CEO, seemed to seek to counter the rise of DeepSeek with his own post on Facebook promising that a new version of Facebook’s open source AI model family Llama would be “the leading state of the art model” when it is released sometime this year. As he put it:
+The introduction of a way to make training more efficient might suggest that AI companies will use less energy to bring their AI models to a certain standard. That’s not really how it works, though.
 
-“This will be a defining year for AI. In 2025, I expect Meta AI will be the leading assistant serving more than 1 billion people, Llama 4 will become the leading state of the art model, and we’ll build an AI engineer that will start contributing increasing amounts of code to our R&D efforts. To power this, Meta is building a 2GW+ datacenter that is so large it would cover a significant part of Manhattan. We’ll bring online ~1GW of compute in ’25 and we’ll end the year with more than 1.3 million GPUs. We’re planning to invest $60-65B in capex this year while also growing our AI teams significantly, and we have the capital to continue investing in the years ahead. This is a massive effort, and over the coming years it will drive our core products and business, unlock historic innovation, and extend American technology leadership. Let’s go build!“
+“⁠Because the value of having a more intelligent system is so high,” wrote Anthropic cofounder Dario Amodei on his blog, it “causes companies to spend more, not less, on training models.” If companies get more for their money, they will find it worthwhile to spend more, and therefore use more energy. “The gains in cost efficiency end up entirely devoted to training smarter models, limited only by the company’s financial resources,” he wrote. It’s an example of what’s known as the Jevons paradox.
 
-He even shared a graphic showing the 2 gigawatt datacenter mentioned in his post overlaid on Manhattan:
+But that’s been true on the training side as long as the AI race has been going. The energy required for inference is where things get more interesting.
 
-Clearly, even as he espouses a commitment to open source AI, Zuck is not convinced that DeepSeek’s approach of optimizing for efficiency while leveraging far fewer GPUs than major labs is the right one for Meta, or for the future of AI.
+DeepSeek is designed as a reasoning model, which means it’s meant to perform well on things like logic, pattern-finding, math, and other tasks that typical generative AI models struggle with. Reasoning models do this using something called “chain of thought.” It allows the AI model to break its task into parts and work through them in a logical order before coming to its conclusion.
 
-But with U.S. companies raising and/or spending record sums on new AI infrastructure that many experts have noted depreciate rapidly (due to hardware/chip and software advancements), the question remains which vision of the future will win out in the end to become the dominant AI provider for the world. Or maybe it will always be a multiplicity of models each with a smaller market share? Stay tuned, because this competition is getting closer and fiercer than ever.","**Is the AI Race About to Get a Whole Lot More Interesting?**
+You can see this with DeepSeek. Ask whether it’s okay to lie to protect someone’s feelings, and the model first tackles the question with utilitarianism, weighing the immediate good against the potential future harm. It then considers Kantian ethics, which propose that you should act according to maxims that could be universal laws. It considers these and other nuances before sharing its conclusion. (It finds that lying is “generally acceptable in situations where kindness and prevention of harm are paramount, yet nuanced with no universal solution,” if you’re curious.)",,,
+How the Rubin Observatory will help us understand dark matter and dark energy,https://www.technologyreview.com/2025/02/04/1110927/how-the-rubin-observatory-will-help-us-understand-dark-matter-and-dark-energy/,2025-02-04 00:00:00,"Other observatories, like the Hubble Space Telescope and the James Webb Space Telescope, have already begun stitching together this map from their images of galaxies. But Rubin plans to do so with exceptional precision and scale, analyzing the shapes of billions of galaxies rather than the hundreds of millions that current telescopes observe, according to Andrés Alejandro Plazas Malagón, Rubin operations scientist at SLAC National Laboratory. “We’re going to have the widest galaxy survey so far,” Plazas Malagón says.
+
+Capturing the cosmos in such high definition requires Rubin’s 3.2-billion-pixel Large Synoptic Survey Telescope (LSST). The LSST boasts the largest focal plane ever built for astronomy, granting it access to large patches of the sky.
+
+The telescope is also designed to reorient its gaze every 34 seconds, meaning astronomers will be able to scan the entire sky every three nights. The LSST will revisit each galaxy about 800 times throughout its tenure, says Steven Ritz, a Rubin project scientist at the University of California, Santa Cruz. The repeat exposures will let Rubin team members more precisely measure how the galaxies are distorted, refining their map of dark matter’s web. “We’re going to see these galaxies deeply and frequently,” Ritz says. “That’s the power of Rubin: the sheer grasp of being able to see the universe in detail and on repeat.”
+
+The ultimate goal is to overlay this map on different models of dark matter and examine the results. The leading idea, the cold dark matter model, suggests that dark matter moves slowly compared to the speed of light and interacts with ordinary matter only through gravity. Other models suggest different behavior. Each comes with its own picture of how dark matter should clump in halos surrounding galaxies. By plotting its chart of dark matter against what those models predict, Rubin might exclude some theories and favor others.
+
+A cosmic tug of war
+
+If dark matter lies on one side of a magnet, pulling matter together, then you’ll flip it over to find dark energy, pushing it apart. “You can think of it as a cosmic tug of war,” Plazas Malagón says.
+
+Dark energy was discovered in the late 1990s, when astronomers found that the universe was not only expanding, but doing so at an accelerating rate, with galaxies moving away from one another at higher and higher speeds.","## Unveiling the Universe's Secrets: A New Telescope is About to Map Dark Matter and Dark Energy
 
 **Why Read This?**
 
-There's a new AI challenger in town, and it's turning the tech world upside down. A company called DeepSeek just released an AI that's as powerful as the best out there, but it's much cheaper and open for anyone to use. Get ready for a shake-up in the world of AI!
+Get ready for a cosmic revolution! The Rubin Observatory is about to turn on its giant eye and map the universe in unprecedented detail, helping us understand the mysterious forces of dark matter and dark energy.
 
 **Why It Matters for You:**
 
-Imagine a world where the most powerful AI isn't locked away by big companies, but available to everyone. That's what DeepSeek is trying to achieve. They've created a powerful AI that doesn't cost a fortune to train or use, and some experts think it might just change how AI is developed and accessed. The rise of DeepSeek is making tech leaders rethink their strategies, and it's raising some big questions: Do we need huge data centers and endless resources to build great AI, or can innovation come from smaller, more efficient models? The answer could impact the future of AI and who gets to benefit from it.
+Imagine a telescope so powerful it can scan the entire sky every three nights and analyze billions of galaxies. That's Rubin! It's like having a super-powered detective trying to solve the universe's biggest mysteries: What is dark matter? What is dark energy? And how do they shape the cosmos? By mapping how galaxies are distorted, Rubin will test different theories and potentially rewrite our understanding of the universe. Buckle up for some mind-blowing discoveries!
 
 **Want More?**
 
-Explore the full details here: https://venturebeat.com/ai/tech-leaders-respond-to-the-rapid-rise-of-deepseek/
+Explore the full details here: https://www.technologyreview.com/2025/02/04/1110927/how-the-rubin-observatory-will-help-us-understand-dark-matter-and-dark-energy/
+","9
+","Astronomy and Cosmology
+"
+European AI startups raised $8 billion in 2024,https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/,2025-02-04 00:00:00,"In just a few days, France will host the Artificial Intelligence Action Summit, with heads of state flocking to Paris to meet global tech leaders. They’ll most likely announce some big investments and diplomatic agreements focused on safety or the environmental impact of artificial intelligence.
+
+Ahead of the summit, early-stage VC firm Galion.exe, growth investment firm Revaia, and advisory firm Chausson Partners teamed up to create the French AI Report, which looks at the current trends in the tech ecosystem.
+
+While all eyes are currently on the U.S. and China with OpenAI looking to raise tens of billions of dollars and DeepSeek capturing everyone’s attention, there has been a boom in AI startups in Europe, too. In 2024 alone, AI companies represented around 20% of all VC funding in the region.
+
+In total, that represents around $8 billion in funding for AI startups in 2024. That metric is most likely going to grow rapidly, as AI startups are still relatively young. Seventy percent of the capital raised by AI startups in 2024 was for a seed to Series B round.
+
+European countries that tend to attract VC funding in general have also become the main AI investment hubs, with the U.K. leading the group, France and Germany following suit, and the Nordics punching above its demographic weight. Here’s the breakdown from 2020 to 2024:
+
+Interestingly, as AI companies become bigger, they tend to attract international investors, with U.S. VC firms accounting for around 50% of money invested in AI companies at the Series C round and later.
+
+In France more specifically, there are “more than 750 startups that have created 35,000 jobs and operate in all areas that are transforming today’s society,” Minister Delegate for artificial intelligence and digital technologies Clara Chappaz said at a press conference.
+
+She also mentioned that there are 2,000 scientists focused on AI research and 600 doctorate students working on artificial intelligence. And you may have noticed that there are quite a few French engineers and researchers working for AI companies in the U.S., too.
+
+The team behind the French AI Report looked more closely at the top 400 AI startups in France and tried to identify the rising stars. While Mistral AI and Poolside are already some familiar names for readers who have followed the AI industry, the vast majority of AI startups aren’t working on the next foundation model.
+
+On the infrastructure front, some companies are optimizing the data workflows and pipelines, such as Linkup and Kestra, or improving inference performance, such as ZML, or developing agents that can sift through large data sets and improve productivity. Dust is a good example of that.
+
+But the reality is that most AI startups in France are focusing on applications for specific verticals. Based on this report, two important areas for AI startups in France are health and climate.
+
+Owkin and its spin-off biotech company Bioptimus have been leading the pack on the health tech front, but it’s a surprisingly diverse group of companies with three big areas of interest: imaging tools, drug discovery, and medical treatment improvement.
+
+Similarly, while a large chunk of the AI industry is focused on productivity gains for office workers, artificial intelligence is also actively being used to build the next-generation of climate startups. In addition to agritech, carbon and energy management — two topics that are related — seem to be a big focus. There are also a handful of promising new materials companies that are emerging (Altrove, for instance).
+
+All the companies included in the list can be found here. You’ll also find plenty of AI companies working on one job function — sales, customer care, HR or legal — and using AI to simplify the most common tasks.
+
+Of course, some companies aren’t going to be there in five years. But many of them are currently growing at a rapid pace. We’re still at the beginning of the AI revolution, and though it’s easy to think about the AI industry as a zero-sum game with one country or one company “winning” over the others, it seems like the AI boom is more distributed than expected.","## Europe's AI Boom: $8 Billion Invested in 2024 - What's Driving the Growth?
+
+**Why Read This?**
+
+While the US and China dominate AI headlines, Europe is quietly becoming a hotbed for AI innovation. A recent report reveals a massive $8 billion invested in European AI startups in 2024.
+
+**Why It Matters for You:**
+
+This isn't just about tech giants. Most of the funding is going to early-stage startups, meaning there's a wave of new AI applications on the horizon. The report highlights France as a major player, with over 750 AI startups focusing on everything from healthcare to climate solutions. This AI revolution is creating jobs, attracting international investment, and changing how businesses operate. If you're looking for the next big thing in AI, Europe is a good place to start.
+
+**Want More?**
+
+Explore the full details here: https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/
 ","8
+","Artificial Intelligence and Venture Capital
 "
-How a top Chinese AI model overcame US sanctions,https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/,2025-01-24 00:00:00,"“This could be a truly equalizing breakthrough that is great for researchers and developers with limited resources, especially those from the Global South,” says Hancheng Cao, an assistant professor in information systems at Emory University.
+Google wants Search to be more like an AI assistant in 2025,https://techcrunch.com/2025/02/04/google-wants-search-to-be-more-like-an-ai-assistant-in-2025/,2025-02-04 00:00:00,"Google Search is in the midst of a “journey” around AI, Google CEO Sundar Pichai said during the company’s earnings call on Tuesday. The start of that journey was AI overviews, a controversial and monumental shift in how Google delivers information to billions of Search users.
 
-DeepSeek’s success is even more remarkable given the constraints facing Chinese AI companies in the form of increasing US export controls on cutting-edge chips. But early evidence shows that these measures are not working as intended. Rather than weakening China’s AI capabilities, the sanctions appear to be driving startups like DeepSeek to innovate in ways that prioritize efficiency, resource-pooling, and collaboration.
+But that was just the beginning.
 
-To create R1, DeepSeek had to rework its training process to reduce the strain on its GPUs, a variety released by Nvidia for the Chinese market that have their performance capped at half the speed of its top products, according to Zihan Wang, a former DeepSeek employee and current PhD student in computer science at Northwestern University.
+“As AI continues to expand the universe of queries that people can ask, 2025 is going to be one of the biggest years for search innovation yet,” said Pichai during his opening remarks on the call.
 
-DeepSeek R1 has been praised by researchers for its ability to tackle complex reasoning tasks, particularly in mathematics and coding. The model employs a “chain of thought” approach similar to that used by ChatGPT o1, which lets it solve problems by processing queries step by step.
+Throughout the call, Pichai laid out the next phase of Google’s plan to pack Search with AI features from the company’s research lab, DeepMind. The Search product is slowly becoming more like an AI assistant that browses the internet for you, looks at web pages, and returns an answer.
 
-Dimitris Papailiopoulos, principal researcher at Microsoft’s AI Frontiers research lab, says what surprised him the most about R1 is its engineering simplicity. “DeepSeek aimed for accurate answers rather than detailing every logical step, significantly reducing computing time while maintaining a high level of effectiveness,” he says.","**China's AI Secret Weapon: Outsmarting Sanctions with Smarter Tech**
+It’s a long way off from a simple search system that gives you ten blue links.
+
+Google has been on this path for a few years now, ever since the search giant was caught flat footed by the release of OpenAI’s ChatGPT in 2022. The shift has massive implications for websites that rely on Google’s traffic and businesses that buy ads on Google Search.
+
+Not everyone is happy about it, but Google is pushing ahead.
+
+When asked about the future of AI and Search, Pichai said that, “You can imagine the future with Project Astra,” a reference to DeepMind’s multimodal AI system, which can process live video from a camera or computer screen and answer user questions about what the AI sees in real time.
+
+Google has big plans for Project Astra in other parts of its business too. The company says it wants the multimodal AI system to power a pair of augmented reality smart glasses one day, which Google will create the operating system for.
+
+Pichai also mentioned Gemini Deep Research – an AI agent that takes several minutes to create long research reports – as a feature that could fundamentally shift how people use Google Search. Deep Research automates work that people have traditionally done with Google Search. But now, it seems Google wants to do that research for users.
+
+“You are really dramatically expanding the types of use cases for which Search can work – things which don’t always get answered instantaneously, but can take some time to answer,” said Pichai. “Those are all areas of exploration, and you will see us putting new experiences in front of users through the course of 2025.”
+
+Pichai said further that Google has a “clear sense” of the Search experiences it could create with another one of Google’s AI agents, Project Mariner. That system can use the front-end of websites on behalf of users, making it unnecessary for people to use websites themselves.
+
+Google’s CEO also said there’s an “opportunity” around letting users interact more and ask follow-up questions with Google Search. Pichai was light on details there, but it sounds like Google is considering ways to make its Search interface more like a chatbot.
+
+“I think the [Search] product will evolve even more,” said Pichai. “As you make it more easy for people to interact and ask follow-up questions, etc., I think we have an opportunity to drive further growth.”
+
+Today, ChatGPT has matured into one of the internet’s most used products, with hundreds of millions of weekly users. It presents an existential threat to Google Search’s long-term business. To address it, Google is not only building a competitor AI chatbot with Gemini, but also injecting AI features directly in Search.
+
+Of course, the first step on Google Search’s AI journey did not go very well. When Google rolled out AI overviews to all of Google Search, the system displayed inaccurate and weird AI hallucinations. These included answers that told people to eat rocks and put glue on their pizza. Google admitted at the time that AI overviews needed some work.
+
+Despite this negative rollout, it appears Google is just getting started putting AI into Search.",,,
+"Alphabet praises DeepSeek, but it’s massively ramping up its AI spending",https://techcrunch.com/2025/02/04/alphabet-praises-deepseek-but-its-massively-ramping-up-its-ai-spending/,2025-02-04 00:00:00,"Booming AI budgets seemed at risk last week when DeepSeek crashed Nvidia’s stock based on speculation that its cheaper AI models would lower demand for AI chips and data centers.
+
+Alphabet CEO Sundar Pichai has certainly noticed the Chinese AI company, praising its work as “tremendous” in Alphabet’s latest earnings call (while adding that some of Gemini’s models are just as efficient).
+
+But just like Meta, Alphabet isn’t throwing down the towel in Big Tech’s AI spending wars. In its latest earnings report, Alphabet announced it would boost capital expenditures to $75 billion this year — a whopping 42% increase — to accelerate its AI progress.
+
+Alphabet is betting that cheaper AI will massively boost demand for its services, rather than making it basically free and threatening its business models. The company noted it stands to benefit from this rise in usage — known as inference — thanks to its billions of existing users.
+
+“Part of the reason we are so excited about the AI opportunity is we know we can drive extraordinary use cases because the cost of actually using it is going to keep coming down, which will make more use cases feasible,” Pichai said during the earnings call. “And that’s the opportunity space. It’s as big as it comes, and that’s why you’re seeing us invest to meet that moment.”
+
+Meta CEO Mark Zuckerberg made similar comments in Meta’s earnings call last week, pledging to spend “hundreds of billions” on AI in the long term despite all the DeepSeek buzz.
+
+Whether this all pans out is unclear, but for now, tech giants can afford the AI bills, and when (or if) they’ll slow down is anyone’s guess.",,,
+AMD pulls up the release of its next-gen data center GPUs,https://techcrunch.com/2025/02/04/amd-pulls-up-the-release-of-its-next-gen-data-center-gpus/,2025-02-04 00:00:00,"AMD says that it plans to launch its next major data center GPUs, the AMD Instinct MI350 series, sooner than originally announced.
+
+During the company’s Q4 2024 earnings call Tuesday, AMD CEO Lisa Su said AMD plans to sample the MI350 with “lead customers” this quarter and “accelerate” production shipments to “mid-year.”
+
+“So, we had previously stated that we thought we would launch [the MI350] in the second half of [2025],” Su said. “And frankly, that bring-up has come up better than we expected, and there’s very strong customer demand, so we are actually going to pull that production ramp into the middle of the year, which improves our relative competitiveness.”
+
+AMD’s data center revenue pales in comparison to rival Nvidia’s, which regularly eclipses tens of billions of dollars per quarter. But AMD has gained ground in the last year, acquiring and retaining customers, including Meta, Microsoft, and IBM.
+
+AMD says that sales of AMD Instinct chips reached over $5 billion in 2024, and the company expects its data center segment to grow “double digits” in 2025. Last year, data center revenue made up around half ($3.9 billion) of AMD’s overall revenue ($7.1 billion), the company reported on Tuesday.
+
+“I believe that the demand for AI compute is strong,” Su continued. “[MI350] will be a catalyst for the data center GPU business … We see [the data center] business growing to tens of billions as we go through the next couple of years.”
+
+Investors seemed generally pleased with AMD’s fourth-quarter results. The company’s stock was up 4.58% as of publish time.",,,
+Google removes pledge to not use AI for weapons from website,https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/,2025-02-04 00:00:00,"In Brief
+
+Google removed a pledge to not build AI for weapons or surveillance from its website this week. The change was first spotted by Bloomberg. The company appears to have updated its public AI principles page, erasing a section titled “applications we will not pursue,” which was still included as recently as last week.
+
+Asked for comment, the company pointed TechCrunch to a new blog post on “responsible AI.” It notes, in part, “we believe that companies, governments, and organizations sharing these values should work together to create AI that protects people, promotes global growth, and supports national security.”
+
+Google’s newly updated AI principles note the company will work to “mitigate unintended or harmful outcomes and avoid unfair bias,” as well as align the company with “widely accepted principles of international law and human rights.”
+
+In recent years, Google’s contracts to provide the U.S. and Israeli militaries with cloud services have sparked internal protests from employees. The company has maintained that its AI is not used to harm humans; however, the Pentagon’s AI chief recently told TechCrunch that some company’s AI models are speeding up the U.S. military’s kill chain.","## Google's AI Pledge Gone: What Does It Mean for the Future of Warfare?
 
 **Why Read This?**
 
-Think sanctions stop innovation? Think again! A Chinese company called DeepSeek just released a super-smart AI that's beating the odds. They did it by being clever, not just by throwing money at the problem, and it’s making people rethink how AI is developed.
+Google quietly removed its promise not to use AI for weapons or surveillance from its website. This is a big deal.
 
 **Why It Matters for You:**
 
-Imagine trying to build something amazing with limited resources. That's the challenge DeepSeek faced, and they nailed it. They created a powerful AI that can tackle complex problems, even with less powerful tech. This isn’t just about tech rivalry; it shows that innovation can come from anywhere, not just Silicon Valley. It's a story about how constraints can actually lead to smarter solutions, and how even with limitations, it's possible to create groundbreaking tech. This could mean a more diverse and accessible AI future for everyone.
+It raises serious questions about the ethics of AI development. Google's technology could now potentially be used in military applications, blurring the lines between tech innovation and warfare. While Google says it's committed to ""responsible AI,"" the Pentagon admits some AI models are speeding up the military's ""kill chain."" This move highlights the growing debate over the role of tech companies in national security and the potential consequences of AI in the wrong hands. Are we ready for AI-powered warfare?
 
 **Want More?**
 
-Explore the full details here: https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/
-","8
-"
-The US withdrawal from the WHO will hurt us all,https://www.technologyreview.com/2025/01/24/1110480/us-withdrawal-from-who-will-hurt-us-all/,2025-01-24 00:00:00,"The US is the biggest donor to the WHO, and the loss of this income is likely to have a significant impact on the organization, which develops international health guidelines, investigates disease outbreaks, and acts as an information-sharing hub for member states.
-
-But the US will also lose out. “It’s a very tragic and sad event that could only hurt the United States in the long run,” says William Moss, an epidemiologist at Johns Hopkins Bloomberg School of Public Health in Baltimore.
-
-Trump appears to take issue with the amount the US donates to the WHO. He points out that it makes a much bigger contribution than China, a country with a population four times that of the US. “It seems a little unfair to me,” he said as he prepared to sign the executive order.
-
-It is true that the US is far and away the biggest financial supporter of the WHO. The US contributed $1.28 billion over the two-year period covering 2022 and 2023. By comparison, the second-largest donor, Germany, contributed $856 million in the same period. The US currently contributes 14.5% of the WHO’s total budget.
-
-But it’s not as though the WHO sends a billion-dollar bill to the US. All member states are required to pay membership dues, which are calculated as a percentage of a country’s gross domestic product. For the US, this figure comes to $130 million. China pays $87.6 million. But the vast majority of the US’s contributions to the WHO are made on a voluntary basis—in recent years, the donations have been part of multibillion-dollar spending on global health by the US government. (Separately, the Bill and Melinda Gates Foundation contributed $830 million over 2022 and 2023.)
-
-There’s a possibility that other member nations will increase their donations to help cover the shortfall left by the US’s withdrawal. But it is not clear who will step up—or what implications it will have to change the structure of donations.","**US Pulls Out of Global Health Org: Why It Matters to You**
-
-**Why Read This?**
-
-The US is cutting ties with the World Health Organization (WHO), a group that helps keep us safe from disease outbreaks. This move is a big deal, and it's not just about politics. It could actually affect your health.
-
-**Why It Matters for You:**
-
-Imagine if there was no organization tracking and sharing information about new diseases or health risks around the world. That's what the WHO does. The US was a major funder, and now that they’re pulling out, it could have some serious consequences. This isn’t just about the US; it's about all of us. The WHO sets health guidelines, investigates outbreaks, and helps keep everyone informed. Without US support, the WHO might struggle to do its job as effectively. This means we could all be at a greater risk of health issues. It's a reminder that global health is connected, and what happens in one country can impact everyone.
-
-**Want More?**
-
-Explore the full details here: https://www.technologyreview.com/2025/01/24/1110480/us-withdrawal-from-who-will-hurt-us-all/
-","7
-"
-Why the next energy race is for underground hydrogen,https://www.technologyreview.com/2025/01/23/1110435/geologic-hydrogen/,2025-01-23 00:00:00,"I’ve been thinking about underground resources a lot this week, since I’ve been reporting a story about a new startup, Addis Energy. The company is looking to use subsurface rocks, and the conditions down there, to produce another useful chemical: ammonia. In an age of lab-produced breakthroughs, it feels like something of a regression to go digging for resources, but looking underground could help meet energy demand while also addressing climate change.
-
-It’s rare that hydrogen turns up in oil and gas operations, and for decades, the conventional wisdom has been that there aren’t large deposits of the gas underground. Hydrogen molecules are tiny, after all, so even if the gas was forming there, the assumption was that it would just leak out.
-
-However, there have been somewhat accidental discoveries of hydrogen over the decades, in abandoned mines or new well sites. There are reports of wells that spewed colorless gas, or flames that burned gold. And as people have looked more intentionally for hydrogen, they’ve started to find it.
-
-As it turns out, hydrogen tends to build up in very different rocks from those that host oil and gas deposits. While fossil-fuel prospecting tends to focus on softer rocks, like organic-rich shale, hydrogen seems most plentiful in iron-rich rocks like olivine. The gas forms when chemical reactions at elevated temperature and pressure underground pull water apart. (There’s also likely another mechanism that forms hydrogen underground, called radiolysis, where radioactive elements emit radiation that can split water.)
-
-Some research has put the potential amount of hydrogen available at around a trillion tons—plenty to feed our demand for centuries, even if we ramp up use of the gas.
-
-The past few years have seen companies spring up around the world to try to locate and tap these resources. There’s an influx in Australia, especially the southern part of the country, which seems to have conditions that are good for making hydrogen. One startup, Koloma, has raised over $350 million to aid its geologic hydrogen exploration.
-
-There are so many open questions for this industry, including how much hydrogen is actually going to be accessible and economical to extract. It’s not even clear how best to look for the gas today; researchers and companies are borrowing techniques and tools from the oil and gas industry, but there could be better ways.
-
-It’s also unknown how this could affect climate change. Hydrogen itself may not warm the planet, but it can contribute indirectly to global warming by extending the lifetime of other greenhouse gases. It’s also often found with methane, a super-powerful greenhouse gas that could do major harm if it leaks out of operations at a significant level.","**Hidden Below Our Feet: A New Energy Source That Could Change Everything**
-
-**Why Read This?**
-
-Forget solar panels for a minute! Scientists are exploring a hidden resource deep underground: hydrogen. Turns out, there could be a lot of it, and it could be a game-changer for our energy needs. It's like finding a secret stash of clean fuel right under our noses!
-
-**Why It Matters for You:**
-
-Imagine a world powered by a clean, abundant fuel source that’s hiding beneath our feet. That’s what this hidden hydrogen could be. Researchers are discovering that this gas naturally forms deep inside the Earth, and it might be a solution to climate change. This is more than just a scientific discovery; it’s a story about how we can rethink our approach to energy. While there are still questions about how to get it safely, and how much is really down there, it's a promising path that’s worth watching closely.
-
-**Want More?**
-
-Explore the full details here: https://www.technologyreview.com/2025/01/23/1110435/geologic-hydrogen/
-","8
-"
-OpenAI has upped its lobbying efforts nearly sevenfold,https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/,2025-01-21 00:00:00,"OpenAI did not respond to questions about its lobbying efforts.
-
-But perhaps more important, the disclosure is a clear signal of the company’s arrival as a political player, as its first year of serious lobbying ends and Republican control of Washington begins. While OpenAI’s lobbying spending is still dwarfed by its peers’—Meta tops the list of Big Tech spenders, with more than $24 million in 2024—the uptick comes as it and other AI companies have helped redraw the shape of AI policy.
-
-For the past few years, AI policy has been something like a whack-a-mole response to the risks posed by deepfakes and misinformation. But over the last year, AI companies have started to position the success of the technology as pivotal to national security and American competitiveness, arguing that the government must therefore support the industry’s growth. As a result, OpenAI and others now seem poised to gain access to cheaper energy, lucrative national security contracts, and a more lax regulatory environment that’s unconcerned with the minutiae of AI safety.
-
-While the big players seem more or less aligned on this grand narrative, messy divides on other issues are still threatening to break through the harmony on display at President Trump’s inauguration this week.
-
-AI regulation really began in earnest after ChatGPT launched in November 2022. At that point, “a lot of the conversation was about responsibility,” says Liana Keesing, campaigns manager for technology reform at Issue One, a democracy nonprofit that tracks Big Tech’s influence.
-
-Companies were asked what they’d do about sexually abusive deepfake images and election disinformation. “Sam Altman did a very good job coming in and painting himself early as a supporter of that process,” Keesing says.
-
-OpenAI started its official lobbying effort around October 2023, hiring Chan Park—a onetime Senate Judiciary Committee counsel and Microsoft lobbyist—to lead the effort. Lawmakers, particularly then Senate majority leader Chuck Schumer, were vocal about wanting to curb these particular harms; OpenAI hired Schumer’s former legal counsel, Reginald Babin, as a lobbyist, according to data from OpenSecrets. This past summer, the company hired the veteran political operative Chris Lehane as its head of global policy.
-
-OpenAI’s previous disclosures confirm that the company’s lobbyists subsequently focused much of last year on legislation like the No Fakes Act and the Protect Elections from Deceptive AI Act. The bills did not materialize into law. But as the year went on, the regulatory goals of AI companies began to change. “One of the biggest shifts that we’ve seen,” Keesing says, “is that they’ve really started to focus on energy.”","**ChatGPT's Creators Go to Washington: What You Should Know**
-
-**Why Read This?**
-
-The people behind ChatGPT, OpenAI, are getting serious about politics. They've ramped up their lobbying efforts in Washington, and it's not just about AI safety anymore. This could mean big changes in how AI is regulated and used.
-
-**Why It Matters for You:**
-
-Imagine if the companies making AI were also the ones setting the rules. That's kind of what's happening here. OpenAI is now trying to get the government on their side, pushing for things like cheaper energy and less regulation. This shift could impact everything from how AI is used in national security to how much power tech companies wield. It’s not just about deepfakes and misinformation anymore; it’s about shaping the future of AI and the world we live in. It’s a good idea to be aware of how these powerful players are trying to influence policy.
-
-**Want More?**
-
-Explore the full details here: https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/
-","7
-"
-What’s next for robots,https://www.technologyreview.com/2025/01/23/1110496/whats-next-for-robots/,2025-01-23 00:00:00,"“But those are expensive to create and time consuming, so you can only do a limited number of them,” says Rev Lebaredian, vice president of simulation technologies at Nvidia. Cosmos can instead take a handful of those examples and create a three-dimensional simulation of a hospital. It will then start making changes—different floor colors, different sizes of hospital beds—and create slightly different environments. “You’ll multiply that data that you captured in the real world millions of times,” Lebaredian says. In the process, the model will be fine-tuned to work well in that specific hospital setting.
-
-It’s sort of like learning both from your experiences in the real world and from your own imagination (stipulating that your imagination is still bound by the rules of physics).
-
-Teaching robots through AI and simulations isn’t new, but it’s going to become much cheaper and more powerful in the years to come.
-
-A smarter brain gets a smarter body
-
-Plenty of progress in robotics has to do with improving the way a robot senses and plans what to do—its “brain,” in other words. Those advancements can often happen faster than those that improve a robot’s “body,” which determine how well a robot can move through the physical world, especially in environments that are more chaotic and unpredictable than controlled assembly lines.
-
-The military has always been keen on changing that and expanding the boundaries of what’s physically possible. The US Navy has been testing machines from a company called Gecko Robotics that can navigate up vertical walls (using magnets) to do things like infrastructure inspections, checking for cracks, flaws, and bad welding on aircraft carriers.
-
-There are also investments being made for the battlefield. While nimble and affordable drones have reshaped rural battlefields in Ukraine, new efforts are underway to bring those drone capabilities indoors. The defense manufacturer Xtend received an $8.8 million contract from the Pentagon in December 2024 for its drones, which can navigate in confined indoor spaces and urban environments. These so-called “loitering munitions” are one-way attack drones carrying explosives that detonate on impact.
-
-“These systems are designed to overcome challenges like confined spaces, unpredictable layouts, and GPS-denied zones,” says Rubi Liani, cofounder and CTO at Xtend. Deliveries to the Pentagon should begin in the first few months of this year.
-
-Another initiative—sparked in part by the Replicator project, the Pentagon’s plan to spend more than $1 billion on small unmanned vehicles—aims to develop more autonomously controlled submarines and surface vehicles. This is particularly of interest as the Department of Defense focuses increasingly on the possibility of a future conflict in the Pacific between China and Taiwan. In such a conflict, the drones that have dominated the war in Ukraine would serve little use because battles would be waged almost entirely at sea, where small aerial drones would be limited by their range. Instead, undersea drones would play a larger role.","**Robots Are Getting Smarter AND Stronger: What's Coming Next**
-
-**Why Read This?**
-
-Robots are evolving fast, and it's not just about those clunky robots you see in movies. They're becoming incredibly smart and capable thanks to AI, and they're about to change how we do things, from healthcare to the battlefield.
-
-**Why It Matters for You:**
-
-Imagine robots that can learn in a virtual world and then apply those skills in real life. That's what's happening now. AI is helping robots figure out how to move, plan, and adapt to different environments. This is opening up a world of possibilities: robots that can inspect buildings, navigate underwater, or work in dangerous situations. The military is also getting in on the action, developing drones that can operate in tricky urban settings. This shows that robots are becoming much more than just factory workers; they're evolving into dynamic helpers in almost every aspect of our lives.
-
-**Want More?**
-
-Explore the full details here: https://www.technologyreview.com/2025/01/23/1110496/whats-next-for-robots/
-","8
-"
-Anthropic plans to release a ‘two-way’ voice mode for Claude,https://techcrunch.com/2025/01/21/anthropic-plans-to-release-a-two-way-voice-mode-for-claude/,2025-01-21 00:00:00,"In Brief
-
-Anthropic CEO Dario Amodei says that the company plans to release a “two-way” voice mode for its chatbot, Claude, as well as a memory feature that lets Claude remember more about users and past conversations.
-
-Speaking to The Wall Street Journal at the World Economic Forum at Davos, Amodei also revealed that Anthropic expects to release “smarter” AI models in the coming months, and that the company has been “overwhelmed” by the “surge in demand” in the last year.
-
-“The surge in demand we’ve seen over the last year, and particularly in the last three months, has overwhelmed our ability to provide the needed compute,” Amodei said.
-
-Anthropic is racing to keep pace with its chief AI rival, OpenAI, in an extremely capital-intensive sector. Despite having raised $13.7 billion in capital to date, Anthropic reportedly lost billions of dollars last year. Anthropic is said to be in talks to raise another ~$2 billion at a $60 billion valuation.","**Get Ready to Talk to Your AI: Claude is Getting a Voice**
-
-**Why Read This?**
-
-The AI chatbot Claude is about to get a lot more human-like! The company behind it, Anthropic, is planning to add a voice feature that lets you have a two-way conversation with it. It'll also remember past chats, making the whole experience feel much more natural.
-
-**Why It Matters for You:**
-
-Imagine talking to an AI just like you would a friend, and it remembers everything you've talked about before. That's what's coming with Claude. This upgrade will make AI interactions less like typing to a computer and more like having a real conversation. This is more than just a cool new feature; it’s about making AI more accessible and useful for everyone. It also shows how fast the field of AI is changing, with companies racing to make the technology more powerful and human-friendly.
-
-**Want More?**
-
-Explore the full details here: https://techcrunch.com/2025/01/21/anthropic-plans-to-release-a-two-way-voice-mode-for-claude/
-","7
-"
-Trump signs exec order delaying TikTok enforcement action for 75 days,https://techcrunch.com/2025/01/20/trump-signs-exec-order-delaying-tiktok-enforcement-action-for-75-days/,2025-01-20 00:00:00,"In Brief
-
-President Donald Trump has signed an executive order aimed at restoring TikTok service in the U.S.
-
-The order instructs relevant government agencies to “pursue a resolution” that “protects national security” while “saving [TikTok.]” Via the order, Trump is instructing the U.S. attorney general not to take any action for 75 days to enforce the Protecting Americans from Foreign Adversary Controlled Applications Act (PAFACA), the act that effectively banned TikTok in the U.S. on Sunday, January 19.
-
-“During this period, the Department of Justice shall take no action to enforce the Act or impose any penalties against any entity for any noncompliance with the Act,” the executive order reads. “Even after the expiration of the above-specified period, the Department of Justice shall not take any action to enforce the Act […]”
-
-Trump’s move comes on the heels of a U.S. Supreme Court decision to uphold the PAFACA, which passed with bipartisan congressional support during former President Joe Biden’s term.","**TikTok's Back on the Table? Trump's Move That Could Change Everything**
-
-**Why Read This?**
-
-Remember when TikTok was supposed to be banned? Well, President Trump just hit pause on that! He's signed an order that could bring TikTok back to the US, but there are some big questions about what it all means.
-
-**Why It Matters for You:**
-
-Imagine not being able to use your favorite social media app. That’s what almost happened with TikTok. Now, Trump is saying the government has to find a way to keep TikTok running while also protecting national security. This decision is more than just about social media; it’s about how much control the government has over the apps we use. This could set a precedent for future tech regulations, and it might make you wonder about how our online lives are being managed.
-
-**Want More?**
-
-Explore the full details here: https://techcrunch.com/2025/01/20/trump-signs-exec-order-delaying-tiktok-enforcement-action-for-75-days/
-","7
-"
-Mistral AI plans IPO,https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/,2025-01-21 00:00:00,"In Brief
-
-French AI lab Mistral is working toward an initial public offering, co-founder and CEO Arthur Mensch said Tuesday in an interview with Bloomberg at the World Economic Forum in Davos.
-
-Mistral is “not for sale,” Mensch said, adding that the company plans to open an office in Singapore to focus on the Asia-Pacific region and is growing in Europe and the U.S. “Of course, [an IPO is] the plan.”
-
-Mistral, which Mensch launched in 2023 alongside former researchers from Google’s DeepMind and Meta, is often described as Europe’s answer to U.S. incumbents like OpenAI. The lab releases AI models and services that compete with offerings from OpenAI and others, including a ChatGPT-like platform called Le Chat.
-
-Mistral has raised around $1.14 billion in capital to date from investors including Andreessen Horowitz, General Catalyst, and Lightspeed Venture Partners. The company was reportedly last valued at around $6 billion.","**Europe's AI Star Is Going Public: What It Means for You**
-
-**Why Read This?**
-
-A European AI company called Mistral is planning to go public, which is a big deal in the tech world. They're often called Europe's answer to OpenAI, the creators of ChatGPT, and this move could change the landscape of AI development.
-
-**Why It Matters for You:**
-
-Imagine if there was a real competitor to the big AI companies we know. That's what Mistral is trying to be. They're creating AI models that are giving OpenAI a run for their money, and now they're opening up to public investment. This isn't just about the stock market; it's about competition and innovation. This could lead to better AI tools and services for everyone. It also shows that the future of AI is not just in Silicon Valley; it's a global race, and this development will be an important piece of the puzzle.
-
-**Want More?**
-
-Explore the full details here: https://techcrunch.com/2025/01/21/mistral-ai-plans-ipo/
-","7
-"
-President Trump repeals Biden’s AI executive order,https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/,2025-01-20 00:00:00,"In Brief
-
-During his first day in office, President Donald Trump revoked a 2023 executive order signed by former President Joe Biden that sought to reduce the potential risks AI poses to consumers, workers, and national security.
-
-Biden’s executive order directed the Commerce Department’s National Institute of Standards and Technology (NIST) to author guidance that helps companies identify — and correct for — flaws in models, including biases. The executive order also required developers of AI systems to share the results of safety tests with the U.S. government before they were released to the public.
-
-Critics allied with Trump argued that the executive order’s reporting requirements were onerous and effectively forced companies to disclose their trade secrets. During his campaign, Trump promised policies that would “support AI development rooted in free speech and human flourishing” — but declined to go into detail.","**Trump Just Changed the Rules on AI: What You Need to Know**
-
-**Why Read This?**
-
-President Trump just made a big move on AI, throwing out an order from the previous administration that was trying to keep AI safe and fair. This could lead to some big changes about how AI is developed and used in the US.
-
-**Why It Matters for You:**
-
-Imagine a world where AI is used in ways that are biased, unfair, or even dangerous. The previous rules were meant to help avoid that, but Trump's move could mean less oversight and fewer safety checks. It’s about balancing innovation with responsibility. This could change how companies are allowed to develop and release AI tech, and ultimately, how safe and fair these powerful tools are for everyone. It's worth paying attention because these decisions could affect our future.
-
-**Want More?**
-
-Explore the full details here: https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/
-","7
-"
-OpenAI’s agent tool may be nearing release,https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/,2025-01-20 00:00:00,"OpenAI may be close to releasing an AI tool that can take control of your PC and perform actions on your behalf.
-
-Tibor Blaho, a software engineer with a reputation for accurately leaking upcoming AI products, claims to have uncovered evidence of OpenAI’s long-rumored Operator tool. Publications including Bloomberg have previously reported on Operator, which is said to be an “agentic” system capable of autonomously handling tasks like writing code and booking travel.
-
-According to The Information, OpenAI is targeting January as Operator’s release month. Code uncovered by Blaho this weekend adds credence to that reporting.
-
-OpenAI’s ChatGPT client for macOS has gained options, hidden for now, to define shortcuts to “Toggle Operator” and “Force Quit Operator,” per Blaho. And OpenAI has added references to Operator on its website, Blaho said — albeit references that aren’t yet publicly visible.
-
-According to Blaho, OpenAI’s site also contains not-yet-public tables comparing the performance of Operator to other computer-using AI systems. The tables may well be placeholders. But if the numbers are accurate, they suggest that Operator isn’t 100% reliable, depending on the task.
-
-On OSWorld, a benchmark that tries to mimic a real computer environment, “OpenAI Computer Use Agent (CUA)” — possibly the AI model powering Operator — scores 38.1%, ahead of Anthropic’s computer-controlling model but well short of the 72.4% humans score. OpenAI CUA surpasses human performance on WebVoyager, which evaluates an AI’s ability to navigate and interact with websites. But the model falls short of human-level scores on another web-based benchmark, WebArena, according to the leaked benchmarks.
-
-Operator also struggles with tasks a human could perform easily, if the leak is to be believed. In a test that tasked Operator with signing up with a cloud provider and launching a virtual machine, Operator was only successful 60% of the time. Tasked with creating a Bitcoin wallet, Operator succeeded only 10% of the time.
-
-We’ve reached out to OpenAI for comment and will update this piece if we hear back.
-
-OpenAI’s imminent entry into the AI agent space comes as rivals, including the aforementioned Anthropic, Google, and others, make plays for the nascent segment. AI agents may be risky and speculative, but tech giants are already touting them as the next big thing in AI. According to analytics firm Markets and Markets, the market for AI agents could be worth $47.1 billion by 2030.
-
-Agents today are rather primitive. But some experts have raised concerns about their safety, should the technology rapidly improve.
-
-One of the leaked charts shows Operator performing well on selected safety evaluations, including tests that try to get the system to perform “illicit activities” and search for “sensitive personal data.” Reportedly, safety testing is among the reasons for Operator’s long development cycle. In a recent X post, OpenAI co-founder Wojciech Zaremba criticized Anthropic for releasing an agent he claims lacks safety mitigations.
-
-“I can only imagine the negative reactions if OpenAI made a similar release,” Zaremba wrote.
-
-It’s worth noting that OpenAI has been criticized by AI researchers, including ex-staff, for allegedly de-emphasizing safety work in favor of quickly productizing its technology.
-
-TechCrunch has an AI-focused newsletter! Sign up here to get it in your inbox every Wednesday.","**Is Your Computer About to Get a Mind of Its Own? OpenAI's New Tool**
-
-**Why Read This?**
-
-Get ready for some serious tech news! OpenAI, the company behind ChatGPT, might be launching a tool called ""Operator"" that can actually take control of your computer and do things for you. Yes, really!
-
-**Why It Matters for You:**
-
-Imagine having an AI assistant that can book your flights, write code, or even sign up for services online - without you having to lift a finger. That's what Operator is designed to do. While it's not perfect yet, this tool is a glimpse into a future where AI is much more involved in our daily lives. It raises some big questions about what AI should do on its own and how we can ensure these tools are safe. This isn’t just about convenience; it's about the next level of AI and how much control we're comfortable giving it.
-
-**Want More?**
-
-Explore the full details here: https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/
-","8
+Explore the full details here: https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/
+","9
+","Artificial Intelligence and Ethics
 "

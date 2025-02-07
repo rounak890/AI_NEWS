@@ -1,0 +1,177 @@
+2025-02-03 23:59:30.589 | INFO     | app:register_user:85 - Registering user with email:
+2025-02-04 23:28:33.139 | INFO     | app:register_user:111 - Registering user with email: %s, %s, %s, %s
+2025-02-04 23:32:15.835 | INFO     | app:register_user:111 - Registering user with email: ujjwalsharma1602@gmail.com, uj, {'general': True, 'research': False, 'business': False, 'AI': False}, email
+2025-02-04 23:37:05.102 | INFO     | app:register_user:101 - Registering user with email: ujjwalsharma1602@gmail.com, uj, {'general': True, 'research': False, 'business': False, 'AI': False}, email
+2025-02-04 23:40:27.291 | INFO     | app:register_user:101 - Registering user with email: ujjwalsharma1602@gmail.com, uj, {'general': True, 'research': False, 'business': False, 'AI': False}, email
+2025-02-04 23:40:40.898 | INFO     | app:register_user:101 - Registering user with email: ujjwalsharma1602@gmail.com, uj, {'general': True, 'research': False, 'business': False, 'AI': False}, email
+2025-02-04 23:41:05.341 | INFO     | app:register_user:101 - Registering user with email: ujjwalsharma1602@gmail.com, uj, {'general': True, 'research': False, 'business': False, 'AI': False}, email
+2025-02-04 23:45:24.496 | INFO     | app:register_user:101 - Registering user with email: ujjwalsharma1602@gmail.com, d, {'general': True, 'research': False, 'business': False, 'ethics': False}, email
+2025-02-05 00:19:35.693 | INFO     | app:get_news:216 - Returning 20 news articles
+2025-02-05 00:20:04.924 | INFO     | app:get_news:216 - Returning 40 news articles
+2025-02-05 00:20:04.948 | INFO     | app:get_news:216 - Returning 60 news articles
+2025-02-05 00:20:34.925 | INFO     | app:get_news:216 - Returning 80 news articles
+2025-02-05 00:20:34.943 | INFO     | app:get_news:216 - Returning 100 news articles
+2025-02-05 00:20:37.906 | INFO     | app:get_news:216 - Returning 120 news articles
+2025-02-05 00:20:37.928 | INFO     | app:get_news:216 - Returning 140 news articles
+2025-02-05 00:20:41.930 | INFO     | app:get_news:216 - Returning 160 news articles
+2025-02-05 00:20:41.953 | INFO     | app:get_news:216 - Returning 180 news articles
+2025-02-05 00:20:43.914 | INFO     | app:get_news:216 - Returning 200 news articles
+2025-02-05 00:20:43.936 | INFO     | app:get_news:216 - Returning 220 news articles
+2025-02-05 00:21:07.913 | INFO     | app:get_news:216 - Returning 240 news articles
+2025-02-05 00:21:07.940 | INFO     | app:get_news:216 - Returning 260 news articles
+2025-02-05 00:21:11.913 | INFO     | app:get_news:216 - Returning 280 news articles
+2025-02-05 00:21:11.938 | INFO     | app:get_news:216 - Returning 300 news articles
+2025-02-05 00:21:17.920 | INFO     | app:get_news:216 - Returning 320 news articles
+2025-02-05 00:21:17.948 | INFO     | app:get_news:216 - Returning 340 news articles
+2025-02-05 00:21:29.691 | INFO     | app:get_news:216 - Returning 360 news articles
+2025-02-05 00:21:29.723 | INFO     | app:get_news:216 - Returning 380 news articles
+2025-02-05 00:23:46.921 | INFO     | app:get_news:216 - Returning 400 news articles
+2025-02-05 00:23:46.950 | INFO     | app:get_news:216 - Returning 420 news articles
+2025-02-05 00:23:53.270 | INFO     | app:get_news:216 - Returning 440 news articles
+2025-02-05 00:24:16.219 | INFO     | app:get_news:216 - Returning 460 news articles
+2025-02-05 00:24:30.498 | INFO     | app:get_news:216 - Returning 480 news articles
+2025-02-05 00:24:32.376 | INFO     | app:get_news:216 - Returning 500 news articles
+2025-02-05 00:24:35.227 | INFO     | app:get_news:216 - Returning 520 news articles
+2025-02-05 00:24:37.296 | INFO     | app:get_news:216 - Returning 540 news articles
+2025-02-05 00:24:39.458 | INFO     | app:get_news:216 - Returning 560 news articles
+2025-02-05 00:25:29.017 | INFO     | app:get_news:216 - Returning 580 news articles
+2025-02-05 00:26:46.074 | INFO     | app:get_news:216 - Returning 600 news articles
+2025-02-05 00:27:34.934 | INFO     | app:get_news:216 - Returning 620 news articles
+2025-02-05 00:28:24.404 | INFO     | app:get_news:216 - Returning 640 news articles
+2025-02-05 00:28:39.408 | INFO     | app:get_news:216 - Returning 660 news articles
+2025-02-05 00:28:39.576 | INFO     | app:get_news:216 - Returning 680 news articles
+2025-02-05 00:29:35.959 | INFO     | app:get_news:216 - Returning 700 news articles
+2025-02-05 00:29:36.191 | INFO     | app:get_news:216 - Returning 720 news articles
+2025-02-05 00:29:45.552 | INFO     | app:get_news:216 - Returning 20 news articles
+2025-02-05 00:30:42.991 | INFO     | app:get_news:216 - Returning 20 news articles
+2025-02-05 00:30:43.025 | INFO     | app:get_news:216 - Returning 20 news articles
+2025-02-05 00:31:02.061 | INFO     | app:get_news:216 - Returning 20 news articles
+2025-02-05 00:31:02.101 | INFO     | app:get_news:216 - Returning 20 news articles
+2025-02-05 00:31:04.484 | INFO     | app:get_news:216 - Returning 20 news articles
+2025-02-05 00:31:04.528 | INFO     | app:get_news:216 - Returning 20 news articles
+2025-02-05 00:31:28.424 | INFO     | app:get_news:216 - Returning 20 news articles
+2025-02-05 00:31:28.460 | INFO     | app:get_news:216 - Returning 20 news articles
+
+
+2025-02-05 00:38:49.116 | INFO     | app:fetch_ai_news:136 - meow once
+2025-02-05 00:39:49.107 | INFO     | app:fetch_ai_news:136 - meow once
+2025-02-05 00:40:49.107 | INFO     | app:fetch_ai_news:136 - meow once
+2025-02-05 00:41:49.110 | INFO     | app:fetch_ai_news:136 - meow once
+2025-02-05 00:50:50.694 | INFO     | app:get_news:219 - Returning 20 news articles
+----------
+2025-02-05 19:12:26.826 | INFO     | app:get_news:230 - Returning 20 news articles
+2025-02-05 19:20:41.501 | INFO     | app:fetch_ai_news:166 - meow once
+2025-02-05 19:20:41.505 | INFO     | main:main:28 - Fetching articles from https://www.artificialintelligence-news.com/...
+2025-02-05 19:20:52.844 | INFO     | app:fetch_ai_news:166 - meow once
+2025-02-05 19:20:52.845 | INFO     | main:main:28 - Fetching articles from https://www.artificialintelligence-news.com/...
+2025-02-05 19:20:59.482 | INFO     | main:main:28 - Fetching articles from https://venturebeat.com/category/ai/...
+2025-02-05 19:21:01.025 | INFO     | main:main:28 - Fetching articles from https://www.technologyreview.com/topic/artificial-intelligence/...
+2025-02-05 19:21:11.458 | INFO     | main:main:28 - Fetching articles from https://venturebeat.com/category/ai/...
+2025-02-05 19:21:12.980 | INFO     | main:main:28 - Fetching articles from https://www.technologyreview.com/topic/artificial-intelligence/...
+2025-02-05 19:21:20.199 | INFO     | main:main:28 - Fetching articles from https://www.aitrends.com/...
+2025-02-05 19:21:20.348 | INFO     | main:main:28 - Fetching articles from https://www.aitrends.com/...
+2025-02-05 19:21:25.902 | INFO     | main:main:28 - Fetching articles from https://techcrunch.com/category/artificial-intelligence/...
+2025-02-05 19:21:28.308 | INFO     | main:main:28 - Fetching articles from https://techcrunch.com/category/artificial-intelligence/...
+2025-02-05 19:21:37.196 | INFO     | main:main:35 -                                                 title                                               link               publish_date                                            content
+0   Sustainability is key in 2025 for businesses t...  https://www.artificialintelligence-news.com/ne...  2025-02-04 14:44:43+00:00  Since AI hit the mainstream in the last few ye...
+1    Zebra Technologies and enterprise AI in the APAC  https://www.artificialintelligence-news.com/ne...  2025-02-04 14:43:12+00:00  Enterprise AI transformation is reaching a tip...
+2        French initiative for responsible AI leaders  https://www.artificialintelligence-news.com/ne...  2025-02-04 13:17:12+00:00  ESSEC Business School and Accenture have annou...
+3   ChatGPT gains agentic capability for complex r...  https://www.artificialintelligence-news.com/ne...  2025-02-03 17:22:06+00:00  OpenAI is releasing a powerful agentic capabil...
+4   Qwen 2.5-Max outperforms DeepSeek V3 in some b...  https://www.artificialintelligence-news.com/ne...  2025-01-29 10:03:48+00:00  Alibaba’s response to DeepSeek is Qwen 2.5-Max...
+5                       What’s next for smart glasses  https://www.technologyreview.com/2025/02/05/11...        2025-02-05 00:00:00  Now the general public may finally be getting ...
+6   Four Chinese AI startups to watch beyond DeepSeek  https://www.technologyreview.com/2025/02/04/11...        2025-02-04 00:00:00  An elite group of companies known as the “Six ...
+7   OpenAI’s new agent can compile detailed report...  https://www.technologyreview.com/2025/02/03/11...        2025-02-03 00:00:00  OpenAI claims the tool represents a significan...
+8   DeepSeek might not be such good news for energ...  https://www.technologyreview.com/2025/01/31/11...        2025-01-31 00:00:00  Add the fact that other tech firms, inspired b...
+9   How the Rubin Observatory will help us underst...  https://www.technologyreview.com/2025/02/04/11...        2025-02-04 00:00:00  Other observatories, like the Hubble Space Tel...
+10     European AI startups raised $8 billion in 2024  https://techcrunch.com/2025/02/04/european-ai-...        2025-02-04 00:00:00  In just a few days, France will host the Artif...
+11  Google wants Search to be more like an AI assi...  https://techcrunch.com/2025/02/04/google-wants...        2025-02-04 00:00:00  Google Search is in the midst of a “journey” a...
+12  Alphabet praises DeepSeek, but it’s massively ...  https://techcrunch.com/2025/02/04/alphabet-pra...        2025-02-04 00:00:00  Booming AI budgets seemed at risk last week wh...
+13  AMD pulls up the release of its next-gen data ...  https://techcrunch.com/2025/02/04/amd-pulls-up...        2025-02-04 00:00:00  AMD says that it plans to launch its next majo...
+14  Google removes pledge to not use AI for weapon...  https://techcrunch.com/2025/02/04/google-remov...        2025-02-04 00:00:00  In Brief\n\nGoogle removed a pledge to not bui...
+2025-02-05 19:21:37.220 | INFO     | main:main:38 - Recent articles saved to recent_ai_news_articles.csv
+2025-02-05 19:21:37.242 | INFO     | summarize_and_score:process_ai_news_articles:59 - Processing started
+2025-02-05 19:21:41.566 | INFO     | main:main:35 -                                                 title                                               link               publish_date                                            content
+0   Sustainability is key in 2025 for businesses t...  https://www.artificialintelligence-news.com/ne...  2025-02-04 14:44:43+00:00  Since AI hit the mainstream in the last few ye...
+1    Zebra Technologies and enterprise AI in the APAC  https://www.artificialintelligence-news.com/ne...  2025-02-04 14:43:12+00:00  Enterprise AI transformation is reaching a tip...
+2        French initiative for responsible AI leaders  https://www.artificialintelligence-news.com/ne...  2025-02-04 13:17:12+00:00  ESSEC Business School and Accenture have annou...
+3   ChatGPT gains agentic capability for complex r...  https://www.artificialintelligence-news.com/ne...  2025-02-03 17:22:06+00:00  OpenAI is releasing a powerful agentic capabil...
+4   Qwen 2.5-Max outperforms DeepSeek V3 in some b...  https://www.artificialintelligence-news.com/ne...  2025-01-29 10:03:48+00:00  Alibaba’s response to DeepSeek is Qwen 2.5-Max...
+5                       What’s next for smart glasses  https://www.technologyreview.com/2025/02/05/11...        2025-02-05 00:00:00  Now the general public may finally be getting ...
+6   Four Chinese AI startups to watch beyond DeepSeek  https://www.technologyreview.com/2025/02/04/11...        2025-02-04 00:00:00  An elite group of companies known as the “Six ...
+7   OpenAI’s new agent can compile detailed report...  https://www.technologyreview.com/2025/02/03/11...        2025-02-03 00:00:00  OpenAI claims the tool represents a significan...
+8   DeepSeek might not be such good news for energ...  https://www.technologyreview.com/2025/01/31/11...        2025-01-31 00:00:00  Add the fact that other tech firms, inspired b...
+9   How the Rubin Observatory will help us underst...  https://www.technologyreview.com/2025/02/04/11...        2025-02-04 00:00:00  Other observatories, like the Hubble Space Tel...
+10     European AI startups raised $8 billion in 2024  https://techcrunch.com/2025/02/04/european-ai-...        2025-02-04 00:00:00  In just a few days, France will host the Artif...
+11  Google wants Search to be more like an AI assi...  https://techcrunch.com/2025/02/04/google-wants...        2025-02-04 00:00:00  Google Search is in the midst of a “journey” a...
+12  Alphabet praises DeepSeek, but it’s massively ...  https://techcrunch.com/2025/02/04/alphabet-pra...        2025-02-04 00:00:00  Booming AI budgets seemed at risk last week wh...
+13  AMD pulls up the release of its next-gen data ...  https://techcrunch.com/2025/02/04/amd-pulls-up...        2025-02-04 00:00:00  AMD says that it plans to launch its next majo...
+14  Google removes pledge to not use AI for weapon...  https://techcrunch.com/2025/02/04/google-remov...        2025-02-04 00:00:00  In Brief\n\nGoogle removed a pledge to not bui...
+2025-02-05 19:21:41.577 | INFO     | main:main:38 - Recent articles saved to recent_ai_news_articles.csv
+2025-02-05 19:21:41.596 | INFO     | summarize_and_score:process_ai_news_articles:59 - Processing started
+2025-02-05 19:21:43.595 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 0 || Score: 7
+
+2025-02-05 19:21:47.771 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 0 || Score: 7
+
+2025-02-05 19:21:58.569 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 1 || Score: 8
+
+2025-02-05 19:22:02.400 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 1: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:22:12.229 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 2: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:22:15.779 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 2: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:22:22.879 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 3: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:22:26.449 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 3: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:22:33.506 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 4: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:22:37.110 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 4: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:22:48.680 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 5 || Score: 9
+
+2025-02-05 19:22:51.912 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 5 || Score: 9
+
+2025-02-05 19:23:03.688 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 6 || Score: 7
+
+2025-02-05 19:23:09.779 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 6: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:23:14.341 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 7: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:23:20.291 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 7: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:23:24.841 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 8: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:23:30.850 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 8: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:23:35.560 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 9: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:23:45.318 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 9 || Score: 9
+
+2025-02-05 19:23:50.320 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 10 || Score: 8
+
+2025-02-05 19:24:00.185 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 10 || Score: 8
+
+2025-02-05 19:24:05.662 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 11 || Score: 9
+
+2025-02-05 19:24:10.878 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 11: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:24:16.294 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 12: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:24:21.518 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 12: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:24:26.936 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 13: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:24:32.101 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 13: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:24:37.513 | INFO     | summarize_and_score:process_ai_news_articles:93 - Error processing row 14: 429 Resource has been exhausted (e.g. check quota).
+2025-02-05 19:24:46.622 | INFO     | summarize_and_score:process_ai_news_articles:90 - Processed row 14 || Score: 9
+
+2025-02-05 19:24:47.541 | INFO     | summarize_and_score:process_ai_news_articles:100 - Processing complete.
+2025-02-05 19:24:56.630 | INFO     | summarize_and_score:process_ai_news_articles:100 - Processing complete.
+2025-02-05 19:28:33.810 | INFO     | app:get_news:245 - Returning 20 news articles
+2025-02-05 19:31:07.463 | INFO     | app:fetch_ai_news:166 - meow once
+2025-02-05 19:31:10.531 | INFO     | app:fetch_ai_news:166 - meow once
+2025-02-05 19:32:07.452 | INFO     | app:fetch_ai_news:166 - meow once
+2025-02-05 19:32:10.536 | INFO     | app:fetch_ai_news:166 - meow once
+2025-02-05 19:40:39.476 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-05 19:40:39.490 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-05 19:41:37.343 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-05 19:41:37.351 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-05 20:13:09.141 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-05 20:13:09.153 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-06 11:32:50.555 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-06 11:32:50.562 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-06 11:33:16.578 | INFO     | app:register_user:109 - Registering user with email: vardeeps718@gmail.com, vardeep, {'general': True, 'research': False, 'business': False, 'ethics': False}, email
+2025-02-06 11:33:20.422 | INFO     | app:register_user:109 - Registering user with email: vardeeps718@gmail.com, vardeep, {'general': True, 'research': False, 'business': False, 'ethics': False}, email
+2025-02-06 11:34:15.419 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-06 11:34:15.436 | INFO     | app:get_news:246 - Returning 15 news articles
+2025-02-07 17:20:22.870 | INFO     | app:get_news:267 - Returning 15 news articles
+2025-02-07 17:20:22.877 | INFO     | app:get_news:267 - Returning 15 news articles
+2025-02-07 17:25:59.676 | INFO     | app:register_user:109 - Registering user with email: gerarounak890@gmail.com, rg, {'general': True, 'research': False, 'business': False, 'ethics': False}, email
+2025-02-07 17:27:53.891 | INFO     | app:get_news:267 - Returning 15 news articles
+2025-02-07 17:27:53.904 | INFO     | app:get_news:267 - Returning 15 news articles
+2025-02-07 17:28:22.206 | INFO     | app:register_user:109 - Registering user with email: shang.chi.098890@gmail.com, shang, {'general': True, 'research': False, 'business': False, 'ethics': False}, email
+2025-02-07 17:28:49.914 | INFO     | app:fetch_ai_news:166 - meow once
