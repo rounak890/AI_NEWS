@@ -1,7 +1,7 @@
-fastapi
 uvicorn
 sqlalchemy
 apscheduler
 fastapi-mail
 loguru
 pydantic
+fastapi[standard]
