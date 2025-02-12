@@ -5,3 +5,8 @@ fastapi-mail
 loguru
 pydantic
 fastapi[standard]
+pandas
+numpy
+python-dotenv
+google-genai
+newspaper3k 
