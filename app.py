@@ -195,33 +195,46 @@ async def send_emails():
 
     news_content = """
     <html>
-    <head></head>
+    <head>
+        <style>
+            body { font-family: Arial, sans-serif; line-height: 1.6; }
+            h2 { color: #333; }
+            ul { padding: 0; }
+            li { margin-bottom: 20px; list-style: none; padding: 15px; border-bottom: 1px solid #ddd; }
+            h3 { margin: 0; color: #007bff; }
+            p { margin: 5px 0; color: #555; }
+            strong { color: #222; }
+            a { color: #007bff; text-decoration: none; font-weight: bold; }
+        </style>
+    </head>
     <body>
-        <h2>Daily AI News</h2>
+        <h2>📰 Daily AI News</h2>
         <ul>
     """
+
     for article in news_articles:
         news_content += f"""
             <li>
                 <h3>{article.title}</h3>
                 <p>{article.content}</p>
-                <strong>Virality Score:</strong> {article.virality_score}
+                <p><strong>Virality Score:</strong> {article.virality_score}</p>
+
             </li>
         """
+
     news_content += """
         </ul>
     </body>
     </html>
     """
 
-    
     message = MessageSchema(
-        subject="Daily AI News",
+        subject="📰 Daily AI News",
         recipients=[user.email for user in users],
         body=news_content,
-        subtype="plain"
+        subtype="html"  # Ensures correct rendering as HTML
     )
-    
+
     fm = FastMail(conf)
     await fm.send_message(message)
 

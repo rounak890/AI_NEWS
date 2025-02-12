@@ -175,3 +175,6 @@
 2025-02-07 17:27:53.904 | INFO     | app:get_news:267 - Returning 15 news articles
 2025-02-07 17:28:22.206 | INFO     | app:register_user:109 - Registering user with email: shang.chi.098890@gmail.com, shang, {'general': True, 'research': False, 'business': False, 'ethics': False}, email
 2025-02-07 17:28:49.914 | INFO     | app:fetch_ai_news:166 - meow once
+2025-02-07 23:46:47.006 | INFO     | app:fetch_ai_news:171 - meow once
+2025-02-07 23:49:23.082 | INFO     | app:fetch_ai_news:171 - meow once
+2025-02-07 23:50:30.678 | INFO     | app:fetch_ai_news:171 - meow once
