@@ -7,7 +7,9 @@ export default function TodayNews() {
   useEffect(() => {
     const fetchNews = async () => {
       try {
-        const response = await fetch("http://127.0.0.1:8000/news");
+        const API_BASE_URL = import.meta.env.VITE_APP_API_BASE_URL;
+        console.log(`${API_BASE_URL}/news`);
+        const response = await fetch(`${API_BASE_URL}/news`); //"http://127.0.0.1:8000/news"
         const data = await response.json();
 
         if (data.news) {

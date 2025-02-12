@@ -32,10 +32,11 @@ const Register = () => {
     }
   };
 
+  const API_BASE_URL = import.meta.env.VITE_APP_API_BASE_URL;
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      const response = await fetch('http://127.0.0.1:8000/register', {
+      const response = await fetch(`${API_BASE_URL}/register`, { // 'http://127.0.0.1:8000/register'
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
