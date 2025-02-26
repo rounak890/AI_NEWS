@@ -178,3 +178,65 @@
 2025-02-07 23:46:47.006 | INFO     | app:fetch_ai_news:171 - meow once
 2025-02-07 23:49:23.082 | INFO     | app:fetch_ai_news:171 - meow once
 2025-02-07 23:50:30.678 | INFO     | app:fetch_ai_news:171 - meow once
+2025-02-19 10:08:32.313 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-19 10:09:09.155 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-19 10:09:09.186 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:46:10.080 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:46:10.087 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:49:11.886 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:49:21.336 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:49:36.326 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:49:36.336 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:49:57.684 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:49:57.755 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:50:47.468 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:50:55.434 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:52:53.341 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:52:53.359 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:53:25.506 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:53:25.523 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:55:33.490 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:55:35.401 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:55:52.445 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:56:24.080 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:56:42.549 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:56:45.417 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:56:48.429 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:56:50.417 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:56:52.410 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:56:53.439 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:57:01.838 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:57:02.053 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:57:20.451 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:57:43.447 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:57:48.441 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:58:18.078 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:58:18.095 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:58:35.449 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:58:36.400 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:59:11.451 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:59:13.719 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 20:59:14.516 | INFO     | app:get_news:285 - Returning 15 news articles
+2025-02-26 21:10:30.579 | INFO     | app:fetch_ai_news:173 - meow once
+2025-02-26 21:12:41.894 | INFO     | app:fetch_ai_news:173 - meow once
+2025-02-26 21:15:09.772 | INFO     | app:get_news:288 - Returning 0 news articles
+2025-02-26 21:15:28.146 | INFO     | app:fetch_ai_news:173 - meow once
+2025-02-26 21:19:39.547 | INFO     | app:fetch_ai_news:173 - meow once
+2025-02-26 21:20:35.802 | INFO     | app:register_user:115 - Registering user with email: gerarounak890@gmail.com, rg, {'general': True, 'research': False, 'business': False, 'ethics': False}, email
+2025-02-26 21:20:57.937 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:21:06.190 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:21:06.199 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:23:05.418 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:23:08.429 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:23:16.411 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:23:34.429 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:23:41.910 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:23:41.919 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:33:54.154 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:33:54.164 | INFO     | app:get_news:288 - Returning 15 news articles
+2025-02-26 21:43:45.190 | INFO     | app:register_user:116 - Registering user with email: gerarounak890@gmail.com, rg, {'general': True, 'research': False, 'business': False, 'ethics': False}, email
+2025-02-26 21:44:12.108 | INFO     | app:fetch_ai_news:183 - meow once
+2025-02-26 21:46:04.508 | INFO     | app:fetch_ai_news:183 - meow once
+2025-02-26 21:47:34.156 | INFO     | app:fetch_ai_news:183 - meow once
+2025-02-26 21:47:53.018 | INFO     | app:get_news:298 - Returning 15 news articles
+2025-02-26 21:47:53.029 | INFO     | app:get_news:298 - Returning 15 news articles

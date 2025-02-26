@@ -78,6 +78,8 @@ class NewsArticle(Base):
     title = Column(String)
     content = Column(String)
     virality_score = Column(Float)
+    publish_date = Column(String)
+    url = Column(String)
 
 Base.metadata.create_all(bind=engine)
 
@@ -137,7 +139,9 @@ async def register_user(request: UserRegisterRequest):
     return {"message": "Registered successfully!"}
 
 import pandas as pd
+import re
 def load_news_from_csv(file_path: str = "CSV/processed_ai_news_articles.csv"):
+    url_pattern = r"https?://[^\s]+"
     df = pd.read_csv(file_path)
     db = SessionLocal()
 
@@ -146,10 +150,18 @@ def load_news_from_csv(file_path: str = "CSV/processed_ai_news_articles.csv"):
     db.commit()
 
     for _, row in df.iterrows():
+        url_lst = re.findall(url_pattern, str(row['FINAL']))
+        if len(url_lst) == 0:
+            url_ =  ""
+        else:
+            url_ = url_lst[0]
+        
         news_article = NewsArticle(
             title=row['title'],
             content=row['FINAL'],
-            virality_score=row['SCORE']
+            virality_score=row['SCORE'],
+            publish_date = str(row['publish_date']),
+            url = url_
         )
         db.add(news_article)
     db.commit()
@@ -218,6 +230,7 @@ async def send_emails():
                 <h3>{article.title}</h3>
                 <p>{article.content}</p>
                 <p><strong>Virality Score:</strong> {article.virality_score}</p>
+                <p>Publish Date : {article.publish_date}</p>
 
             </li>
         """
@@ -284,7 +297,7 @@ async def get_news():
     db.close()
     logger.info(f"Returning {len(news_articles)} news articles")
     
-    return {"news": [{"title": article.title, "content": article.content, "virality_score": article.virality_score} for article in news_articles]}
+    return {"news": [{"title": article.title, "content": article.content, "virality_score": article.virality_score, "publish_date" : article.publish_date, "url" : article.url} for article in news_articles]}
 
 if __name__ == "__main__":
     import uvicorn

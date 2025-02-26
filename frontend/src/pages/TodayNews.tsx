@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Newspaper, Tag, Clock } from 'lucide-react';
+import ReactMarkdown from 'react-markdown';
 
 export default function TodayNews() {
   const [news, setNews] = useState([]);
@@ -19,8 +20,9 @@ export default function TodayNews() {
               title: item.title,
               category: "AI News", // Adjust if API provides category
               summary: item.content,
-              timestamp: new Date().toISOString(), // Use actual timestamp if available
-              virality_score: item.virality_score
+              timestamp: item.publish_date, //new Date().toISOString(), // Use actual timestamp if available
+              virality_score: item.virality_score,
+              url : item.url
             }))
           );
           
@@ -54,16 +56,20 @@ export default function TodayNews() {
                 <div className="flex items-center space-x-2 text-gray-500">
                   <Clock className="h-4 w-4" />
                   <time className="text-sm">
-                    {new Date(item.timestamp).toLocaleString()}
+                    {/* {new Date(item.timestamp).toLocaleString()} */}
+                    {item.timestamp}
                   </time>
                 </div>
               </div>
               
               <h2 className="text-xl font-semibold mb-2">{item.title}</h2>
-              <p className="text-gray-600">{item.summary}</p>
+              {/* <p className="text-gray-600">{item.summary}</p> */}
+              <div className="text-gray-600">
+                  <ReactMarkdown>{item.summary}</ReactMarkdown>
+              </div>
               
               <div className="mt-4">
-                <button className="text-blue-600 hover:text-blue-800 font-medium">
+                <button className="text-blue-600 hover:text-blue-800 font-medium" onClick={() => window.open(item.url, "_blank")} >
                   Read more →
                 </button>
               </div>
