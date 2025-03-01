@@ -1,24 +1,24 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import { Bot, Mail, MessageSquare, BellRing, Zap } from 'lucide-react';
+import React from "react";
+import { Link } from "react-router-dom";
+import { Bot, Mail, MessageSquare, BellRing, Zap } from "lucide-react";
 
 export default function Home() {
   const benefits = [
     {
       icon: <Zap className="h-6 w-6 text-blue-600" />,
       title: "Real-time Updates",
-      description: "Get the latest AI news as it happens, curated by experts."
+      description: "Get the latest AI news as it happens, curated by experts.",
     },
     {
       icon: <MessageSquare className="h-6 w-6 text-blue-600" />,
       title: "Multi-platform Delivery",
-      description: "Choose how you want to receive updates - Email, WhatsApp, or Telegram."
+      description: "Choose how you want to receive updates - Email, WhatsApp, or Telegram.",
     },
     {
       icon: <BellRing className="h-6 w-6 text-blue-600" />,
       title: "Customizable Alerts",
-      description: "Set your preferences for topics and notification frequency."
-    }
+      description: "Set your preferences for topics and notification frequency.",
+    },
   ];
 
   return (
@@ -30,12 +30,20 @@ export default function Home() {
           Get curated AI news delivered directly to you. Stay informed about the latest developments
           in artificial intelligence, machine learning, and technology.
         </p>
-        <Link
-          to="/register"
-          className="inline-block px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700"
-        >
-          Start Your Free Subscription
-        </Link>
+        <div className="flex justify-center space-x-4">
+          <Link
+            to="/register"
+            className="px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700"
+          >
+            Start Your Free Subscription
+          </Link>
+          <Link
+            to="/deregister"
+            className="px-6 py-3 bg-red-600 text-white rounded-md hover:bg-red-700"
+          >
+            Deregister
+          </Link>
+        </div>
       </section>
 
       <section className="grid md:grid-cols-3 gap-8">

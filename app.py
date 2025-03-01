@@ -43,7 +43,7 @@ class UserRegisterRequest(BaseModel):
     
 
 
-logger.add("app2.log", backtrace=True, diagnose=True)
+logger.add("app3.log", backtrace=True, diagnose=True)
 app = FastAPI()
 scheduler = BackgroundScheduler()
 
@@ -104,6 +104,37 @@ conf = ConnectionConfig(
 # Store Users
 # @app.post("/register")
 # async def register_user(email: str):
+class UserDeRegisterRequest(BaseModel):
+    email: str
+    
+@app.post("/deregister")
+async def deregister_user(request: UserDeRegisterRequest):
+    email = request.email
+    logger.info(f"Deleting user with email :{email}")
+    db = SessionLocal()
+    user = db.query(User).filter(User.email == email).first()
+    if user:
+        user_name = user.name  # Store the user's name before deleting
+        db.delete(user)  # Delete the user
+        db.commit()  # Commit the changes
+        db.close()
+
+    else:
+        raise HTTPException(status_code=400, detail="Email not registered")
+        return
+        
+
+    # SENDING EMAIL AFTER CONFIRMING REGISTRATION
+    message = MessageSchema(
+        subject="Goodbye form AI News Services!",
+        recipients=[email],
+        body=f"Dear {user_name}, \nYou have been successfully removed for AI News Service! \nThank You for being with us , we hope we will become better andyou will comeback. \n Regards \nRounak Gera",
+        subtype="plain"
+    )
+    
+    fm = FastMail(conf)
+    await fm.send_message(message)        
+    return {"message": "Deregistered successfully!"}
 
 
 @app.post("/register")
@@ -256,12 +287,22 @@ def send_emails_wrapper():
     logger.info("Emails sent successfully!")
 
 # Schedule Email Sending
-scheduler.add_job(send_emails_wrapper, "interval", hours=24) 
+job = scheduler.add_job(send_emails_wrapper, "interval", hours=1) 
 scheduler.start()
+next_run_time = job.next_run_time  # This gives the next execution time (UTC)
+
 
 @app.get("/")
 async def home():
     return {"message": "Welcome to AI News Service!"}
+
+import _datetime 
+@app.get("/time-remain")
+async def time_remian():
+    current_time = _datetime.datetime.now(_datetime.timezone.utc)  # Get current UTC time
+    time_left = next_run_time - current_time
+    return {"Time Left " : time_left * 0.000277778}
+
 
 @app.get("/test-email")
 async def test_email():

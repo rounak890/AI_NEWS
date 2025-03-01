@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import TodayNews from './pages/TodayNews';
 import Dashboard from './pages/Dashboard';
 import Register from './pages/Register';
+import Deregister from './pages/Deregister';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Route path="/today" element={<TodayNews />} />
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/register" element={<Register />} />
+            <Route path="/deregister" element={<Deregister />} />
           </Routes>
         </main>
       </div>
