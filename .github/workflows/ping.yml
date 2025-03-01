@@ -1,0 +1,14 @@
+name: Ping Website Every 10 Minutes
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' 
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Website
+        env:
+          URL: ${{ secrets.WEBSITE_URL }}
+        run: curl -Is "$URL" | head -n 1
