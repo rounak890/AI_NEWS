@@ -235,8 +235,9 @@ async def fetch_ai_news():
 
 
 # Send Emails
-async def send_emails():
-    await fetch_ai_news()
+async def send_emails(test = False):
+    if not test:
+        await fetch_ai_news()
 
     db = SessionLocal()
     users = db.query(User).all()
@@ -271,10 +272,11 @@ async def send_emails():
     """
 
     for article in news_articles:
+        
         news_content += f"""
             <li>
                 <h3>{article.title}</h3>
-                <p>{article.content}</p>
+                <p>{article.content.replace('**', '<strong>').replace('\n', '<br>')}</p>
                 <p><strong>Virality Score:</strong> {article.virality_score}</p>
                 <p>Publish Date : {article.publish_date}</p>
 
@@ -322,7 +324,7 @@ async def home():
 
 @app.get("/test-email")
 async def test_email():
-    await send_emails()
+    await send_emails(test = True)
     return {"message": "Test email sent!"}
 
 @app.get("/users")
