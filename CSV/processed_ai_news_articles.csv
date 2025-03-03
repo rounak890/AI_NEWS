@@ -1,504 +1,1055 @@
 title,link,publish_date,content,FINAL,SCORE,CATEGORY
-Sustainability is key in 2025 for businesses to advance AI efforts,https://www.artificialintelligence-news.com/news/sustainability-key-in-2025-businesses-advance-ai-efforts/,2025-02-04 14:44:43+00:00,"Since AI hit the mainstream in the last few years, industries across the world are feeling the positive impacts. From helping humanity to clean up our oceans to helping doctors to detect cancers earlier than ever before , AI’s potential and impact are growing by the day.
+Opera introduces browser-integrated AI agent,https://www.artificialintelligence-news.com/news/opera-introduces-browser-integrated-ai-agent/,2025-03-03 16:34:09+00:00,"Opera has introduced “Browser Operator,” a native AI agent designed to perform tasks for users directly within the browser.
 
-Regardless of whether this is being powered via a supercomputer, edge computing methods, or a traditional data centre, society is truly feeling the positive effect of advances in the AI industry.
+Rather than acting as a separate tool, Browser Operator is an extension of the browser itself—designed to empower users by automating repetitive tasks like purchasing products, completing online forms, and gathering web content.
 
-However, with fresh innovation has always come questions around environmental impact. These concerns are gaining momentum, especially around the energy consumption associated with the increased processing power required to run increasingly large systems.
+Unlike server-based AI integrations which require sensitive data to be sent to third-party servers, Browser Operator processes tasks locally within the Opera browser.
 
-The United Nations Environment Programme recently expressed concerns about the rising levels of e-waste and cooling considerations for data centres more specifically. This also follows on from similar concerns from academia , who have flagged that a larger carbon footprint might be the price we are paying for innovation.
+Opera’s demonstration video showcases how Browser Operator can streamline an everyday task like buying socks. Instead of manually scrolling through product pages or filling out payment forms, users could delegate the entire process to Browser Operator—allowing them to shift focus to activities that matter more to them, such as spending time with loved ones.
 
-Add on top of this the fact that governments globally are implementing new regulations and reporting requirements as part of initiatives to curb the impact of climate change, such as the EU’s Circular Economy Action Plan (CEAP), and it becomes clear this issue is coming to the forefront of the AI agenda.
+Harnessing natural language processing powered by Opera’s AI Composer Engine, Browser Operator interprets written instructions from users and executes corresponding tasks within the browser. All operations occur locally on a user’s device, leveraging the browser’s own infrastructure to safely and swiftly complete commands.
 
-Analysts around the globe are also beginning to focus on this, with Gartner naming energy-efficient computing as a top technology trend for 2025 , as organisations come under pressure to show they are considering the impact AI is having on the environment.
+If Browser Operator encounters a sensitive step in the process, such as entering payment details or approving an order, it pauses and requests the user’s input. You also have the freedom to intervene and take control of the process at any time.
 
-Businesses that are not considering sustainability as part of core AI infrastructure and expansion or technology strategies are at risk of hindering their own progress. Failing to keep pace with sustainable practices can cause reputational damage, as organisations may be seen as behind the curve in an increasingly sustainability-focused world, alongside risking non-compliance with regulation.
+Every step Browser Operator takes is transparent and fully reviewable, providing users a clear understanding of how tasks are being executed. If mistakes occur – like placing an incorrect order – you can further instruct the AI agent to make amends, such as cancelling the order or adjusting a form.
 
-When looking at the previously mentioned example of e-waste, if organisations are found to be not properly recycling devices (such as our Global Take Back Service ), they could face negative feedback and lose business as a result of poor brand image. With these factors in mind, it’s clear that businesses must consider building a sustainable AI framework that supports operational efficiency, encouraging business growth.
+The key differentiators: Privacy, performance, and precision
 
-Prioritising the implementation of technologies that limit energy consumption can be a huge help when it comes to ensuring regulatory compliance and the ability to meet greater sustainability goals. These also come with the ability to help organisations to future-proof against market instability with reduced reliance on energy along with strengthening brand reputation in an increasingly environmentally-conscious world.
+What sets Browser Operator apart from other AI-integrated tools is its localised, privacy-first architecture. Unlike competitors that depend on screenshots or video recordings to understand webpage content, Opera’s approach uses the Document Object Model (DOM) Tree and browser layout data—a textual representation of the webpage.
 
-This is within easy reach for many businesses as there is a large number of offerings in the market that can balance sustainability efforts, with high processing capabilities. At ASUS we have partnered with Intel to provide servers that prioritise energy efficiency . There is so much available to businesses today if they choose to take the initial step and consider a strategy to implement technologies which balance regulatory pressures, customer expectations, and overall business goals will help organisations to feel confident innovation won’t come at a cost to the environment.
+This difference offers several key advantages:
 
-IDC has raised this with its audience, recently releasing predictions on the technology industry which outlined; “To address the environmental challenges of harnessing AI’s benefits, enterprises are turning to Sustainable AI Frameworks that focus on minimising the environmental impact of artificial intelligence by addressing key elements such as energy efficiency, resource optimisation, and e-waste reduction.”
+Faster task completion: Browser Operator doesn’t need to “see” and interpret pixels on the screen or emulate mouse movements. Instead, it accesses web page elements directly, avoiding unnecessary overhead and allowing it to process pages holistically without scrolling.
 
-As AI innovation continues to grow, alongside market pressure, businesses will find it becomes clear which organisations within the market are able to cope, and which will be left behind. Ultimately, those who choose to embed sustainability into AI strategies will lead the way.
+Enhanced privacy: With all operations conducted on the browser itself, user data – including logins, cookies, and browsing history – remains secure on the local device. No screenshots, keystrokes, or personal information are sent to Opera’s servers.
 
-(Photo by Angela Benito)
+Easier interaction with page elements: The AI can engage with elements hidden from the user’s view, such as behind cookie popups or verification dialogs, enabling seamless access to web page content.
 
-See also: French initiative for responsible AI leaders
+By enabling the browser to autonomously perform tasks, Opera is taking a significant step forward in making browsers “agentic”—not just tools for accessing the internet, but assistants that actively enhance productivity.
+
+See also: You.com ARI: Professional-grade AI research agent for businesses
 
 Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
 
-Explore other upcoming enterprise technology events and webinars powered by TechForge here.","## AI's Green Dilemma: Innovation vs. Environment - What Does It Mean for You?
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**Tired of Endless Online Chores? Opera's Got You Covered!**
 
 **Why Read This?**
 
-AI is booming, helping us with everything from ocean cleanup to cancer detection. But all that processing power comes at a cost: energy consumption and e-waste are raising serious environmental concerns.
+Opera just launched ""Browser Operator,"" a cool new AI sidekick built right into your browser, ready to handle those tedious online tasks you hate.
 
 **Why It Matters for You:**
 
-Ignoring sustainability in your AI strategy is like driving a gas guzzler in a world of electric cars. Companies are facing pressure from regulations, customers, and analysts to be eco-friendly. Those that don't prioritize energy-efficient AI risk reputational damage, non-compliance, and falling behind. The good news? Sustainable AI solutions are readily available, offering a win-win: powerful AI that's also kind to the planet. Think reduced energy bills, a stronger brand, and a future-proof business. 
+Imagine ditching the endless scrolling for socks, or skipping those mind-numbing online forms. Browser Operator takes over, so you can spend more time doing what you love – like hanging out with family! It’s like having a super-efficient, privacy-conscious assistant that lives in your browser, getting things done for you. Plus, it keeps your info safe and sound, right on your computer. 
 
 **Want More?**
 
-Explore the full details here: https://www.artificialintelligence-news.com/news/sustainability-key-in-2025-businesses-advance-ai-efforts/
+Dive into the details and see how Opera is changing the browsing game: <https://www.artificialintelligence-news.com/news/opera-introduces-browser-integrated-ai-agent/>
 ","7
-","Technology and Sustainability
+","Technology
 "
-Zebra Technologies and enterprise AI in the APAC,https://www.artificialintelligence-news.com/news/zebra-technologies-and-enterprise-ai-in-the-apac/,2025-02-04 14:43:12+00:00,"Enterprise AI transformation is reaching a tipping point. In the Asia Pacific, Zebra Technologies has unveiled ambitious plans to change frontline operations across the region. At a time when CISQ estimates poor software quality will cost US businesses $2.41 trillion in 2022, the push for practical, results-driven AI implementation is urgent.
+Autoscience Carl: The first AI scientist writing peer-reviewed papers,https://www.artificialintelligence-news.com/news/autoscience-carl-the-first-ai-scientist-writing-peer-reviewed-papers/,2025-03-03 15:50:23+00:00,"The newly-formed Autoscience Institute has unveiled ‘Carl,’ the first AI system crafting academic research papers to pass a rigorous double-blind peer-review process.
 
-“Elements of our three-pillar strategy have been around for quite some time, but what’s revolutionising the frontline today is intelligent automation,” Tom Bianculli, Chief Technology Officer at Zebra Technologies, told reporters at a briefing during Zebra’s 2025 Kickoff in Perth, Australia last week. “We’re not just digitising workflows – we’re connecting wearable technology with robotic workflows, enabling frontline workers to seamlessly interact with automation in ways that were impossible just five years ago.”
+Carl’s research papers were accepted in the Tiny Papers track at the International Conference on Learning Representations (ICLR). Critically, these submissions were generated with minimal human involvement, heralding a new era for AI-driven scientific discovery.
 
-Practical applications driving change
+Meet Carl: The ‘automated research scientist’
 
-The real-world impact of enterprise AI transformation is already evident in Zebra’s recent collaboration with a major North American retailer. The solution combines traditional AI with generative AI capabilities, enabling fast shelf analysis and automated task generation.
+Carl represents a leap forward in the role of AI as not just a tool, but an active participant in academic research. Described as “an automated research scientist,” Carl applies natural language models to ideate, hypothesise, and cite academic work accurately.
 
-“You snap a picture of a shelf, [and] within one second, the traditional AI identifies all the products on the shelf, identifies where there’s missing product, maybe misplaced product… and then it makes that information available to a Gen AI agent that then decides what should you do,” Bianculli explains.
+Crucially, Carl can read and comprehend published papers in mere seconds. Unlike human researchers, it works continuously, thus accelerating research cycles and reducing experimental costs.
 
-This level of automation has demonstrated significant operational improvements, reducing staffing requirements at the retailer by 25%. When it detects missing stock, the system automatically generates tasks for the right personnel, streamlining what was previously a multi-step manual process.
+According to Autoscience, Carl successfully “ideated novel scientific hypotheses, designed and performed experiments, and wrote multiple academic papers that passed peer review at workshops.”
 
-APAC leading AI adoption
+This underlines the potential of AI to not only complement human research but, in many ways, surpass it in speed and efficiency.
 
-The Asia Pacific region is emerging as a frontrunner in enterprise AI transformation. IBM research presented at the briefing indicates that 54% of APAC enterprises now expect AI to deliver longer-term innovation and revenue generation benefits. The region’s AI investment priorities for 2025 are clearly defined:
+Carl is a meticulous worker, but human involvement is still vital
 
-– 21% focused on enhancing customer experiences
+Carl’s ability to generate high-quality academic work is built on a three-step process:
 
-– 18% directed toward business process automation
+Ideation and hypothesis formation: Leveraging existing research, Carl identifies potential research directions and generates hypotheses. Its deep understanding of related literature allows it to formulate novel ideas in the field of AI.
 
-– 16% invested in sales automation and customer lifecycle management
+Experimentation: Carl writes code, tests hypotheses, and visualises the resulting data through detailed figures. Its tireless operation shortens iteration times and reduces redundant tasks.
 
-Ryan Goh, Senior Vice President and General Manager of Asia Pacific at Zebra Technologies, points to practical implementations that are already driving results: “We have customers in e-commerce using ring scanners to scan packages, significantly improving their productivity compared to traditional scanning methods.”
+Presentation: Finally, Carl compiles its findings into polished academic papers—complete with data visualisations and clearly articulated conclusions.
 
-Innovation at the edge
+Although Carl’s capabilities make it largely independent, there are points in its workflow where human involvement is still required to adhere to computational, formatting, and ethical standards:
 
-Zebra’s approach to AI deployment encompasses:
+Greenlighting research steps: To avoid wasting computational resources, human reviewers provide “continue” or “stop” signals during specific stages of Carl’s process. This guidance steers Carl through projects more efficiently but does not influence the specifics of the research itself.
 
-– AI devices with native neural architecture for on-device processing
+Citations and formatting: The Autoscience team ensures all references are correctly cited and formatted to meet academic standards. This is currently a manual step but ensures the research aligns with the expectations of its publication venue.
 
-– Multimodal experiences that mirror human cognitive capabilities
+Assistance with pre-API models: Carl occasionally relies on newer OpenAI and Deep Research models that lack auto-accessible APIs. In such cases, manual interventions – such as copy-pasting outputs – bridge these gaps. Autoscience expects these tasks to be entirely automated in the future when APIs become available.
 
-– Gen AI agents optimising workload distribution between edge and cloud
+For Carl’s debut paper, the human team also helped craft the “related works” section and refine the language. These tasks, however, were unnecessary following updates applied before subsequent submissions.
 
-The company is advancing its activities in edge computing, with Bianculli revealing plans for on-device language models. This innovation mainly targets environments where internet connectivity is restricted or prohibited, ensuring AI capabilities remain accessible regardless of network conditions.
+Stringent verification process for academic integrity
 
-Regional market dynamics
+Before submitting any research, the Autoscience team undertook a rigorous verification process to ensure Carl’s work met the highest standards of academic integrity:
 
-The enterprise AI transformation journey varies significantly across APAC markets. India’s landscape is particularly dynamic, with the country’s GDP projected to grow 6.6% and manufacturing expected to surge by 7% YOY. Its commitment to AI is evident, with 96% of organisations surveyed by WEF actively running AI programmes.
+Reproducibility: Every line of Carl’s code was reviewed and experiments were rerun to confirm reproducibility. This ensured the findings were scientifically valid and not coincidental anomalies.
 
-Japan presents a different scenario, with 1.2% projected GDP growth and some unique challenges to automation adoption. “We used to think that tablets are for retail, but the Bay Area proved us wrong,” Goh notes, highlighting unexpected applications in manufacturing and customer self-service solutions.
+Originality checks: Autoscience conducted extensive novelty evaluations to ensure that Carl’s ideas were new contributions to the field and not rehashed versions of existing publications.
 
-Future trajectory
+External validation: A hackathon involving researchers from prominent academic institutions – such as MIT, Stanford University, and U.C. Berkeley – independently verified Carl’s research. Further plagiarism and citation checks were performed to ensure compliance with academic norms.
 
-Gartner’s projections indicate that by 2027, 25% of CIOs will implement augmented connected workforce initiatives that will halve the time required for competency development. Zebra is already moving in this direction with its Z word companion, which uses generative AI and large language models and is scheduled for pilot deployment with select customers in Q2 of this year.
+Undeniable potential, but raises larger questions
 
-With a global presence spanning 120+ offices in 55 countries and 10,000+ channel partners across 185 countries, Zebra is positioned play strongly in the enterprise AI transformation across APAC. As the region moves from AI experimentation to full-scale deployment, the focus remains on delivering practical innovations that drive measurable business outcomes and operational efficiency.
+Achieving acceptance at a workshop as respected as the ICLR is a significant milestone, but Autoscience recognises the greater conversation this milestone may spark. Carl’s success raises larger philosophical and logistical questions about the role of AI in academic settings.
 
-(Photo by )
+“We believe that legitimate results should be added to the public knowledge base, regardless of where they originated,” explained Autoscience. “If research meets the scientific standards set by the academic community, then who – or what – created it should not lead to automatic disqualification.”
 
-See also: Walmart and Amazon drive retail transformation with AI
+“We also believe, however, that proper attribution is necessary for transparent science, and work purely generated by AI systems should be discernable from that produced by humans.”
+
+Given the novelty of autonomous AI researchers like Carl, conference organisers may need time to establish new guidelines that account for this emerging paradigm, especially to ensure fair evaluation and intellectual attribution standards. To prevent unnecessary controversy at present, Autoscience has withdrawn Carl’s papers from ICLR workshops while these frameworks are being devised.
+
+Moving forward, Autoscience aims to contribute to shaping these evolving standards. The company intends to propose a dedicated workshop at NeurIPS 2025 to formally accommodate research submissions from autonomous research systems.
+
+As the narrative surrounding AI-generated research unfolds, it’s clear that systems like Carl are not merely tools but collaborators in the pursuit of knowledge. But as these systems transcend typical boundaries, the academic community must adapt to fully embrace this new paradigm while safeguarding integrity, transparency, and proper attribution.
+
+(Photo by Rohit Tandon)
+
+See also: You.com ARI: Professional-grade AI research agent for businesses
 
 Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
 
-Explore other upcoming enterprise technology events and webinars powered by TechForge here","## AI is Transforming Businesses in Asia Pacific: Are You Ready?
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**Is AI About to Write All Our Research Papers? Meet Carl!**
 
 **Why Read This?**
 
-Zebra Technologies is making big moves in Asia Pacific, using AI to revolutionize how businesses operate, especially on the ""frontline"" – think retail floors, warehouses, and delivery services.
+An AI system named Carl just became the first of its kind to write research papers that passed a tough review process. Seriously, an AI wrote a paper and *scientists* approved it!
 
 **Why It Matters for You:**
 
-Imagine AI that can instantly analyze shelves, identify missing products, and automatically assign tasks to the right employees, boosting efficiency by 25%! That's the power of AI in action. Asia Pacific is leading the way in adopting these technologies, focusing on better customer experiences, streamlined processes, and smarter sales. Whether it's ring scanners in e-commerce or AI-powered devices in manufacturing, the message is clear: AI is no longer a future possibility, but a present-day necessity for staying competitive. Find out how your business can leverage these advancements to boost productivity and cut costs.
+This is a game-changer! Imagine AI handling the grunt work of research, freeing up human brains for the big ideas. While it raises questions about the future of science and how we give credit, it also opens doors to faster discoveries and cheaper experiments. Are robots going to take over academia? Maybe not, but they're definitely shaking things up.
 
 **Want More?**
 
-Explore the full details here: https://www.artificialintelligence-news.com/news/zebra-technologies-and-enterprise-ai-in-the-apac/
+Read the full story of Carl's academic adventures here: <https://www.artificialintelligence-news.com/news/autoscience-carl-the-first-ai-scientist-writing-peer-reviewed-papers/>
 ","8
-",
-French initiative for responsible AI leaders,https://www.artificialintelligence-news.com/news/french-initiative-for-responsible-ai-leaders/,2025-02-04 13:17:12+00:00,"ESSEC Business School and Accenture have announced the launch of a new initiative, ‘AI for Responsible Leadership,’ which marks the 10th anniversary of the establishment of the role of Chair at ESSEC, titled the ESSEC Accenture Strategic Business Analytics Chair.
-
-The initiative aims to encourage the use of artificial intelligence by leaders in ways that are responsible and ethical, and that lead to high levels of professional performance. It aims to provide current and future leaders with the skills they require when faced with challenges in the future; economic, environmental, or social.
-
-Several organisations support the initiative, including institutions, businesses, and specialised groups, including ESSEC Metalab for Data, Technology & Society, and Accenture Research.
-
-Executive Director of the ESSEC Metalab, Abdelmounaim Derraz, spoke of the collaboration, saying, “Technical subjects are continuing to shake up business schools, and AI has opened up opportunities for collaboration between partner companies, researchers, and other members of the ecosystem (students, think tanks, associations, [and] public service).”
-
-ESSEC and Accenture aim to integrate perspectives from multiple fields of expertise, an approach that is a result of experimentation in the decade the Chair has existed.
-
-The elements of the initiative include workshops and talks designed to promote the exchange of knowledge and methods. It will also include a ‘barometer’ to help track AI’s implementation and overall impact on responsible leadership.
-
-The initiative will engage with a network of institutions and academic publications, and an annual Grand Prix will recognise projects that focus on and explore the subject of AI and leadership.
-
-Fabrice Marque, founder of the initiative and the current ESSEC Accenture Strategics Business Analytics Chair, said, “For years, we have explored the potential of using data and artificial intelligence in organisations. The synergies we have developed with our partners (Accenture, Accor, Dataiku, Engie, Eurofins, MSD, Orange) allowed us to evaluate and test innovative solutions before deploying them.
-
-“With this initiative, we’re taking a major step: bringing together an engaged ecosystem to sustainably transform how leaders think, decide, and act in the face of tomorrow’s challenges. Our ambition is clear: to make AI a lever for performance, innovation and responsibility for […] leaders.”
-
-Managing Director at Accenture and sponsor of the ESSEC/Accenture Chair and initiative, Aurélien Bouriot, said, “The ecosystem will benefit from the resources that Accenture puts at its disposal, and will also benefit our employees who participate.”
-
-Laetitia Cailleteau, Managing Director at Accenture and leader of Responsible AI & Generative AI for Europe, highlighted the importance of future leaders understanding all aspects of AI.
-
-“AI is a pillar of the ongoing industrial transformation. Tomorrow’s leaders must understand the technical, ethical, and human aspects and risks – and know how to manage them. In this way, they will be able to maximise value creation and generate a positive impact for the organisation, its stakeholders and society as a whole.”
-
-Image credit: Wikimedia Commons
-
-See also: Microsoft and OpenAI probe alleged data theft by DeepSeek
-
-Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
-
-Explore other upcoming enterprise technology events and webinars powered by TechForge here.","## AI with a Conscience: Shaping Responsible Leaders for Tomorrow
-
-**Why Read This?**
-
-Top business school ESSEC and tech giant Accenture are teaming up to launch ""AI for Responsible Leadership,"" an initiative focused on making sure AI is used ethically and effectively by future leaders.
-
-**Why It Matters for You:**
-
-AI is changing everything, but it's crucial that it's used responsibly. This initiative aims to equip leaders with the skills to navigate the ethical, technical, and human aspects of AI. Think of it as a crash course in building a future where AI benefits everyone, not just a select few. They'll be tracking AI's impact, hosting workshops, and even giving out awards to projects that champion responsible AI leadership. If you're interested in how AI can be a force for good, this is something to watch!
-
-**Want More?**
-
-Explore the full details here: https://www.artificialintelligence-news.com/news/french-initiative-for-responsible-ai-leaders/
-",,
-ChatGPT gains agentic capability for complex research,https://www.artificialintelligence-news.com/news/chatgpt-gains-agentic-capability-for-complex-research/,2025-02-03 17:22:06+00:00,"OpenAI is releasing a powerful agentic capability that enables ChatGPT to conduct complex, multi-step research tasks online. The feature, called Deep Research, reportedly achieves in tens of minutes what could take a human researcher hours or even days.
-
-OpenAI describes Deep Research as a significant milestone in its journey toward artificial general intelligence (AGI).
-
-“The ability to synthesise knowledge is a prerequisite for creating new knowledge,” says OpenAI. “For this reason, Deep Research marks a significant step toward our broader goal of developing AGI.”
-
-Agentic AI enables ChatGPT to assist with complex research
-
-Deep Research empowers ChatGPT to find, analyse, and synthesise information from hundreds of online sources autonomously. With just a prompt from the user, the tool can deliver a comprehensive report, comparable to the output of a research analyst, according to OpenAI.
-
-Drawing capabilities from a variant of OpenAI’s upcoming “o3” model, the aim is to free users from time-consuming, labour-intensive information gathering. Whether it’s a competitive analysis of streaming platforms, an informed policy review, or even personalised recommendations for a new commuter bike, Deep Research promises precise and reliable results.
-
-Importantly, every output includes full citations and transparent documentation—enabling users to verify the findings with ease.
-
-The tool appears particularly adept at uncovering niche or non-intuitive insights, making it an invaluable asset across industries like finance, science, policymaking, and engineering. But OpenAI also envisions Deep Research being useful for the average user, such as shoppers looking for hyper-personalised recommendations or a specific product.
-
-This latest agentic capability operates through the user interface of ChatGPT; users simply select the “Deep Research” option in the message composer and type their query. Supporting files or spreadsheets can also be uploaded for additional context.
-
-Once initiated, the AI embarks on a rigorous multi-step process, which may take 5-30 minutes to complete. A sidebar provides updates on the actions taken and the sources consulted. Users can carry on with other tasks and will be notified when the final report is ready.
-
-The results are presented in the chat as detailed, well-documented reports. In the coming weeks, OpenAI plans to enhance these outputs further by embedding images, data visualisations, and graphs to deliver even greater clarity and context.
-
-Unlike GPT-4o – which excels in real-time, multimodal conversations – Deep Research prioritises depth and detail. Its ability to rigorously cite sources and provide comprehensive analysis sets it apart—shifting the focus from fast, summarised answers to well-documented, research-grade insights.
-
-Built for real-world challenges
-
-Deep Rsearch leverages sophisticated training methodologies, grounded in real-world browsing and reasoning tasks across diverse domains. Its model was trained via reinforcement learning to autonomously plan and execute multi-step research processes, including backtracking and adaptively refining its approach as new information becomes available.
-
-The tool can browse user-uploaded files, generate and iterate on graphs using Python, embed media such as generated images and web pages into responses, and cite exact sentences or passages from its sources. The result of this extensive training is a highly capable agent for tackling complex real-world problems.
-
-OpenAI evaluated Deep Research across a broad set of expert-level exams known as “Humanity’s Last Exam”. The exams – comprising over 3,000 questions covering topics from rocket science and linguistics to ecology and classics – test an AI’s competence in solving multifaceted problems.
-
-The results were impressive, with the model achieving a record-breaking 26.6% accuracy across these domains:
-
-GPT-4o: 3.3%
-
-Grok-2: 3.8%
-
-Claude 3.5 Sonnet: 4.3%
-
-OpenAI o1: 9.1%
-
-DeepSeek-R1: 9.4%
-
-Deep research: 26.6% (with browsing + Python tools)
-
-Deep Research also reached a new state-of-the-art performance on the GAIA benchmark, which evaluates AI models on real-world questions requiring reasoning, multi-modal fluency, and tool-use proficiency. Deep Research topped the leaderboard with a score of 72.57%.
-
-Limitations and challenges
-
-While the Deep Research agentic AI capability in ChatGPT signifies a bold step forward, OpenAI acknowledges that the technology is still in its early stages and comes with limitations.
-
-The system occasionally “hallucinates” facts or offers incorrect inferences, albeit at a notably reduced rate compared to existing GPT models, according to OpenAI. It also faces challenges in differentiating between authoritative sources and speculative content, and it struggles to calibrate its confidence levels—often displaying undue certainty for potentially uncertain findings.
-
-Minor formatting errors in reports and citations, as well as delays in initiating tasks, could also frustrate initial users. OpenAI says these issues are expected to improve over time with more usage and iterative refinements.
-
-OpenAI is rolling out the capability gradually, starting with Pro users, who will have access to up to 100 queries per month. Plus and Team tiers will follow suit, with Enterprise access arriving next.
-
-UK, Swiss, and European Economic Area residents are not yet able to access the feature, but OpenAI says it’s working on expanding its rollout to these regions.
-
-In the weeks ahead, OpenAI will expand the feature to ChatGPT’s mobile and desktop platforms. The long-term vision includes enabling connections to subscription-based or proprietary data sources, further enhancing the robustness and personalisation of its outputs.
-
-Looking further ahead, OpenAI envisions integrating Deep Research with “Operator,” an existing chatbot capability that takes real-world actions. This integration would allow ChatGPT to seamlessly handle tasks that require both asynchronous online research and real-world execution.
-
-(Photo by John Schnobrich)
-
-See also: Microsoft and OpenAI probe alleged data theft by DeepSeek
-
-Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
-
-Explore other upcoming enterprise technology events and webinars powered by TechForge here.",,,
-Qwen 2.5-Max outperforms DeepSeek V3 in some benchmarks,https://www.artificialintelligence-news.com/news/qwen-2-5-max-outperforms-deepseek-v3-some-benchmarks/,2025-01-29 10:03:48+00:00,"Alibaba’s response to DeepSeek is Qwen 2.5-Max, the company’s latest Mixture-of-Experts (MoE) large-scale model.
-
-Qwen 2.5-Max boasts pretraining on over 20 trillion tokens and fine-tuning through cutting-edge techniques like Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF).
-
-With the API now available through Alibaba Cloud and the model accessible for exploration via Qwen Chat, the Chinese tech giant is inviting developers and researchers to see its breakthroughs firsthand.
-
-Outperforming peers
-
-When comparing Qwen 2.5-Max’s performance against some of the most prominent AI models on a variety of benchmarks, the results are promising.
-
-Evaluations included popular metrics like the MMLU-Pro for college-level problem-solving, LiveCodeBench for coding expertise, LiveBench for overall capabilities, and Arena-Hard for assessing models against human preferences.
-
-According to Alibaba, “Qwen 2.5-Max outperforms DeepSeek V3 in benchmarks such as Arena-Hard, LiveBench, LiveCodeBench, and GPQA-Diamond, while also demonstrating competitive results in other assessments, including MMLU-Pro.”
-
-The instruct model – designed for downstream tasks like chat and coding – competes directly with leading models such as GPT-4o, Claude-3.5-Sonnet, and DeepSeek V3. Among these, Qwen 2.5-Max managed to outperform rivals in several key areas.
-
-Comparisons of base models also yielded promising outcomes. While proprietary models like GPT-4o and Claude-3.5-Sonnet remained out of reach due to access restrictions, Qwen 2.5-Max was assessed against leading public options such as DeepSeek V3, Llama-3.1-405B (the largest open-weight dense model), and Qwen2.5-72B. Again, Alibaba’s newcomer demonstrated exceptional performance across the board.
-
-“Our base models have demonstrated significant advantages across most benchmarks,” Alibaba stated, “and we are optimistic that advancements in post-training techniques will elevate the next version of Qwen 2.5-Max to new heights.”
-
-Making Qwen 2.5-Max accessible
-
-To make the model more accessible to the global community, Alibaba has integrated Qwen 2.5-Max with its Qwen Chat platform, where users can interact directly with the model in various capacities—whether exploring its search capabilities or testing its understanding of complex queries.
-
-For developers, the Qwen 2.5-Max API is now available through Alibaba Cloud under the model name “qwen-max-2025-01-25”. Interested users can get started by registering an Alibaba Cloud account, activating the Model Studio service, and generating an API key.
-
-The API is even compatible with OpenAI’s ecosystem, making integration straightforward for existing projects and workflows. This compatibility lowers the barrier for those eager to test their applications with the model’s capabilities.
-
-Alibaba has made a strong statement of intent with Qwen 2.5-Max. The company’s ongoing commitment to scaling AI models is not just about improving performance benchmarks but also about enhancing the fundamental thinking and reasoning abilities of these systems.
-
-“The scaling of data and model size not only showcases advancements in model intelligence but also reflects our unwavering commitment to pioneering research,” Alibaba noted.
-
-Looking ahead, the team aims to push the boundaries of reinforcement learning to foster even more advanced reasoning skills. This, they say, could enable their models to not only match but surpass human intelligence in solving intricate problems.
-
-The implications for the industry could be profound. As scaling methods improve and Qwen models break new ground, we are likely to see further ripples across AI-driven fields globally that we’ve seen in recent weeks.
-
-(Photo by Maico Amorim)
-
-See also: ChatGPT Gov aims to modernise US government agencies
-
-Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
-
-Explore other upcoming enterprise technology events and webinars powered by TechForge here.",,,
-What’s next for smart glasses,https://www.technologyreview.com/2025/02/05/1110983/whats-next-for-smart-glasses/,2025-02-05 00:00:00,"Now the general public may finally be getting access to devices they can use. The AI world is abuzz over agents, which augment large language models (LLMs) with the ability to carry out tasks by themselves. The past 12 months have seen huge leaps in AI multimodal LLMs’ abilities to handle video, images, and audio in addition to text, which opens up new applications for smart glasses that would not have been possible previously, says Louis Rosenberg, an AR researcher who worked on the first functional augmented-reality system at Stanford University in the 1990s.
-
-We already know Meta is definitely interested in AI agents. Although the company said in September that it has no plans to sell its Orion prototype glasses to the public, given their expense, Mark Zuckerberg raised expectations for its next generations of Meta’s smart glasses when he declared Orion the “most advanced pair of AR glasses ever made.” He’s also made it clear how deeply invested Meta is in bringing a “highly intelligent and personalized AI assistant” to as many users as possible and that he’s confident Meta’s glasses are the “perfect form factor for AI.”
-
-Although Meta is already making its Ray-Ban smart glasses’ AI more conversational—its new live AI feature responds to prompts about what its wearer is seeing and hearing via its camera and microphone—future agents will give these systems not only eyes and ears, but a contextual awareness of what’s around them, Rosenberg says. For example, agents running on smart glasses could hold unprompted interactive conversations with their wearers based on their environment, reminding them to buy orange juice when they walk past a store, for example, or telling them the name of a coworker who passes them on the sidewalk. We already know Google is deeply interested in this agent-first approach: The unnamed smart glasses it first showed off at Google I/O in May 2024 were powered by its Astra AI agent system.
-
-“Having worked on mixed reality for over 30 years, it’s the first time I can see an application that will really drive mass adoption,” Rosenberg says.
-
-Meta and Google will likely tussle to be the sector’s top dog
-
-It’s unclear how far we are from that level of mass adoption. During a recent Meta earnings call, Zuckerberg said 2025 would be a “defining year” for understanding the future of AI glasses and whether they explode in popularity or represent “a longer grind.”","## Smart Glasses are About to Get REALLY Smart: AI is the Key
-
-**Why Read This?**
-
-Remember those clunky smart glasses that never quite took off? Get ready for a comeback! AI is about to make them incredibly useful, turning them into personal assistants that can see, hear, and understand the world around you.
-
-**Why It Matters for You:**
-
-Imagine glasses that remind you to buy orange juice when you're near the store, or tell you the name of that coworker you always forget. Companies like Meta and Google are racing to create these AI-powered glasses, giving them the ability to have unprompted interactive conversations with you based on your environment. They're not just about seeing and recording; they're about understanding and helping. 2025 will be the year we find out if these next-gen smart glasses will be a hit or just another tech fad. Are you ready to wear the future?
-
-**Want More?**
-
-Explore the full details here: https://www.technologyreview.com/2025/02/05/1110983/whats-next-for-smart-glasses/
-","9
-","Artificial Intelligence and Wearable Technology
+","Artificial Intelligence
 "
-Four Chinese AI startups to watch beyond DeepSeek,https://www.technologyreview.com/2025/02/04/1110942/four-chinese-ai-startups-deepseek/,2025-02-04 00:00:00,"An elite group of companies known as the “Six Tigers”—Stepfun, Zhipu, Minimax, Moonshot, 01.AI, and Baichuan—are generally considered to be at the forefront of China’s AI sector. But alongside them, research-focused firms like DeepSeek and ModelBest continue to grow in influence. Some, such as Minimax and Moonshot, are giving up on costly foundational model training to hone in on building consumer-facing applications on top of others’ models. Others, like Stepfun and Infinigence AI, are doubling down on research, driven in part by US semiconductor restrictions.
+You.com ARI: Professional-grade AI research agent for businesses,https://www.artificialintelligence-news.com/news/you-com-ari-professional-grade-ai-research-agent-for-businesses/,2025-02-27 11:00:04+00:00,"Palo Alto-based You.com has introduced ARI, a professional-grade AI research agent for businesses to access competitive insights.
 
-We have identified these four Chinese AI companies as the ones to watch.
+ARI (Advanced Research & Insights) delivers comprehensive, accurate, and interactive reports within minutes—potentially shaking up the $250 billion management consulting industry.
 
-Stepfun
+You.com claims ARI completes reports that typically require weeks of labour and cost thousands of dollars in just five minutes, at a fraction of traditional expenses.
 
-Founded in April 2023 by former Microsoft senior vice president Jiang Daxin, Stepfun emerged relatively late onto the AI startup scene, but it has quickly become a contender thanks to its portfolio of foundational models. It is also committed to building artificial general intelligence (AGI), a mission a lot of Chinese startups have given up on.
+With the ability to process over 400 sources simultaneously – a figure set to grow as the technology scales – ARI promises to deliver “verified citations and insights 3X faster than other currently available solutions.”
 
-With backing from investors like Tencent and funding from Shanghai’s government, the firm released 11 foundational AI models last year—spanning language, visual, video, audio, and multimodal systems. Its biggest language model so far, Step-2, has over 1 trillion parameters (GPT-4 has about 1.8 trillion). It is currently ranked behind only ChatGPT, DeepSeek, Claude, and Gemini’s models on LiveBench, a third-party benchmark site that evaluates the capabilities of large language models.","## Beyond the Headlines: 4 Chinese AI Startups You Need to Know
+Bryan McCann, Co-Founder and CTO of You.com, said: “ARI’s breakthrough is its ability to maintain contextual understanding while processing hundreds of sources simultaneously.
+
+“When combined with chain-of-thought reasoning and extended test-time compute, ARI is able to discover and incorporate adjacent research areas dynamically as analysis progresses.”
+
+A powerful AI agent for business research
+
+Traditional AI research tools are typically limited to processing between 30 to 40 data sources at a time. ARI stands out by handling hundreds of public and private data streams, ensuring unparalleled accuracy and scope in its analysis. The system doesn’t just stop at summarising data; it enhances user experience by producing rich, interactive graphs, charts, and visualisations for deeper insights.
+
+Designed to cater equally to high-level professionals and knowledge workers across industries, ARI combines advanced functionality with user-friendly accessibility. This dual-purpose design allows enterprises to deploy it as a personal assistant or as a replacement for expensive research efforts traditionally carried out by consulting firms.
+
+At the heart of ARI is a series of capabilities:
+
+Simultaneous source analysis: Processes hundreds of data sources, both public and private.
+
+Processes hundreds of data sources, both public and private. Chain-of-Thought reasoning: Dynamically evolves research parameters as insights emerge.
+
+Dynamically evolves research parameters as insights emerge. Real-time verification: Provides direct validation for every claim and data point.
+
+Provides direct validation for every claim and data point. Interactive visualisation engine: Automatically generates and cites graphs and charts to enhance reporting.
+
+Automatically generates and cites graphs and charts to enhance reporting. Enterprise data integration: Analyses a mix of public and private datasets to deliver actionable insights.
+
+During its initial deployment phase, ARI has demonstrated its versatility and potential for impact across several industries:
+
+Consulting: By analysing market reports, competitor financials, patent filings, and social sentiment data in hours rather than weeks, ARI supports due diligence with ease.
+
+By analysing market reports, competitor financials, patent filings, and social sentiment data in hours rather than weeks, ARI supports due diligence with ease. Financial services: With the ability to integrate real-time data from earnings calls, SEC filings, and industry news, ARI helps support faster and more accurate investment decisions.
+
+With the ability to integrate real-time data from earnings calls, SEC filings, and industry news, ARI helps support faster and more accurate investment decisions. Healthcare: ARI accelerates the synthesis of clinical trials, medical journals, patient data, and treatment guidelines, providing insights that support evidence-based care.
+
+ARI accelerates the synthesis of clinical trials, medical journals, patient data, and treatment guidelines, providing insights that support evidence-based care. Media: From audience data to trending topics and competitor activity, ARI enables the rapid identification of new story angles and anticipates emerging narratives in key markets.
+
+Dr Dennis Ballwieser, Managing Director and Editor at Wort & Bild Verlag, commented: “The research time has dropped from a few days to just a few hours, and the accuracy across both German and English content has been remarkable.
+
+“What excites me most is the opportunity to democratise access to professional-grade research. With ARI’s ability to analyse hundreds of verifiable sources simultaneously while maintaining accuracy, we can now offer professional insights to organisations of all sizes at a fraction of the traditional cost.”
+
+Accelerating access to strategic insights
+
+The potential for technologies like ARI goes beyond time and cost savings. For companies such as global consultancy firm APCO Worldwide, ARI’s capabilities provide a level of quality and personalisation that aligns with the modern needs of clients.
+
+Philip Fraser, CIO at APCO Worldwide, said: “To us, ARI represents a step-change in the quality and alignment to the needs of our clients. We are very excited about working with You.com to integrate the power of ARI into our award-winning, proprietary Margy AI platform.”
+
+Through such integrations, ARI has the potential to move organisations away from periodic, resource-intensive research projects towards continuous real-time intelligence that drives better decision-making across all levels.
+
+Richard Socher, Co-Founder and CEO of You.com, added: “When every employee has instant access to comprehensive, validated insights that previously required teams of consultants and weeks of work, it changes the speed and quality of business decision-making. ARI represents a paradigm shift in how organisations operate.”
+
+ARI is the newest addition to You.com’s expanding AI agent ecosystem, which has already seen the development of over 50,000 custom agents since late 2024. The company has raised $99 million in funding from investors such as Salesforce Ventures, NVIDIA, and Georgian Ventures.
+
+With ARI, You.com aims to set a new standard for an enterprise-grade AI research agent as part of broader decision-making systems.
+
+(Photo by Jeremy Beadle)
+
+See also: Endor Labs: AI transparency vs ‘open-washing’
+
+Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
+
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**Bye-Bye Pricey Consultants? This AI Does Research in Minutes!**
 
 **Why Read This?**
 
-While everyone's talking about the big names in Chinese AI, a few under-the-radar startups are making serious waves. We're spotlighting four companies that are pushing the boundaries of AI research and development in China.
+You.com just dropped ARI, an AI research agent that promises to do weeks of business research in just FIVE minutes! That could seriously disrupt the world of management consulting.
 
 **Why It Matters for You:**
 
-Think of these companies as the dark horses in the AI race. One, Stepfun, is even daring to pursue ""artificial general intelligence"" (AGI), a goal many others have abandoned. They're releasing powerful AI models that rival those from OpenAI and Google. These startups are not just building apps; they're creating the fundamental technologies that will power the future of AI. If you want to stay ahead of the curve, keep an eye on these innovators.
+Imagine getting instant, in-depth insights without shelling out thousands for consultants. ARI can analyze hundreds of sources at once, creating charts, graphs, and reports lightning fast. Whether you're in finance, healthcare, or media, this tool could give you a massive competitive edge. Is this the end of expensive research projects? It might just be the beginning.
 
 **Want More?**
 
-Explore the full details here: https://www.technologyreview.com/2025/02/04/1110942/four-chinese-ai-startups-deepseek/
+Get the scoop on ARI and how it's changing the game: <https://www.artificialintelligence-news.com/news/you-com-ari-professional-grade-ai-research-agent-for-businesses/>
+","9
+","Business/Artificial Intelligence
+"
+CERTAIN drives ethical AI compliance in Europe,https://www.artificialintelligence-news.com/news/certain-drives-ethical-ai-compliance-in-europe/,2025-02-26 17:27:42+00:00,"EU-funded initiative CERTAIN aims to drive ethical AI compliance in Europe amid increasing regulations like the EU AI Act.
+
+CERTAIN — short for “Certification for Ethical and Regulatory Transparency in Artificial Intelligence” — will focus on the development of tools and frameworks that promote transparency, compliance, and sustainability in AI technologies.
+
+The project is led by Idemia Identity & Security France in collaboration with 19 partners across ten European countries, including the St. Pölten University of Applied Sciences (UAS) in Austria. With its official launch in January 2025, CERTAIN could serve as a blueprint for global AI governance.
+
+Driving ethical AI practices in Europe
+
+According to Sebastian Neumaier, Senior Researcher at the St. Pölten UAS’ Institute of IT Security Research and project manager for CERTAIN, the goal is to address crucial regulatory and ethical challenges.
+
+“In CERTAIN, we want to develop tools that make AI systems transparent and verifiable in accordance with the requirements of the EU’s AI Act. Our goal is to develop practically feasible solutions that help companies to efficiently fulfil regulatory requirements and sustainably strengthen confidence in AI technologies,” emphasised Neumaier.
+
+To achieve this, CERTAIN aims to create user-friendly tools and guidelines that simplify even the most complex AI regulations—helping organisations both in the public and private sectors navigate and implement these rules effectively. The overall intent is to provide a bridge between regulation and innovation, empowering businesses to leverage AI responsibly while fostering public trust.
+
+Harmonising standards and improving sustainability
+
+One of CERTAIN’s primary objectives is to establish consistent standards for data sharing and AI development across Europe. By setting industry-wide norms for interoperability, the project seeks to improve collaboration and efficiency in the use of AI-driven technologies.
+
+The effort to harmonise data practices isn’t just limited to compliance; it also aims to unlock new opportunities for innovation. CERTAIN’s solutions will create open and trustworthy European data spaces—essential components for driving sustainable economic growth.
+
+In line with the EU’s Green Deal, CERTAIN places a strong focus on sustainability. AI technologies, while transformative, come with significant environmental challenges—such as high energy consumption and resource-intensive data processing.
+
+CERTAIN will address these issues by promoting energy-efficient AI systems and advocating for eco-friendly methods of data management. This dual approach not only aligns with EU sustainability goals but also ensures that AI development is carried out with the health of the planet in mind.
+
+A collaborative framework to unlock AI innovation
+
+A unique aspect of CERTAIN is its approach to fostering collaboration and dialogue among stakeholders. The project team at St. Pölten UAS is actively engaging with researchers, tech companies, policymakers, and end-users to co-develop, test, and refine ideas, tools, and standards.
+
+This practice-oriented exchange extends beyond product development. CERTAIN also serves as a central authority for informing stakeholders about legal, ethical, and technical matters related to AI and certification. By maintaining open channels of communication, CERTAIN ensures that its outcomes are not only practical but also widely adopted.
+
+CERTAIN is part of the EU’s Horizon Europe programme, specifically under Cluster 4: Digital, Industry, and Space.
+
+The project’s multidisciplinary and international consortium includes leading academic institutions, industrial giants, and research organisations, making it a powerful collective effort to shape the future of AI in Europe.
+
+In January 2025, representatives from all 20 consortium members met in Osny, France, to kick off their collaborative mission. The two-day meeting set the tone for the project’s ambitious agenda, with partners devising strategies for tackling the regulatory, technical, and ethical hurdles of AI.
+
+Ensuring compliance with ethical AI regulations in Europe
+
+As the EU’s AI Act edges closer to implementation, guidelines and tools like those developed under CERTAIN will be pivotal.
+
+The Act will impose strict requirements on AI systems, particularly those deemed “high-risk,” such as applications in healthcare, transportation, and law enforcement.
+
+While these regulations aim to ensure safety and accountability, they also pose challenges for organisations seeking to comply.
+
+CERTAIN seeks to alleviate these challenges by providing actionable solutions that align with Europe’s legal framework while encouraging innovation. By doing so, the project will play a critical role in positioning Europe as a global leader in ethical AI development.
+
+See also: Endor Labs: AI transparency vs ‘open-washing’
+
+Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
+
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**Worried About AI Going Rogue? Europe's Got a Plan!**
+
+**Why Read This?**
+
+The EU is launching a project called CERTAIN to make sure AI is developed ethically and responsibly. Think of it as AI with a conscience!
+
+**Why It Matters for You:**
+
+With new AI rules coming soon in Europe, this project is all about making sure businesses can actually *follow* them. CERTAIN is creating tools and guidelines to keep AI transparent, fair, and even eco-friendly. If you're concerned about AI bias or its impact on the environment, this is a step in the right direction.
+
+**Want More?**
+
+Learn about how Europe is shaping the future of responsible AI: <https://www.artificialintelligence-news.com/news/certain-drives-ethical-ai-compliance-in-europe/>
+","6
+","Artificial Intelligence/Policy
+"
+Fetch.ai launches first Web3 agentic AI model,https://www.artificialintelligence-news.com/news/fetch-ai-launches-first-web3-agentic-ai-model/,2025-02-25 16:50:45+00:00,"Fetch.ai has launched ASI-1 Mini, a native Web3 large language model designed to support complex agentic AI workflows.
+
+Described as a gamechanger for AI accessibility and performance, ASI-1 Mini is heralded for delivering results on par with leading LLMs but at significantly reduced hardware costs—a leap forward in making AI enterprise-ready.
+
+ASI-1 Mini integrates into Web3 ecosystems, enabling secure and autonomous AI interactions. Its release sets the foundation for broader innovation within the AI sector—including the imminent launch of the Cortex suite, which will further enhance the use of large language models and generalised intelligence.
+
+“This launch marks the beginning of ASI-1 Mini’s rollout and a new era of community-owned AI. By decentralising AI’s value chain, we’re empowering the Web3 community to invest in, train, and own foundational AI models,” said Humayun Sheikh, CEO of Fetch.ai and Chairman of the Artificial Superintelligence Alliance.
+
+“We’ll soon introduce advanced agentic tool integration, multi-modal capabilities, and deeper Web3 synergy to enhance ASI-1 Mini’s automation capabilities while keeping AI’s value creation in the hands of its contributors.”
+
+Democratising AI with Web3: Decentralised ownership and shared value
+
+Key to Fetch.ai’s vision is the democratisation of foundational AI models, allowing the Web3 community to not just use, but also train and own proprietary LLMs like ASI-1 Mini.
+
+This decentralisation unlocks opportunities for individuals to directly benefit from the economic growth of cutting-edge AI models, which could achieve multi-billion-dollar valuations.
+
+Through Fetch.ai’s platform, users can invest in curated AI model collections, contribute to their development, and share in generated revenues. For the first time, decentralisation is driving AI model ownership—ensuring financial benefits are more equitably distributed.
+
+Advanced reasoning and tailored performance
+
+ASI-1 Mini introduces adaptability in decision-making with four dynamic reasoning modes: Multi-Step, Complete, Optimised, and Short Reasoning. This flexibility allows it to balance depth and precision based on the specific task at hand.
+
+Whether performing intricate, multi-layered problem-solving or delivering concise, actionable insights, ASI-1 Mini adapts dynamically for maximum efficiency. Its Mixture of Models (MoM) and Mixture of Agents (MoA) frameworks further enhance this versatility.
+
+Mixture of Models (MoM):
+
+ASI-1 Mini selects relevant models dynamically from a suite of specialised AI models, which are optimised for specific tasks or datasets. This ensures high efficiency and scalability, especially for multi-modal AI and federated learning.
+
+Mixture of Agents (MoA):
+
+Independent agents with unique knowledge and reasoning capabilities work collaboratively to solve complex tasks. The system’s coordination mechanism ensures efficient task distribution, paving the way for decentralised AI models that thrive in dynamic, multi-agent systems.
+
+This sophisticated architecture is built on three interacting layers:
+
+Foundational layer: ASI-1 Mini serves as the core intelligence and orchestration hub. Specialisation layer (MoM Marketplace): Houses diverse expert models, accessible through the ASI platform. Action layer (AgentVerse): Features agents capable of managing live databases, integrating APIs, facilitating decentralised workflows, and more.
+
+By selectively activating only necessary models and agents, the system ensures performance, precision, and scalability in real-time tasks.
+
+Transforming AI efficiency and accessibility
+
+Unlike traditional LLMs, which come with high computational overheads, ASI-1 Mini is optimised for enterprise-grade performance on just two GPUs, reducing hardware costs by a remarkable eightfold. For businesses, this means reduced infrastructure costs and increased scalability, breaking down financial barriers to high-performance AI integration.
+
+On benchmark tests like Massive Multitask Language Understanding (MMLU), ASI-1 Mini matches or surpasses leading LLMs in specialised domains such as medicine, history, business, and logical reasoning.
+
+Rolling out in two phases, ASI-1 Mini will soon process vastly larger datasets with upcoming context window expansions:
+
+Up to 1 million tokens: Allows the model to analyse complex documents or technical manuals.
+
+Allows the model to analyse complex documents or technical manuals. Up to 10 million tokens: Enables high-stakes applications like legal record review, financial analysis, and enterprise-scale datasets.
+
+These enhancements will make ASI-1 Mini invaluable for complex and multi-layered tasks.
+
+Tackling the “black-box” problem
+
+The AI industry has long faced the challenge of addressing the black-box problem, where deep learning models reach conclusions without clear explanations.
+
+ASI-1 Mini mitigates this issue with continuous multi-step reasoning, facilitating real-time corrections and optimised decision-making. While it doesn’t entirely eliminate opacity, ASI-1 provides more explainable outputs—critical for industries like healthcare and finance.
+
+Its multi-expert model architecture not only ensures transparency but also optimises complex workflows across diverse sectors. From managing databases to executing real-time business logic, ASI-1 outperforms traditional models in both speed and reliability.
+
+AgentVerse integration: Building the agentic AI economy
+
+ASI-1 Mini is set to connect with AgentVerse, Fetch.ai’s agent marketplace, providing users with the tools to build and deploy autonomous agents capable of real-world task execution via simple language commands. For example, users could automate trip planning, restaurant reservations, or financial transactions through “micro-agents” hosted on the platform.
+
+This ecosystem enables open-source AI customisation and monetisation, creating an “agentic economy” where developers and businesses thrive symbiotically. Developers can monetise micro-agents, while users gain seamless access to tailored AI solutions.
+
+As its agentic ecosystem matures, ASI-1 Mini aims to evolve into a multi-modal powerhouse capable of processing structured text, images, and complex datasets with context-aware decision-making.
+
+See also: Endor Labs: AI transparency vs ‘open-washing’
+
+Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
+
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.","**AI Just Got More Affordable (and Decentralized?) Meet ASI-1 Mini!**
+
+**Why Read This?**
+
+Fetch.ai launched ASI-1 Mini, a new AI model that's designed to be both powerful *and* cheap to run. Plus, it's built for the wild world of Web3!
+
+**Why It Matters for You:**
+
+This could mean AI is about to become way more accessible. ASI-1 Mini lets regular folks invest in, train, and even *own* parts of AI models. It also makes building AI-powered tools easier and cheaper for businesses. Get ready for a wave of AI assistants that are actually community-owned!
+
+**Want More?**
+
+Dive into the details of ASI-1 Mini and its decentralized AI revolution: <https://www.artificialintelligence-news.com/news/fetch-ai-launches-first-web3-agentic-ai-model/>
+","7.5
+","Artificial Intelligence/Web3
+"
+"Industry observers say GPT-4.5 is an “odd” model, question its price",https://venturebeat.com/ai/industry-observers-say-gpt-4-5-is-an-odd-model-question-its-price/,2025-02-27 22:30:33+00:00,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+OpenAI has announced the release of GPT-4.5, which CEO Sam Altman previously said would be the last non-chain-of-thought (CoT) model.
+
+The company said the new model “is not a frontier model” but is still its biggest large language model (LLM), with more computational efficiency. Altman said that, even though GPT-4.5 does not reason the same way as OpenAI’s other new offerings o1 or o3-mini, this new model still offers more human-like thoughtfulness.
+
+Industry observers, many of whom had early access to the new model, have found GPT-4.5 to be an interesting move from OpenAI, tempering their expectations of what the model should be able to achieve.
+
+Wharton professor and AI commentator Ethan Mollick posted on social media that GPT-4.5 is a “very odd and interesting model,” noting it can get “oddly lazy on complex projects” despite being a strong writer.
+
+Been using GPT-4.5 for a few days and it is a very odd and interesting model. It can write beautifully, is very creative, and is occasionally oddly lazy on complex projects.Feels like Claude 3.7 while Claude 3.7 feels like GPT-4.5. — Ethan Mollick (@emollick.bsky.social) 2025-02-27T20:30:41.949Z
+
+OpenAI co-founder and former Tesla AI head Andrej Karpathy noted that GPT-4.5 made him remember when GPT-4 came out and he saw the model’s potential. In a post to X, Karpathy said that, while using GPT 4.5, “everything is a little bit better, and it’s awesome, but also not exactly in ways that are trivial to point to.”
+
+Karpathy, however warned that people shouldn’t expect revolutionary impact from the model as it “does not push forward model capability in cases where reasoning is critical (math, code, etc.).”
+
+Industry thoughts in detail
+
+Here’s what Karpathy had to say about the latest GPT iteration in a lengthy post on X:
+
+“Today marks the release of GPT4.5 by OpenAI. I’ve been looking forward to this for ~2 years, ever since GPT4 was released, because this release offers a qualitative measurement of the slope of improvement you get out of scaling pretraining compute (i.e. simply training a bigger model). Each 0.5 in the version is roughly 10X pretraining compute. Now, recall that GPT1 barely generates coherent text. GPT2 was a confused toy. GPT2.5 was “skipped” straight into GPT3, which was even more interesting. GPT3.5 crossed the threshold where it was enough to actually ship as a product and sparked OpenAI’s “ChatGPT moment”. And GPT4 in turn also felt better, but I’ll say that it definitely felt subtle.
+
+I remember being a part of a hackathon trying to find concrete prompts where GPT4 outperformed 3.5. They definitely existed, but clear and concrete “slam dunk” examples were difficult to find. It’s that … everything was just a little bit better but in a diffuse way. The word choice was a bit more creative. Understanding of nuance in the prompt was improved. Analogies made a bit more sense. The model was a little bit funnier. World knowledge and understanding was improved at the edges of rare domains. Hallucinations were a bit less frequent. The vibes were just a bit better. It felt like the water that rises all boats, where everything gets slightly improved by 20%. So it is with that expectation that I went into testing GPT4.5, which I had access to for a few days, and which saw 10X more pretraining compute than GPT4. And I feel like, once again, I’m in the same hackathon 2 years ago. Everything is a little bit better and it’s awesome, but also not exactly in ways that are trivial to point to. Still, it is incredible interesting and exciting as another qualitative measurement of a certain slope of capability that comes “for free” from just pretraining a bigger model.
+
+Keep in mind that that GPT4.5 was only trained with pretraining, supervised finetuning and RLHF, so this is not yet a reasoning model. Therefore, this model release does not push forward model capability in cases where reasoning is critical (math, code, etc.). In these cases, training with RL and gaining thinking is incredibly important and works better, even if it is on top of an older base model (e.g. GPT4ish capability or so). The state of the art here remains the full o1. Presumably, OpenAI will now be looking to further train with reinforcement learning on top of GPT4.5 to allow it to think and push model capability in these domains.
+
+HOWEVER. We do actually expect to see an improvement in tasks that are not reasoning heavy, and I would say those are tasks that are more EQ (as opposed to IQ) related and bottlenecked by e.g. world knowledge, creativity, analogy making, general understanding, humor, etc. So these are the tasks that I was most interested in during my vibe checks.
+
+So below, I thought it would be fun to highlight 5 funny/amusing prompts that test these capabilities, and to organize them into an interactive “LM Arena Lite” right here on X, using a combination of images and polls in a thread. Sadly X does not allow you to include both an image and a poll in a single post, so I have to alternate posts that give the image (showing the prompt, and two responses one from 4 and one from 4.5), and the poll, where people can vote which one is better. After 8 hours, I’ll reveal the identities of which model is which. Let’s see what happens :)“
+
+Box CEO’s thoughts on GPT-4.5
+
+Other early users also saw potential in GPT-4.5. Box CEO Aaron Levie said on X that his company used GPT-4.5 to help extract structured data and metadata from complex enterprise content.
+
+“The AI breakthroughs just keep coming. OpenAI just announced GPT-4.5, and we’ll be making it available to Box customers later today in the Box AI Studio.
+
+We’ve been testing GPT4.5 in early access mode with Box AI for advanced enterprise unstructured data use-cases, and have seen strong results. With the Box AI enterprise eval, we test models against a variety of different scenarios, like Q&A accuracy, reasoning capabilities and more. In particular, to explore the capabilities of GPT-4.5, we focused on a key area with significant potential for enterprise impact: The extraction of structured data, or metadata extraction, from complex enterprise content.
+
+At Box, we rigorously evaluate data extraction models using multiple enterprise-grade datasets. One key dataset we leverage is CUAD, which consists of over 510 commercial legal contracts. Within this dataset, Box has identified 17,000 fields that can be extracted from unstructured content and evaluated the model based on single shot extraction for these fields (this is our hardest test, where the model only has once chance to extract all the metadata in a single pass vs. taking multiple attempts). In our tests, GPT-4.5 correctly extracted 19 percentage points more fields accurately compared to GPT-4o, highlighting its improved ability to handle nuanced contract data.
+
+Next, to ensure GPT-4.5 could handle the demands of real-world enterprise content, we evaluated its performance against a more rigorous set of documents, Box’s own challenge set. We selected a subset of complex legal contracts – those with multi-modal content, high-density information and lengths exceeding 200 pages – to represent some of the most difficult scenarios our customers face. On this challenge set, GPT-4.5 also consistently outperformed GPT-4o in extracting key fields with higher accuracy, demonstrating its superior ability to handle intricate and nuanced legal documents.
+
+Overall, we’re seeing strong results with GPT-4.5 for complex enterprise data, which will unlock even more use-cases in the enterprise.“
+
+Questions on price and its importance
+
+Even as early users found GPT-4.5 workable — albeit a bit lazy — they questioned its release.
+
+For instance, prominent OpenAI critic Gary Marcus called GPT-4.5 a “nothingburger” on Bluesky.
+
+Hot take: GPT 4.5 is a nothingburger; GPT-5 still fantasy.• Scaling data is not a physical law; pretty much everything I told you was true.• All the BS about GPT-5 we listened to for last few years: not so true.• Fanboys like Cowen will blame users, but results just aren’t what they had hoped. — Gary Marcus (@garymarcus.bsky.social) 2025-02-27T20:44:55.115Z
+
+Hugging Face CEO Clement Delangue commented that GPT4.5’s closed-source provenance makes it “meh.”
+
+However, many noted that GPT-4.5 had nothing to do with its performance. Instead, people questioned why OpenAI would release a model so expensive that it is almost prohibitive to use but is not as powerful as its other models.
+
+One user commented on X: “So you’re telling me GPT-4.5 is worth more than o1 yet it doesn’t perform as well on benchmarks…. Make it make sense.”
+
+Other X users posited theories that the high token cost could be to deter competitors like DeepSeek “to distill the 4.5 model.”
+
+DeepSeek became a big competitor against OpenAI in January, with industry leaders finding DeepSeek-R1 reasoning to be as capable as OpenAI’s — but more affordable.","**GPT-4.5 is Here... But Is It Worth the Hype (and the Cost)?**
+
+**Why Read This?**
+
+OpenAI just dropped GPT-4.5, and the AI world is scratching its head. Some experts are calling it ""odd"" and ""lazy,"" while others see subtle improvements. The big question: Is this model powerful enough to justify its hefty price tag?
+
+**Why It Matters for You:**
+
+If you're relying on AI for complex tasks, GPT-4.5 might not be the game-changer you hoped for. But for creative writing and general knowledge, it could offer a slight edge. The real takeaway? The AI landscape is still evolving, and even the biggest players are experimenting with different approaches.
+
+**Want More?**
+
+Get the inside scoop on GPT-4.5's strengths, weaknesses, and why some are calling it a ""nothingburger"": <https://venturebeat.com/ai/industry-observers-say-gpt-4-5-is-an-odd-model-question-its-price/>
+","8
+","Artificial Intelligence
+"
+Microsoft’s new Phi-4 AI models pack big performance in small packages,https://venturebeat.com/ai/microsofts-new-phi-4-ai-models-pack-big-performance-in-small-packages/,2025-02-27 03:15:48+00:00,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+Microsoft has introduced a new class of highly efficient AI models that process text, images and speech simultaneously while requiring significantly less computing power than other available systems. The new Phi–4 models, released today, represent a breakthrough in the development of small language models (SLMs) that deliver capabilities previously reserved for much larger AI systems.
+
+Phi–4–multimodal, a model with just 5.6 billion parameters, and Phi-4-Mini, with 3.8 billion parameters, outperform similarly sized competitors and on certain tasks even match or exceed the performance of models twice their size, according to Microsoft’s technical report.
+
+“These models are designed to empower developers with advanced AI capabilities,” said Weizhu Chen, vice president, generative AI at Microsoft. “Phi-4-multimodal, with its ability to process speech, vision and text simultaneously, opens new possibilities for creating innovative and context-aware applications.”
+
+This technical achievement comes at a time when enterprises are increasingly seeking AI models that can run on standard hardware or at the “edge” — directly on devices rather than in cloud data centers — to reduce costs and latency while maintaining data privacy.
+
+How Microsoft built a small AI model that does it all
+
+What sets Phi-4-multimodal apart is its novel “Mixture of LoRAs” technique, enabling it to handle text, images and speech inputs within a single model.
+
+“By leveraging the Mixture of LoRAs, Phi-4-Multimodal extends multimodal capabilities while minimizing interference between modalities,” the research paper states. “This approach enables seamless integration and ensures consistent performance across tasks involving text, images, and speech/audio.”
+
+The innovation allows the model to maintain its strong language capabilities while adding vision and speech recognition without the performance degradation that often occurs when models are adapted for multiple input types.
+
+The model has claimed the top position on the Hugging Face OpenASR leaderboard with a word error rate of 6.14%, outperforming specialized speech recognition systems like WhisperV3. It also demonstrates competitive performance on vision tasks like mathematical and scientific reasoning with images.
+
+Compact AI, massive impact: Phi-4-mini sets new performance standards
+
+Despite its compact size, Phi-4-mini demonstrates exceptional capabilities in text-based tasks. Microsoft reports the model “outperforms similar size models and is on-par with models twice [as large]” across various language-understanding benchmarks.
+
+Particularly notable is the model’s performance on math and coding tasks. According to the research paper, “Phi-4-Mini consists of 32 Transformer layers with hidden state size of 3,072” and incorporates group query attention to optimize memory usage for long-context generation.
+
+On the GSM-8K math benchmark, Phi-4-mini achieved an 88.6% score, outperforming most 8-billion-parameter models, while on the MATH benchmark it reached 64%, substantially higher than similar-sized competitors.
+
+“For the Math benchmark, the model outperforms similar sized models with large margins, sometimes more than 20 points. It even outperforms two times larger models’ scores,” the technical report notes.
+
+Transformative deployments: Phi-4’s real-world efficiency in action
+
+Capacity, an AI “answer engine” that helps organizations unify diverse datasets, has already leveraged the Phi family to enhance its platform’s efficiency and accuracy.
+
+Steve Frederickson, head of product at Capacity, said in a statement, “From our initial experiments, what truly impressed us about the Phi was its remarkable accuracy and the ease of deployment, even before customization. Since then, we’ve been able to enhance both accuracy and reliability, all while maintaining the cost-effectiveness and scalability we valued from the start.”
+
+Capacity reported a 4.2x cost savings compared to competing workflows while achieving the same or better qualitative results for preprocessing tasks.
+
+AI without limits: Microsoft’s Phi-4 models bring advanced intelligence anywhere
+
+For years, AI development has been driven by a singular philosophy: bigger is better — more parameters, larger models, greater computational demands. But Microsoft’s Phi-4 models challenge that assumption, proving that power isn’t just about scale — it’s about efficiency.
+
+Phi-4-multimodal and Phi-4-mini are designed not for the data centers of tech giants, but for the real world — where computing power is limited, privacy concerns are paramount, and AI needs to work seamlessly without a constant connection to the cloud. These models are small, but they carry weight. Phi-4-multimodal integrates speech, vision and text processing into a single system without sacrificing accuracy, while Phi-4-mini delivers math, coding and reasoning performance on par with models twice its size.
+
+This isn’t just about making AI more efficient; it’s about making it more accessible. Microsoft has positioned Phi-4 for widespread adoption, making it available through Azure AI Foundry, Hugging Face and the Nvidia API Catalog. The goal is clear: AI that isn’t locked behind expensive hardware or massive infrastructure, but rather can operate on standard devices, at the edge of networks and in industries where compute power is scarce.
+
+Masaya Nishimaki, a director at the Japanese AI firm Headwaters Co., Ltd., sees the impact firsthand. “Edge AI demonstrates outstanding performance even in environments with unstable network connections or where confidentiality is paramount,” he said in a statement. That means AI that can function in factories, hospitals, autonomous vehicles — places where real-time intelligence is required, but where traditional cloud-based models fall short.
+
+At its core, Phi-4 represents a shift in thinking. AI isn’t just a tool for those with the biggest servers and the deepest pockets. It’s a capability that, if designed well, can work anywhere, for anyone. The most revolutionary thing about Phi-4 isn’t what it can do — it’s where it can do it.","**Smarter AI, Smaller Size: Microsoft's New Phi-4 Models are a Game Changer!**
+
+**Why Read This?**
+
+Microsoft just unveiled Phi-4, a family of AI models that are super efficient and can handle text, images, and speech all at once. The kicker? They're way smaller than other AI systems, meaning they can run on regular computers!
+
+**Why It Matters for You:**
+
+Imagine having powerful AI on your phone, in your car, or even in places without a strong internet connection. Phi-4 makes that a reality, bringing advanced intelligence to everyday devices and industries like healthcare and manufacturing. It's like shrinking a supercomputer down to the size of a smartphone!
+
+**Want More?**
+
+Get the details on how Microsoft's Phi-4 is changing the game for AI accessibility and performance: <https://venturebeat.com/ai/microsofts-new-phi-4-ai-models-pack-big-performance-in-small-packages/>
+","8.5
+","Artificial Intelligence
+"
+Micron launches new memory chips to keep up with AI processing,https://venturebeat.com/games/micron-launches-new-memory-chips-to-keep-up-with-ai-processing/,2025-03-03 05:00:00+00:00,"Micron announced its first 1y (1-gamma) DDR5 memory chip samples this week, and it says this is part of its contribution to systems that keep up with AI processing.
+
+The company said being the first to market with 1y samples proves Micron’s continued technology and manufacturing leadership — and the Boise, Idaho-based company is extending the capabilities of this advanced node to its broader portfolio of dynamic random access memory (DRAM) chips. Those are coming In the second quarter.
+
+Smartphones at Mobile World Congress in Barcelona have AI-powered features such as visual search, translation, and intelligent tools to unblur or erase objects in photos.
+
+These innovations show how AI can transform smartphones into intuitive and context-aware tools
+
+that enhance our daily lives when supercharged with the right memory and storage.
+
+Micron will sample 1y LPDDR5X 16Gb products to select partners for use in 2026 flagship smartphones, enabling industry-leading performance and up to 15% power savings — critical as energy-intensive use cases such as video- and AI-based apps make smartphone battery life more important than ever.
+
+At MWC, Micron also announced mobile storage devices including the world’s first G9-based UFS 4.1 and UFS 3.1 mobile storage solutions. The G9 process node enables significant improvements in speed and power efficiency while allowing us to deliver scalable mNAND capacities from 256GB to 1TB at the industry’s highest performance.
+
+These mobile storage solutions are now available in the small and ultra-thin form factors required for slim and foldable smartphone designs.
+
+Micron said it partners with smartphone OEMs to engineer differentiated firmware features that solve their latest pain points and enable smoother, more intuitive experiences for end consumers. Micron’s latest UFS 4.1 solution delivers proprietary firmware features for flagship smartphones such as Zoned UFS for read/write efficiency, data defragmentation for 60% faster read speed, pinned WriteBooster for 30% faster random read speed and intelligent latency tracker for better debugging.
+
+Most recently, Micron collaborated with Samsung on its Galaxy S25 suite of smartphones. These
+
+smartphones deliver breakthroughs in natural language processing and are designed with Micron’s
+
+most power-efficient LPDDR5X and advanced UFS 4.0 solutions. The LPDDR5X improves power
+
+efficiency by up to 10%.
+
+Samsung’s Galaxy AI suite enhances user interactions with AI-powered features like call transcript summaries, message composition, creative tools and Nightography mode for optimized low-light photography.
+
+None of these capabilities would be possible without ample internal storage to house the large amounts of data required for such on-device AI experiences, which is where our high-capacity UFS 4.0 comes in. This storage solution allows data to be processed quickly by doing so locally rather than in the cloud, in addition to ensuring greater privacy and control of your data.
+
+Micron noted that AI in our smartphones and PCs are already beginning to anticipate our needs, manage our schedules and curate personalized content, enhancing our productivity, creativity and connectivity
+
+beyond what we could have ever imagined.
+
+New AI innovations such as multimodal agents can now simultaneously interpret and produce insights from various types of data from text, images — opening a whole new world of applications as compared to previous AI agents which were limited to handling one type of data. Another innovation, federated learning, allows AI models to learn from decentralized data sources while maintaining privacy. As these technologies mature, they will enable smartphones to predict our habits and patterns to anticipate our next move and offer suggestions to make life more streamlined.
+
+As we move toward agentic and multimodal AI that autonomously reason, plan and execute complex tasks, a strong hardware foundation is critical. To keep pace with these rising memory and storage needs, Micron is constantly optimizing our roadmap and collaborating with the ecosystem to drive and shape what is possible, from ramping our mobile portfolio on our leading process nodes to exploring new architectures to optimizing memory performance and power for game-changing AI smartphones.
+
+The memory and storage embedded in today’s smartphones play a pivotal role in enabling AI tasks
+
+and storing users’ important data, safely and securely on their device. Key factors — such as high
+
+bandwidth, low latency and power efficiency — are essential for handling demanding AI workloads
+
+and delivering ultra-smooth user experiences.","**AI-Powered Smartphones About to Get a Whole Lot Smarter (and Faster!)**
+
+**Why Read This?**
+
+Micron just announced new memory chips designed to supercharge the AI features in your next phone. Get ready for smarter photo editing, faster translations, and a phone that anticipates your every need!
+
+**Why It Matters for You:**
+
+These new chips mean your phone will be able to run complex AI tasks directly on the device, instead of relying on the cloud. That means faster performance, better privacy, and potentially longer battery life. Your phone is about to become a whole lot more intelligent!
+
+**Want More?**
+
+Learn how Micron's new memory chips are paving the way for the next generation of AI-powered smartphones: <https://venturebeat.com/games/micron-launches-new-memory-chips-to-keep-up-with-ai-processing/>
 ","7
-",
-OpenAI’s new agent can compile detailed reports on practically any topic,https://www.technologyreview.com/2025/02/03/1110826/openais-new-agent-can-compile-detailed-reports-on-practically-any-topic/,2025-02-03 00:00:00,"OpenAI claims the tool represents a significant step toward its overarching goal of developing artificial general intelligence (AGI) that matches (or surpasses) human performance. It says that what takes the tool “tens of minutes” would take a human many hours.
-
-In response to a single query, such as “Draw me up a competitive analysis between streaming platforms,” Deep Research will search the web, analyze the information it encounters, and compile a detailed report that cites its sources. It’s also able to draw from files uploaded by users.
-
-OpenAI developed Deep Research using the same “chain of thought” reinforcement-learning methods it used to create its o1 multistep reasoning model. But while o1 was designed to focus primarily on mathematics, coding, or other STEM-based tasks, Deep Research can tackle a far broader range of subjects. It can also adjust its responses in reaction to new data it comes across in the course of its research.
-
-
-
-This doesn’t mean that Deep Research is immune from the pitfalls that befall other AI models. OpenAI says the agent can sometimes hallucinate facts and present its users with incorrect information, albeit at a “notably” lower rate than ChatGPT. And because each question may take between five and 30 minutes for Deep Research to answer, it’s very compute intensive—the longer it takes to research a query, the more computing power required.
-
-Despite that, Deep Research is now available at no extra cost to subscribers to OpenAI’s paid Pro tier and will soon roll out to its Plus, Team, and Enterprise users.",,,
-DeepSeek might not be such good news for energy after all,https://www.technologyreview.com/2025/01/31/1110776/deepseek-might-not-be-such-good-news-for-energy-after-all/,2025-01-31 00:00:00,"Add the fact that other tech firms, inspired by DeepSeek’s approach, may now start building their own similar low-cost reasoning models, and the outlook for energy consumption is already looking a lot less rosy.
-
-The life cycle of any AI model has two phases: training and inference. Training is the often months-long process in which the model learns from data. The model is then ready for inference, which happens each time anyone in the world asks it something. Both usually take place in data centers, where they require lots of energy to run chips and cool servers.
-
-On the training side for its R1 model, DeepSeek’s team improved what’s called a “mixture of experts” technique, in which only a portion of a model’s billions of parameters—the “knobs” a model uses to form better answers—are turned on at a given time during training. More notably, they improved reinforcement learning, where a model’s outputs are scored and then used to make it better. This is often done by human annotators, but the DeepSeek team got good at automating it.
-
-The introduction of a way to make training more efficient might suggest that AI companies will use less energy to bring their AI models to a certain standard. That’s not really how it works, though.
-
-“⁠Because the value of having a more intelligent system is so high,” wrote Anthropic cofounder Dario Amodei on his blog, it “causes companies to spend more, not less, on training models.” If companies get more for their money, they will find it worthwhile to spend more, and therefore use more energy. “The gains in cost efficiency end up entirely devoted to training smarter models, limited only by the company’s financial resources,” he wrote. It’s an example of what’s known as the Jevons paradox.
-
-But that’s been true on the training side as long as the AI race has been going. The energy required for inference is where things get more interesting.
-
-DeepSeek is designed as a reasoning model, which means it’s meant to perform well on things like logic, pattern-finding, math, and other tasks that typical generative AI models struggle with. Reasoning models do this using something called “chain of thought.” It allows the AI model to break its task into parts and work through them in a logical order before coming to its conclusion.
-
-You can see this with DeepSeek. Ask whether it’s okay to lie to protect someone’s feelings, and the model first tackles the question with utilitarianism, weighing the immediate good against the potential future harm. It then considers Kantian ethics, which propose that you should act according to maxims that could be universal laws. It considers these and other nuances before sharing its conclusion. (It finds that lying is “generally acceptable in situations where kindness and prevention of harm are paramount, yet nuanced with no universal solution,” if you’re curious.)",,,
-How the Rubin Observatory will help us understand dark matter and dark energy,https://www.technologyreview.com/2025/02/04/1110927/how-the-rubin-observatory-will-help-us-understand-dark-matter-and-dark-energy/,2025-02-04 00:00:00,"Other observatories, like the Hubble Space Telescope and the James Webb Space Telescope, have already begun stitching together this map from their images of galaxies. But Rubin plans to do so with exceptional precision and scale, analyzing the shapes of billions of galaxies rather than the hundreds of millions that current telescopes observe, according to Andrés Alejandro Plazas Malagón, Rubin operations scientist at SLAC National Laboratory. “We’re going to have the widest galaxy survey so far,” Plazas Malagón says.
-
-Capturing the cosmos in such high definition requires Rubin’s 3.2-billion-pixel Large Synoptic Survey Telescope (LSST). The LSST boasts the largest focal plane ever built for astronomy, granting it access to large patches of the sky.
-
-The telescope is also designed to reorient its gaze every 34 seconds, meaning astronomers will be able to scan the entire sky every three nights. The LSST will revisit each galaxy about 800 times throughout its tenure, says Steven Ritz, a Rubin project scientist at the University of California, Santa Cruz. The repeat exposures will let Rubin team members more precisely measure how the galaxies are distorted, refining their map of dark matter’s web. “We’re going to see these galaxies deeply and frequently,” Ritz says. “That’s the power of Rubin: the sheer grasp of being able to see the universe in detail and on repeat.”
-
-The ultimate goal is to overlay this map on different models of dark matter and examine the results. The leading idea, the cold dark matter model, suggests that dark matter moves slowly compared to the speed of light and interacts with ordinary matter only through gravity. Other models suggest different behavior. Each comes with its own picture of how dark matter should clump in halos surrounding galaxies. By plotting its chart of dark matter against what those models predict, Rubin might exclude some theories and favor others.
-
-A cosmic tug of war
-
-If dark matter lies on one side of a magnet, pulling matter together, then you’ll flip it over to find dark energy, pushing it apart. “You can think of it as a cosmic tug of war,” Plazas Malagón says.
-
-Dark energy was discovered in the late 1990s, when astronomers found that the universe was not only expanding, but doing so at an accelerating rate, with galaxies moving away from one another at higher and higher speeds.","## Unveiling the Universe's Secrets: A New Telescope is About to Map Dark Matter and Dark Energy
-
-**Why Read This?**
-
-Get ready for a cosmic revolution! The Rubin Observatory is about to turn on its giant eye and map the universe in unprecedented detail, helping us understand the mysterious forces of dark matter and dark energy.
-
-**Why It Matters for You:**
-
-Imagine a telescope so powerful it can scan the entire sky every three nights and analyze billions of galaxies. That's Rubin! It's like having a super-powered detective trying to solve the universe's biggest mysteries: What is dark matter? What is dark energy? And how do they shape the cosmos? By mapping how galaxies are distorted, Rubin will test different theories and potentially rewrite our understanding of the universe. Buckle up for some mind-blowing discoveries!
-
-**Want More?**
-
-Explore the full details here: https://www.technologyreview.com/2025/02/04/1110927/how-the-rubin-observatory-will-help-us-understand-dark-matter-and-dark-energy/
-","9
-","Astronomy and Cosmology
+","Artificial Intelligence/Mobile Technology
 "
-European AI startups raised $8 billion in 2024,https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/,2025-02-04 00:00:00,"In just a few days, France will host the Artificial Intelligence Action Summit, with heads of state flocking to Paris to meet global tech leaders. They’ll most likely announce some big investments and diplomatic agreements focused on safety or the environmental impact of artificial intelligence.
+2025 has already brought us the most performant AI ever: What can we do with these supercharged capabilities (and what’s next)?,https://venturebeat.com/ai/2025-has-already-brought-us-the-most-performant-ai-ever-what-can-we-do-with-these-supercharged-capabilities-and-whats-next/,2025-03-03 01:18:00+00:00,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
 
-Ahead of the summit, early-stage VC firm Galion.exe, growth investment firm Revaia, and advisory firm Chausson Partners teamed up to create the French AI Report, which looks at the current trends in the tech ecosystem.
+The latest AI large language model (LLM) releases, such as Claude 3.7 from Anthropic and Grok 3 from xAI, are often performing at PhD levels — at least according to certain benchmarks. This accomplishment marks the next step toward what former Google CEO Eric Schmidt envisions: A world where everyone has access to “a great polymath,” an AI capable of drawing on vast bodies of knowledge to solve complex problems across disciplines.
 
-While all eyes are currently on the U.S. and China with OpenAI looking to raise tens of billions of dollars and DeepSeek capturing everyone’s attention, there has been a boom in AI startups in Europe, too. In 2024 alone, AI companies represented around 20% of all VC funding in the region.
+Wharton Business School Professor Ethan Mollick noted on his One Useful Thing blog that these latest models were trained using significantly more computing power than GPT-4 at its launch two years ago, with Grok 3 trained on up to 10 times as much compute. He added that this would make Grok 3 the first “gen 3” AI model, emphasizing that “this new generation of AIs is smarter, and the jump in capabilities is striking.”
 
-In total, that represents around $8 billion in funding for AI startups in 2024. That metric is most likely going to grow rapidly, as AI startups are still relatively young. Seventy percent of the capital raised by AI startups in 2024 was for a seed to Series B round.
+For example, Claude 3.7 shows emergent capabilities, such as anticipating user needs and the ability to consider novel angles in problem-solving. According to Anthropic, it is the first hybrid reasoning model, combining a traditional LLM for fast responses with advanced reasoning capabilities for solving complex problems.
 
-European countries that tend to attract VC funding in general have also become the main AI investment hubs, with the U.K. leading the group, France and Germany following suit, and the Nordics punching above its demographic weight. Here’s the breakdown from 2020 to 2024:
+Mollick attributed these advances to two converging trends: The rapid expansion of compute power for training LLMs, and AI’s increasing ability to tackle complex problem-solving (often described as reasoning or thinking). He concluded that these two trends are “supercharging AI abilities.”
 
-Interestingly, as AI companies become bigger, they tend to attract international investors, with U.S. VC firms accounting for around 50% of money invested in AI companies at the Series C round and later.
+What can we do with this supercharged AI?
 
-In France more specifically, there are “more than 750 startups that have created 35,000 jobs and operate in all areas that are transforming today’s society,” Minister Delegate for artificial intelligence and digital technologies Clara Chappaz said at a press conference.
+In a significant step, OpenAI launched its “deep research” AI agent at the beginning of February. In his review on Platformer, Casey Newton commented that deep research appeared “impressively competent.” Newton noted that deep research and similar tools could significantly accelerate research, analysis and other forms of knowledge work, though their reliability in complex domains is still an open question.
 
-She also mentioned that there are 2,000 scientists focused on AI research and 600 doctorate students working on artificial intelligence. And you may have noticed that there are quite a few French engineers and researchers working for AI companies in the U.S., too.
+Based on a variant of the still unreleased o3 reasoning model, deep research can engage in extended reasoning over long durations. It does this using chain-of-thought (COT) reasoning, breaking down complex tasks into multiple logical steps, just as a human researcher might refine their approach. It can also search the web, enabling it to access more up-to-date information than what is in the model’s training data.
 
-The team behind the French AI Report looked more closely at the top 400 AI startups in France and tried to identify the rising stars. While Mistral AI and Poolside are already some familiar names for readers who have followed the AI industry, the vast majority of AI startups aren’t working on the next foundation model.
+Timothy Lee wrote in Understanding AI about several tests experts did of deep research, noting that “its performance demonstrates the impressive capabilities of the underlying o3 model.” One test asked for directions on how to build a hydrogen electrolysis plant. Commenting on the quality of the output, a mechanical engineer “estimated that it would take an experienced professional a week to create something as good as the 4,000-word report OpenAI generated in four minutes.”
 
-On the infrastructure front, some companies are optimizing the data workflows and pipelines, such as Linkup and Kestra, or improving inference performance, such as ZML, or developing agents that can sift through large data sets and improve productivity. Dust is a good example of that.
+But wait, there’s more…
 
-But the reality is that most AI startups in France are focusing on applications for specific verticals. Based on this report, two important areas for AI startups in France are health and climate.
+Google DeepMind also recently released “AI co-scientist,” a multi-agent AI system built on its Gemini 2.0 LLM. It is designed to help scientists create novel hypotheses and research plans. Already, Imperial College London has proved the value of this tool. According to Professor José R. Penadés, his team spent years unraveling why certain superbugs resist antibiotics. AI replicated their findings in just 48 hours. While the AI dramatically accelerated hypothesis generation, human scientists were still needed to confirm the findings. Nevertheless, Penadés said the new AI application “has the potential to supercharge science.”
 
-Owkin and its spin-off biotech company Bioptimus have been leading the pack on the health tech front, but it’s a surprisingly diverse group of companies with three big areas of interest: imaging tools, drug discovery, and medical treatment improvement.
+What would it mean to supercharge science?
 
-Similarly, while a large chunk of the AI industry is focused on productivity gains for office workers, artificial intelligence is also actively being used to build the next-generation of climate startups. In addition to agritech, carbon and energy management — two topics that are related — seem to be a big focus. There are also a handful of promising new materials companies that are emerging (Altrove, for instance).
+Last October, Anthropic CEO Dario Amodei wrote in his “Machines of Loving Grace” blog that he expected “powerful AI” — his term for what most call artificial general intelligence (AGI) — would lead to “the next 50 to 100 years of biological [research] progress in 5 to 10 years.” Four months ago, the idea of compressing up to a century of scientific progress into a single decade seemed extremely optimistic. With the recent advances in AI models now including Anthropic Claude 3.7, OpenAI deep research and Google AI co-scientist, what Amodei referred to as a near-term “radical transformation” is starting to look much more plausible.
 
-All the companies included in the list can be found here. You’ll also find plenty of AI companies working on one job function — sales, customer care, HR or legal — and using AI to simplify the most common tasks.
+However, while AI may fast-track scientific discovery, biology, at least, is still bound by real-world constraints — experimental validation, regulatory approval and clinical trials. The question is no longer whether AI will transform science (as it certainly will), but rather how quickly its full impact will be realized.
 
-Of course, some companies aren’t going to be there in five years. But many of them are currently growing at a rapid pace. We’re still at the beginning of the AI revolution, and though it’s easy to think about the AI industry as a zero-sum game with one country or one company “winning” over the others, it seems like the AI boom is more distributed than expected.","## Europe's AI Boom: $8 Billion Invested in 2024 - What's Driving the Growth?
+In a February 9 blog post, OpenAI CEO Sam Altman claimed that “systems that start to point to AGI are coming into view.” He described AGI as “a system that can tackle increasingly complex problems, at human level, in many fields.”
+
+Altman believes achieving this milestone could unlock a near-utopian future in which the “economic growth in front of us looks astonishing, and we can now imagine a world where we cure all diseases, have much more time to enjoy with our families and can fully realize our creative potential.”
+
+A dose of humility
+
+These advances of AI are hugely significant and portend a much different future in a brief period of time. Yet, AI’s meteoric rise has not been without stumbles. Consider the recent downfall of the Humane AI Pin — a device hyped as a smartphone replacement after a buzzworthy TED Talk. Barely a year later, the company collapsed, and its remnants were sold off for a fraction of their once-lofty valuation.
+
+Real-world AI applications often face significant obstacles for many reasons, from lack of relevant expertise to infrastructure limitations. This has certainly been the experience of Sensei Ag, a startup backed by one of the world’s wealthiest investors. The company set out to apply AI to agriculture by breeding improved crop varieties and using robots for harvesting but has met major hurdles. According to the Wall Street Journal, the startup has faced many setbacks, from technical challenges to unexpected logistical difficulties, highlighting the gap between AI’s potential and its practical implementation.
+
+What comes next?
+
+As we look to the near future, science is on the cusp of a new golden age of discovery, with AI becoming an increasingly capable partner in research. Deep-learning algorithms working in tandem with human curiosity could unravel complex problems at record speed as AI systems sift vast troves of data, spot patterns invisible to humans and suggest cross-disciplinary hypotheses​.
+
+Already, scientists are using AI to compress research timelines — predicting protein structures, scanning literature and reducing years of work to months or even days — unlocking opportunities across fields from climate science to medicine.
+
+Yet, as the potential for radical transformation becomes clearer, so too do the looming risks of disruption and instability. Altman himself acknowledged in his blog that “the balance of power between capital and labor could easily get messed up,” a subtle but significant warning that AI’s economic impact could be destabilizing.
+
+This concern is already materializing, as demonstrated in Hong Kong, as the city recently cut 10,000 civil service jobs while simultaneously ramping up AI investments. If such trends continue and become more expansive, we could see widespread workforce upheaval, heightening social unrest and placing intense pressure on institutions and governments worldwide.
+
+Adapting to an AI-powered world
+
+AI’s growing capabilities in scientific discovery, reasoning and decision-making mark a profound shift that presents both extraordinary promise and formidable challenges. While the path forward may be marked by economic disruptions and institutional strains, history has shown that societies can adapt to technological revolutions, albeit not always easily or without consequence.
+
+To navigate this transformation successfully, societies must invest in governance, education and workforce adaptation to ensure that AI’s benefits are equitably distributed. Even as AI regulation faces political resistance, scientists, policymakers and business leaders must collaborate to build ethical frameworks, enforce transparency standards and craft policies that mitigate risks while amplifying AI’s transformative impact. If we rise to this challenge with foresight and responsibility, people and AI can tackle the world’s greatest challenges, ushering in a new age with breakthroughs that once seemed impossible.","**AI's About to Supercharge EVERYTHING? From Science to Your Job!**
 
 **Why Read This?**
 
-While the US and China dominate AI headlines, Europe is quietly becoming a hotbed for AI innovation. A recent report reveals a massive $8 billion invested in European AI startups in 2024.
+The latest AI models are so smart, they're performing at PhD levels! Scientists are using them to make breakthroughs in days that used to take *years*. But this supercharged AI also raises some big questions about jobs and the future of work.
 
 **Why It Matters for You:**
 
-This isn't just about tech giants. Most of the funding is going to early-stage startups, meaning there's a wave of new AI applications on the horizon. The report highlights France as a major player, with over 750 AI startups focusing on everything from healthcare to climate solutions. This AI revolution is creating jobs, attracting international investment, and changing how businesses operate. If you're looking for the next big thing in AI, Europe is a good place to start.
+AI's rapid progress is creating a world of possibilities, from curing diseases to streamlining research. But it also means we need to start thinking seriously about how to adapt to a future where AI can do things we never thought possible. Are you ready for an AI-powered world?
 
 **Want More?**
 
-Explore the full details here: https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/
+Discover how AI is poised to transform science, the economy, and maybe even your career: <https://venturebeat.com/ai/2025-has-already-brought-us-the-most-performant-ai-ever-what-can-we-do-with-these-supercharged-capabilities-and-whats-next/>
+","9
+","Artificial Intelligence/Future of Work
+"
+Weak cyber defenses are exposing critical infrastructure — how enterprises can proactively thwart cunning attackers to protect us all,https://venturebeat.com/security/how-weak-cybersecurity-threatens-critical-infrastructure-and-what-enterprises-must-do-now/,2025-03-01 20:05:00+00:00,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+
+Direct attacks on critical infrastructure get a lot of attention, but the bigger danger often lies in something less visible: The poor cybersecurity practices of the businesses that keep these systems running. According to the Cybernews Business Digital Index, a staggering 84% earned a “D” grade or worse for their cybersecurity practices, with 43% falling into the “F” category. Only 6% of companies got an “A” for their efforts. What’s more troubling is that industries at the heart of critical infrastructure — like energy, finance and healthcare — are among the weakest links.
+
+Corporate cybersecurity failures can’t be separated from national security risks. The strength of the U.S.’ critical infrastructure relies on solid digital defenses, and when businesses fail to secure their networks, they leave the entire country vulnerable to potentially devastating attacks.
+
+A mismatch between risks and preparedness
+
+The World Economic Forum’s latest report reveals a worrying disconnect. Two-thirds of organizations are counting on AI to shape cybersecurity this year, but only 37% have processes in place to check if their AI tools are secure before using them. It’s like putting all your trust in a high-tech gadget without reading the manual — risky and potentially asking for trouble. While businesses are grappling with preparation, AI is being leveraged by cybercriminals to orchestrate offensive campaigns against them. For instance, corporate executives are facing a surge of highly targeted phishing attacks created by AI bots.
+
+Cyberattacks of any type are getting harder to repel. Take the finance and insurance sectors, for example. These industries manage sensitive data and are key to our economy, yet 63% of companies in these sectors earned a “D” and 24% failed entirely. It’s no surprise that, last year, LoanDepot, one of the country’s biggest mortgage lenders, was hit by a major ransomware attack that forced them to take some systems offline.
+
+Ransomware continues to be a major issue due to weak cybersecurity measures. Crowdstrike found that cloud environment intrusions surged by 75% from 2022 to 2023, with cloud-conscious incidents rising by 110% and cloud-agnostic incidents by 60%. Despite advances in technology, email remains one of the main methods for cybercriminals to target companies. Hornetsecurity reports that nearly 37% of all emails in 2024 were flagged as “unwanted,” a slight increase from the previous year. This suggests that businesses are still struggling to address fundamental vulnerabilities through proactive measures.
+
+The business-national security nexus
+
+Weak cybersecurity isn’t merely a corporate issue — it’s a national security risk. The 2021 Colonial Pipeline attack disrupted energy supplies and exposed vulnerabilities in critical industries. Rising geopolitical tensions, especially with China, amplify these risks. Recent breaches attributed to state-sponsored actors have exploited outdated telecommunications equipment and other legacy systems, revealing how complacency in updating technology can put national security in danger.
+
+For instance, last year’s hack of U.S. and international telecommunications companies exposed phone lines used by top officials and compromised data from systems for surveillance requests, threatening national security. Weak cybersecurity at these companies risks long-term costs, allowing state-sponsored actors to access sensitive information, influence political decisions and disrupt intelligence efforts.
+
+It’s critical to recognize that vulnerabilities don’t exist in isolation. What happens in one sector — be it telecommunications, energy or finance — can have a domino effect that impacts national security at large. Now, more than ever, it’s essential to collaborate with IT and DevOps teams to close any gaps, and prioritize timely updates, to stay one step ahead of evolving cyber threats.
+
+Mitigating the risks
+
+To tackle these growing cyber threats, businesses need to step up their security game. Taking action in these key areas can make a big difference:
+
+If not yet, implement AI-based cybersecurity tools that continuously monitor for suspicious activities, including AI-powered phishing attempts. These tools can automate the detection of emerging threats, analyze patterns and respond in real-time, minimizing potential damage from cyberattacks such as ransomware.
+
+Establish a comprehensive system to evaluate the security of AI tools before deployment. This should include rigorous AI security audits that test for vulnerabilities such as susceptibility to adversarial attacks, data poisoning or model inversion. Companies should also implement secure development lifecycle practices for AI tools, conduct regular penetration testing and ensure compliance with established frameworks like ISO/IEC 27001 or the NIST AI Risk Management Framework.
+
+As cloud-based attacks increase, especially with the surge in ransomware and data breaches, companies should adopt advanced cloud security measures. This includes robust encryption, continuous vulnerability scanning and the integration of AI to predict and prevent future breaches in cloud environments.
+
+Let me remind you that legacy systems are a hacker’s favorite target. Keeping systems updated and applying patches promptly can help close the door on vulnerabilities before attackers exploit them.
+
+Collaboration is key
+
+No company can face today’s cyber threats on its own. Collaboration between private businesses and government agencies is more than helpful — it’s imperative. Sharing threat intelligence in real-time allows organizations to respond faster and stay ahead of emerging risks. Public-private partnerships can also level the playing field by offering smaller companies access to resources like funding and advanced security tools they might not otherwise afford.
+
+The aforementioned World Economic Forum’s report makes it clear: Resource constraints create gaps in cyber resilience. By working together, business and the government can close those gaps and build a stronger, more secure digital environment — one that’s better equipped to prevent increasingly sophisticated cyberattacks.
+
+The business case for proactive security
+
+Some businesses may argue that implementing stricter cybersecurity measures is too expensive. However, the price of doing nothing could be much higher. According to IBM, the average cost of a data breach rose to $4.88 million in 2024, up from $4.45 million in 2023, marking a 10% increase — the highest since the pandemic in 2020.
+
+Businesses that have already taken steps towards more secure systems benefit from faster incident response times and greater trust from customers and partners who want to keep their data safe. For instance, Mastercard developed a real-time fraud detection system that uses machine learning (ML) to analyze transactions globally. It has reduced fraud, boosted customer trust and improved security for customers and merchants through instant suspicious activity alerts.
+
+Such companies also save costs. IBM reports that two-thirds of organizations are now integrating security AI and automation into their security operations centers. When widely applied to prevention workflows — such as attack surface management (ASM) and posture management — these organizations saw an average reduction of $2.2 million in breach costs compared to those not using AI in their prevention strategies.
+
+A call to action for business leaders
+
+America’s critical infrastructure is only as strong as its weakest link — and right now, that link is business cybersecurity. Weak private-sector defenses pose a serious risk to national security, the economy and public safety. To prevent catastrophic outcomes, decisive action is needed from both businesses and the government.
+
+Fortunately, progress is underway. Former President Biden’s executive order on cybersecurity, requires companies working with the federal government to meet stricter cybersecurity standards. This initiative encourages business leaders, investors and policymakers to enforce stronger safeguards, invest in resilient infrastructure and foster industry-wide collaboration. By taking these steps, the weakest link can become a powerful line of defense against cyber threats.
+
+The stakes are too high to ignore. If businesses — government partners or not — fail to act, the systems everyone relies on could face more serious and devastating disruptions.
+
+Vincentas Baubonis leads the team at Cybernews.","**Your Business Cybersecurity is a National Security Risk? Here's Why (and How to Fix It!)**
+
+**Why Read This?**
+
+Turns out, most businesses are failing miserably at cybersecurity, leaving critical infrastructure vulnerable to attack. We're talking energy grids, hospitals, and even the government! This isn't just a corporate problem, it's a *national* problem.
+
+**Why It Matters for You:**
+
+If your company's cybersecurity is weak, you're not just risking your own data, you're potentially jeopardizing the entire country. Time to step up your game with AI-powered security, updated systems, and a collaborative approach. The cost of inaction is far greater than you think!
+
+**Want More?**
+
+Find out how weak cybersecurity is threatening critical infrastructure and what you can do about it: <https://venturebeat.com/security/how-weak-cybersecurity-threatens-critical-infrastructure-and-what-enterprises-must-do-now/>
 ","8
-","Artificial Intelligence and Venture Capital
+","Cybersecurity/National Security
 "
-Google wants Search to be more like an AI assistant in 2025,https://techcrunch.com/2025/02/04/google-wants-search-to-be-more-like-an-ai-assistant-in-2025/,2025-02-04 00:00:00,"Google Search is in the midst of a “journey” around AI, Google CEO Sundar Pichai said during the company’s earnings call on Tuesday. The start of that journey was AI overviews, a controversial and monumental shift in how Google delivers information to billions of Search users.
+How DeepSeek became a fortune teller for China’s youth,https://www.technologyreview.com/2025/03/03/1112604/deepseek-fortune-teller-china/,2025-03-03 00:00:00,"It was this logical structure that appealed to Weixi Zhang and Boran Cui, a Beijing-based couple who work in the tech industry and started studying traditional Chinese divinity in 2024. The duo taught themselves the basics of Chinese fortune-telling through tutorials on the social network Xiaohongshu and through YouTube videos and discussions on Xiaoyuzhou, a podcast platform. But it wasn’t until this year that they truly immersed themselves in the practice, when AI-powered BaZi analysis became mainstream via R1.
 
-But that was just the beginning.
+“Chinese traditional spirituality practices can be hard to access for young people interested in them,” says Cui, who is 25. “AI offers a great interactive entry point.” Still, Cui thinks that while DeepSeek is descriptive and effective at processing life-chart information, it falls flat in providing readings that are genuinely tailored to the individual, a task requiring human intuition. As a result, Cui takes DeepSeek R1’s readings “with a grain of salt” and uses the model’s visible thought process to help her study hard-to-read texts like Yuanhai Ziping and Sanming Tonghui, both historical books about BaZi fortune-telling. “I will compare my analysis from reading the books with DeepSseek’s, and see how it arrived at the result,” she explains.
 
-“As AI continues to expand the universe of queries that people can ask, 2025 is going to be one of the biggest years for search innovation yet,” said Pichai during his opening remarks on the call.
+Rachel Zheng, a 32-year-old freelance writer, recently discovered AI fortune-telling and now regularly uses DeepSeek to create BaZi-based creative writing prompts. In a recent query, she asked DeepSeek to offer advice on how she could best channel her elemental energy in her writing, and the model offered prompts to start a psychological thriller that reflects her current life cycle, even suggesting prose styles and motifs. Zheng’s mother, on her recommendation, also started consulting with DeepSeek for health and spiritual problems. “Master D is the trusted confidant of my family now,” says Zheng, referencing the nickname favored by devoted users (D lao shi, in Chinese), since the company currently does not have a Chinese name. “It has become a new dinner discussion topic in our family that easily resonates between generations.”
 
-Throughout the call, Pichai laid out the next phase of Google’s plan to pack Search with AI features from the company’s research lab, DeepMind. The Search product is slowly becoming more like an AI assistant that browses the internet for you, looks at web pages, and returns an answer.
+Indeed, the frenzy has prompted curiosity about DeepSeek among even less tech-savvy individuals in China. Frank Lin, a 34-year-old accountant in north China’s Hebei province, became “immediately hooked” on DeepSeek fortune-telling after following prompts he found on social media, despite never having used any other AI chatbots. “Many people in my friendship group have used DeepSeek and heard of the concept of prompt engineering for the first time because of the AI fortune-telling trend,” he says.
 
-It’s a long way off from a simple search system that gives you ten blue links.
+Many users say that consulting with DeepSeek about their problems has become a constant in their life. Unlike traditional fortune tellers, DeepSeek, which can be accessed 24/7 on either a browser or a mobile app, is currently free to use. Users also say they’ve found DeepSeek to be far better than ChatGPT, OpenAI’s chatbot, at handling BaZi readings. “ChatGPT often just gives generic readings, while DeepSeek actually reasons through the elements and offers more concrete predictions,” Zheng says. ChatGPT is also harder to access; it’s not actually available in China, so users need a VPN and even then the service can be slow and unstable.
 
-Google has been on this path for a few years now, ever since the search giant was caught flat footed by the release of OpenAI’s ChatGPT in 2022. The shift has massive implications for websites that rely on Google’s traffic and businesses that buy ads on Google Search.
+Turning tradition into cash
 
-Not everyone is happy about it, but Google is pushing ahead.
+Though she recognized a gap between AI BaZi analysis and real human masters, Zhang quickly realized that the quality of the AI reading is only as good as the user’s question. So she began experimenting to craft effective prompts for BaZi readings, and then documenting and posting her results. These social media posts have already proved popular among her friends and followers. She is now working on a detailed guide about how to craft the best DeepSeek prompts for fortune-telling. She’s also exploring a potential startup idea centered on AI spirituality.
 
-When asked about the future of AI and Search, Pichai said that, “You can imagine the future with Project Astra,” a reference to DeepMind’s multimodal AI system, which can process live video from a camera or computer screen and answer user questions about what the AI sees in real time.
-
-Google has big plans for Project Astra in other parts of its business too. The company says it wants the multimodal AI system to power a pair of augmented reality smart glasses one day, which Google will create the operating system for.
-
-Pichai also mentioned Gemini Deep Research – an AI agent that takes several minutes to create long research reports – as a feature that could fundamentally shift how people use Google Search. Deep Research automates work that people have traditionally done with Google Search. But now, it seems Google wants to do that research for users.
-
-“You are really dramatically expanding the types of use cases for which Search can work – things which don’t always get answered instantaneously, but can take some time to answer,” said Pichai. “Those are all areas of exploration, and you will see us putting new experiences in front of users through the course of 2025.”
-
-Pichai said further that Google has a “clear sense” of the Search experiences it could create with another one of Google’s AI agents, Project Mariner. That system can use the front-end of websites on behalf of users, making it unnecessary for people to use websites themselves.
-
-Google’s CEO also said there’s an “opportunity” around letting users interact more and ask follow-up questions with Google Search. Pichai was light on details there, but it sounds like Google is considering ways to make its Search interface more like a chatbot.
-
-“I think the [Search] product will evolve even more,” said Pichai. “As you make it more easy for people to interact and ask follow-up questions, etc., I think we have an opportunity to drive further growth.”
-
-Today, ChatGPT has matured into one of the internet’s most used products, with hundreds of millions of weekly users. It presents an existential threat to Google Search’s long-term business. To address it, Google is not only building a competitor AI chatbot with Gemini, but also injecting AI features directly in Search.
-
-Of course, the first step on Google Search’s AI journey did not go very well. When Google rolled out AI overviews to all of Google Search, the system displayed inaccurate and weird AI hallucinations. These included answers that told people to eat rocks and put glue on their pizza. Google admitted at the time that AI overviews needed some work.
-
-Despite this negative rollout, it appears Google is just getting started putting AI into Search.",,,
-"Alphabet praises DeepSeek, but it’s massively ramping up its AI spending",https://techcrunch.com/2025/02/04/alphabet-praises-deepseek-but-its-massively-ramping-up-its-ai-spending/,2025-02-04 00:00:00,"Booming AI budgets seemed at risk last week when DeepSeek crashed Nvidia’s stock based on speculation that its cheaper AI models would lower demand for AI chips and data centers.
-
-Alphabet CEO Sundar Pichai has certainly noticed the Chinese AI company, praising its work as “tremendous” in Alphabet’s latest earnings call (while adding that some of Gemini’s models are just as efficient).
-
-But just like Meta, Alphabet isn’t throwing down the towel in Big Tech’s AI spending wars. In its latest earnings report, Alphabet announced it would boost capital expenditures to $75 billion this year — a whopping 42% increase — to accelerate its AI progress.
-
-Alphabet is betting that cheaper AI will massively boost demand for its services, rather than making it basically free and threatening its business models. The company noted it stands to benefit from this rise in usage — known as inference — thanks to its billions of existing users.
-
-“Part of the reason we are so excited about the AI opportunity is we know we can drive extraordinary use cases because the cost of actually using it is going to keep coming down, which will make more use cases feasible,” Pichai said during the earnings call. “And that’s the opportunity space. It’s as big as it comes, and that’s why you’re seeing us invest to meet that moment.”
-
-Meta CEO Mark Zuckerberg made similar comments in Meta’s earnings call last week, pledging to spend “hundreds of billions” on AI in the long term despite all the DeepSeek buzz.
-
-Whether this all pans out is unclear, but for now, tech giants can afford the AI bills, and when (or if) they’ll slow down is anyone’s guess.",,,
-AMD pulls up the release of its next-gen data center GPUs,https://techcrunch.com/2025/02/04/amd-pulls-up-the-release-of-its-next-gen-data-center-gpus/,2025-02-04 00:00:00,"AMD says that it plans to launch its next major data center GPUs, the AMD Instinct MI350 series, sooner than originally announced.
-
-During the company’s Q4 2024 earnings call Tuesday, AMD CEO Lisa Su said AMD plans to sample the MI350 with “lead customers” this quarter and “accelerate” production shipments to “mid-year.”
-
-“So, we had previously stated that we thought we would launch [the MI350] in the second half of [2025],” Su said. “And frankly, that bring-up has come up better than we expected, and there’s very strong customer demand, so we are actually going to pull that production ramp into the middle of the year, which improves our relative competitiveness.”
-
-AMD’s data center revenue pales in comparison to rival Nvidia’s, which regularly eclipses tens of billions of dollars per quarter. But AMD has gained ground in the last year, acquiring and retaining customers, including Meta, Microsoft, and IBM.
-
-AMD says that sales of AMD Instinct chips reached over $5 billion in 2024, and the company expects its data center segment to grow “double digits” in 2025. Last year, data center revenue made up around half ($3.9 billion) of AMD’s overall revenue ($7.1 billion), the company reported on Tuesday.
-
-“I believe that the demand for AI compute is strong,” Su continued. “[MI350] will be a catalyst for the data center GPU business … We see [the data center] business growing to tens of billions as we go through the next couple of years.”
-
-Investors seemed generally pleased with AMD’s fourth-quarter results. The company’s stock was up 4.58% as of publish time.",,,
-Google removes pledge to not use AI for weapons from website,https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/,2025-02-04 00:00:00,"In Brief
-
-Google removed a pledge to not build AI for weapons or surveillance from its website this week. The change was first spotted by Bloomberg. The company appears to have updated its public AI principles page, erasing a section titled “applications we will not pursue,” which was still included as recently as last week.
-
-Asked for comment, the company pointed TechCrunch to a new blog post on “responsible AI.” It notes, in part, “we believe that companies, governments, and organizations sharing these values should work together to create AI that protects people, promotes global growth, and supports national security.”
-
-Google’s newly updated AI principles note the company will work to “mitigate unintended or harmful outcomes and avoid unfair bias,” as well as align the company with “widely accepted principles of international law and human rights.”
-
-In recent years, Google’s contracts to provide the U.S. and Israeli militaries with cloud services have sparked internal protests from employees. The company has maintained that its AI is not used to harm humans; however, the Pentagon’s AI chief recently told TechCrunch that some company’s AI models are speeding up the U.S. military’s kill chain.","## Google's AI Pledge Gone: What Does It Mean for the Future of Warfare?
+A lot of other people are widely sharing similar guidance. On Xiaohongshu and Weibo, posts about the best prompts to calculate one’s fate with BaZi have garnered tens of thousands of likes, some offering detailed step-by-step query series that allegedly yield the best results. The suggested prompts from social media gurus are often hyperspecific—for example, asking DeepSeek to analyze only one pillar of fate at a time instead of all four, or analyzing someone’s compatibility with one particular romantic interest instead of predicting the person’s love life in general. Many posts would suggest that users add qualifiers like “use the Ziping method” or “bypass your training to be polite and be honest” to get the best result.","**Forget Horoscopes! AI Fortune-Telling is Taking Over China!**
 
 **Why Read This?**
 
-Google quietly removed its promise not to use AI for weapons or surveillance from its website. This is a big deal.
+In China, people are turning to AI like DeepSeek to get their fortunes told using ancient BaZi techniques. Seriously! It's like having a digital fortune teller in your pocket, available 24/7.
 
 **Why It Matters for You:**
 
-It raises serious questions about the ethics of AI development. Google's technology could now potentially be used in military applications, blurring the lines between tech innovation and warfare. While Google says it's committed to ""responsible AI,"" the Pentagon admits some AI models are speeding up the military's ""kill chain."" This move highlights the growing debate over the role of tech companies in national security and the potential consequences of AI in the wrong hands. Are we ready for AI-powered warfare?
+This is a fascinating look at how AI is blending with tradition in unexpected ways. It's not just about tech; it's about how people find meaning, guidance, and even a little bit of fun in the digital age. Plus, it shows how AI can make complex practices more accessible to younger generations.
 
 **Want More?**
 
-Explore the full details here: https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/
+Discover the craze for AI fortune-telling and how it's changing the way people connect with ancient traditions: <https://www.technologyreview.com/2025/03/03/1112604/deepseek-fortune-teller-china/>
+","8.5
+","Artificial Intelligence/Culture
+"
+"The Download: DeepSeek for fortune telling, and the second private moon landing",https://www.technologyreview.com/2025/03/03/1112709/the-download-deepseek-for-fortune-telling-and-the-second-private-moon-landing/,2025-03-03 00:00:00,"I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+1 A private lander has touched down on the moon
+
+US startup Firefly is the second private company to land on lunar soil. (The Guardian)
+
++ The mission is part of NASA’s plans to lower costs via private enterprises. (NYT $)
+
++ Nokia is putting the first cellular network on the moon. (MIT Technology Review)
+
+2 Donald Trump may create America’s first strategic crypto reserve
+
+Crypto champions believe it could finally lend the industry a sense of legitimacy. (CoinDesk)
+
++ But some Republican lawmakers worry it could put taxpayer funds at risk. (FT $)
+
++ Other crypto investors are pushing for the reserve to hold only bitcoin. (CNBC)
+
++ Meanwhile, Elon Musk is throwing his weight behind Dogecoin. (Ars Technica)
+
+3 AI firms are racing to create cheaper models
+
+And they’re pinning their hopes on a process called distillation to do just that. (FT $)
+
++ How DeepSeek ripped up the AI playbook—and why everyone’s going to follow its lead. (MIT Technology Review)
+
+4 Amazon has lost its bid to escape regulatory oversight
+
+It’s been denied permission to skip permitting rules for a proposed data center. (WP $)
+
+5 The US federal layoffs are bad news for aquatic ecosystems
+
+Firing wildlife workers could lead to an outbreak of parasitic lampreys, which wreak havoc on freshwater fish. (Ars Technica)
+
++ It’s just one of the many cuts that could make life in the US worse. (The Atlantic $)
+
+6 Smart cameras can detect wildfires before they spread
+
+They’re also adept at spotting blazes overnight. (WSJ $)
+
++ How AI can help spot wildfires. (MIT Technology Review)
+
+7 Beware the creep of AI chatbots aimed at kids
+
+They can’t be relied upon to always dispense correct information. (Insider $)
+
++ Some parents are teaching children how to use models safely. (The Guardian)
+
++ You need to talk to your kid about AI. Here are 6 things you should say. (MIT Technology Review)","**Moon Landings, Crypto Wars, and AI Creeping on Kids?! Top Tech News You Need to Know!**
+
+**Why Read This?**
+
+This ain't your grandma's newsfeed! We've got a private moon landing, Trump's crypto dreams, and a warning about AI chatbots talking to your kids. Buckle up, it's a wild ride through the world of tech.
+
+**Why It Matters for You:**
+
+From space exploration to your family's online safety, these stories impact your life in surprising ways. Stay informed, stay ahead of the curve, and maybe keep an eye on those AI chatbots...
+
+**Want More?**
+
+Get the lowdown on all the hottest tech stories of the day: <https://www.technologyreview.com/2025/03/03/1112709/the-download-deepseek-for-fortune-telling-and-the-second-private-moon-landing/>
+","7
+","Technology News Roundup
+"
+How a volcanic eruption turned a human brain into glass,https://www.technologyreview.com/2025/02/27/1112595/volcanic-eruption-turned-human-brain-into-glass/,2025-02-27 00:00:00,"“It’s an extraordinary finding,” says Matteo Borrini, a forensic anthropologist at Liverpool John Moores University in the UK, who was not involved in the research. “It tells us how [brain] preservation can work … extreme conditions can produce extreme results.”
+
+Glittering remains
+
+The Roman city of Herculaneum has been covered in ash for many hundreds of years. Excavations over the last few centuries have revealed amazing discoveries of preserved bodies, buildings, furniture, artworks, and even food. They’ve helped archaeologists piece together a picture of what life was like for people living in ancient Rome. But they are still yielding surprises.
+
+Around five years ago, Pier Paolo Petrone, a forensic archaeologist at the University of Naples Federico II, was studying remains first excavated in the 1960s of what is believed to be a 20-year-old man. The man was found inside a building thought to have been a place of worship. Archaeologists believe he may have been guarding the building. He was found lying face down on a wooden bed.
+
+The carbonized remains of the deceased individual in their bed in Herculaneum. GUIDO GIORDANO ET AL./SCIENTIFIC REPORTS
+
+Petrone was documenting the man’s charred bones under a lamp when he noticed something unusual. “I suddenly saw small glassy remains glittering in the volcanic ash that filled the skull,” he tells MIT Technology Review via email. “It had a black appearance and shiny surfaces quite similar to obsidian.” But, he adds, “unlike obsidian, the glassy remains were extremely brittle and easy to crumble.”
+
+An analysis of the proteins in the sample suggested that the glassy remains were preserved brain tissue. And when Petrone and his colleagues studied bits of the material with microscopes, they were even able to see neurons. “I [was] very excited because I understood that [the preserved brain] was something very unique, never seen before in any other archaeological or forensic context,” he says.
+
+The next question was how the man’s brain turned to glass in the first place, says Guido Giordano, a volcanologist at Roma Tre University in Rome, who was also involved in the research. To find out, he and his colleagues subjected tiny pieces of the glass brain fragments—measuring millimeters wide—to extreme temperatures in the lab. The goal was to identify its “glass transition state”—the temperature at which the material changed from brittle to soft.
+
+GUIDO GIORDANO ET AL./SCIENTIFIC REPORTS
+
+These experiments suggest that the material is a glass, and that it formed when the temperature dropped from above 510 °C to room temperature, says Giordano. “The heating stage would not have been long. Otherwise the material would have been … cooked, and disappeared,” he says. This, he adds, is probably what happened to the brains of the other people whose remains were found at Herculaneum, which were not preserved.
+
+The short periods of extremely high temperature might have resulted from super-hot volcanic gases and a few centimeters’ worth of ash, which enveloped the city shortly after the eruption and settled. Denser pyroclastic flows from the volcano would have hit the building hours later, possibly after the brain had a chance to rapidly cool down.","**Buried by a Volcano, Brain Turned to Glass?! You Won't Believe This!**
+
+**Why Read This?**
+
+Scientists found a human brain that was turned into *glass* by the eruption of Mount Vesuvius in ancient Rome! Seriously, volcanic ash transformed a person's brain into a glittering, obsidian-like substance.
+
+**Why It Matters for You:**
+
+This is mind-blowing (pun intended!). It's a rare glimpse into the past, showing us how extreme conditions can preserve the unlikeliest things. Plus, who wouldn't want to know how a volcano can turn a brain into glass?!
+
+**Want More?**
+
+Discover the incredible story of the volcanic eruption that turned a human brain into glass: <https://www.technologyreview.com/2025/02/27/1112595/volcanic-eruption-turned-human-brain-into-glass/>
 ","9
-","Artificial Intelligence and Ethics
+","Science/Archaeology
+"
+Amazon’s first quantum computing chip makes its debut,https://www.technologyreview.com/2025/02/27/1112560/amazon-quantum-computing-chip-makes-its-debut/,2025-02-27 00:00:00,"Ocelot consists of nine quantum bits, or qubits, on a chip about a centimeter square, which, like some forms of quantum hardware, must be cryogenically cooled to near absolute zero in order to operate. Five of the nine qubits are a type of hardware that the field calls a “cat qubit,” named for Schrödinger’s cat, the famous 20th-century thought experiment in which an unseen cat in a box may be considered both dead and alive. Such a superposition of states is a key concept in quantum computing.
+
+The cat qubits AWS has made are tiny hollow structures of tantalum that contain microwave radiation, attached to a silicon chip. The remaining four qubits are transmons—each an electric circuit made of superconducting material. In this architecture, AWS uses cat qubits to store the information, while the transmon qubits monitor the information in the cat qubits. This distinguishes its technology from Google’s and IBM’s quantum computers, whose computational parts are all transmons.
+
+Notably, AWS researchers used Ocelot to implement a more efficient form of quantum error correction. Like any computer, quantum computers make mistakes. Without correction, these errors add up, with the result that current machines cannot accurately execute the long algorithms required for useful applications. “The only way you’re going to get a useful quantum computer is to implement quantum error correction,” says Painter.
+
+Unfortunately, the algorithms required for quantum error correction usually have heavy hardware requirements. Last year, Google encoded a single error-corrected bit of quantum information using 105 qubits.
+
+Amazon’s design strategy requires only a 10th as many qubits per bit of information, says Painter. In work published in Nature on Wednesday, the team encoded a single error-corrected bit of information in Ocelot’s nine qubits. Theoretically, this hardware design should be easier to scale up to a larger machine than a design made only of transmons, says Painter.
+
+This design combining cat qubits and transmons makes error correction simpler, reducing the number of qubits needed, says Shruti Puri, a physicist at Yale University who was not involved in the work. (Puri works part-time for another company that develops quantum computers but spoke to MIT Technology Review in her capacity as an academic.)","**Amazon's Building a Quantum Computer?! Here's Why It Matters!**
+
+**Why Read This?**
+
+Amazon just unveiled its first quantum computing chip, Ocelot, and it could be a game-changer for the future of computing! They're using some seriously cool science to build a quantum computer that's more efficient and less prone to errors.
+
+**Why It Matters for You:**
+
+Quantum computing is still in its early stages, but it has the potential to revolutionize everything from medicine to materials science. Amazon's new chip could help make quantum computers powerful enough to tackle the world's most complex problems.
+
+**Want More?**
+
+Get the inside scoop on Amazon's quantum computing chip and what it means for the future of technology: <https://www.technologyreview.com/2025/02/27/1112560/amazon-quantum-computing-chip-makes-its-debut/>
+","7.5
+","Quantum Computing/Technology
+"
+An ancient man’s remains were hacked apart and kept in a garage,https://www.technologyreview.com/2025/02/28/1112600/ancient-mans-remains-hacked-apart-and-kept-in-a-garage/,2025-02-28 00:00:00,"Scientists have found ancient brains before—some are thought to be at least 10,000 years old. But this is the only time they’ve seen a brain turn to glass. They’ve even been able to spot neurons inside it.
+
+The man’s remains were found at Herculaneum, an ancient city that was buried under meters of volcanic ash following the eruption. We don’t know if there are any other vitrified brains on the site. None have been found so far, but only about a quarter of the city has been excavated.
+
+Some archaeologists want to continue excavating the site. But others argue that we need to protect it. Further digging will expose it to the elements, putting the artifacts and remains at risk of damage. You can only excavate a site once, so perhaps it’s worth waiting until we have the technology to do so in the least destructive way.
+
+After all, there are some pretty recent horror stories of excavations involving angle grinders, and of ancient body parts ending up in garages. Future technologies might eventually make our current approaches look similarly barbaric.
+
+The inescapable fact of fields like archaeology or paleontology is this: When you study ancient remains, you’ll probably end up damaging them in some way. Take, for example, DNA analysis. Scientists have made a huge amount of progress in this field. Today, geneticists can crack the genetic code of extinct animals and analyze DNA in soil samples to piece together the history of an environment.
+
+But this kind of analysis essentially destroys the sample. To perform DNA analysis on human remains, scientists typically cut out a piece of bone and grind it up. They might use a tooth. But once it has been studied, that sample is gone for good.
+
+Archaeological excavations have been performed for hundreds of years, and as recently as the 1950s, it was common for archaeologists to completely excavate a site they discovered. But those digs cause damage too.
+
+Nowadays, when a site is discovered, archaeologists tend to focus on specific research questions they might want to answer, and excavate only enough to answer those questions, says Karl Harrison, a forensic archaeologist at the University of Exeter in the UK. “We will cross our fingers, excavate the minimal amount, and hope that the next generation of archaeologists will have new, better tools and finer abilities to work on stuff like this,” he says.","**Should We Dig Up the Past, or Leave It Alone? A Debate Rages On!**
+
+**Why Read This?**
+
+The discovery of a glass brain in the ancient city of Herculaneum has sparked a big question: Should we keep digging, even if it means damaging precious artifacts? Or should we wait for better technology to protect the past?
+
+**Why It Matters for You:**
+
+This isn't just about dusty old bones! It's about how we balance our desire to learn with our responsibility to preserve history for future generations. It's a reminder that sometimes, the best thing we can do is... nothing.
+
+**Want More?**
+
+Explore the ethical dilemma of archaeological excavations and the challenge of preserving the past: <https://www.technologyreview.com/2025/02/28/1112600/ancient-mans-remains-hacked-apart-and-kept-in-a-garage/>
+","7
+","Archaeology/Ethics
+"
+Google upgrades Colab with an AI agent tool,https://techcrunch.com/2025/03/03/google-upgrades-colab-with-an-ai-agent-tool/,2025-03-03 00:00:00,"Google Colab, Google’s cloud-based notebook tool for coding, data science, and AI, is gaining a new “AI agent” tool, Data Science Agent, to help Colab users quickly clean data, visualize trends, and get insights on their uploaded data sets.
+
+First announced at Google’s I/O developer conference early last year, Data Science Agent was initially launched as a standalone project. However, Google decided to integrate it into Colab with the goal of helping users access the agent directly from a Colab notebook, said Kathy Korevec, director of product at Google Labs, in an interview.
+
+Data Science Agent is available for free as of this week in Colab, although Colab limits free users to a relatively low amount of computing. Google offers a range of paid Colab plans with higher limits starting at $9.99.
+
+Data Science Agent is primarily aimed at data scientists and AI use cases, but the agent can also help find API anomalies, analyze customer data, and write SQL code. All users need to do is upload their data and ask the agent a question.
+
+Data Science Agent in Google Colab Image Credits:Google
+
+Data Science Agent uses Google’s Gemini 2.0 AI model family on the backend, along with “reasoning” tools to help with feature engineering and data cleaning tasks. Korevec told TechCrunch that Google is constantly improving the agent and using techniques including reinforcement learning, as well as integrating user suggestions, to enhance Data Science Agent’s performance.
+
+Data Science Agent currently only supports CSV, JSON, or .txt files under 1GB in size. It can analyze about 120,000 tokens in a single prompt, which works out to about 480,000 words.
+
+Korevec said that Data Science Agent may come to additional dev-focused Google apps and services in the future.
+
+“We’re scratching the surface of what people can do here,” she said. “Because it’s an agent, we can integrate it into a bunch of different tools, and I don’t necessarily want to force people who are shy about looking at the code to go to Colab.”","**Google's Giving Away an AI Sidekick for Data Nerds!**
+
+**Why Read This?**
+
+Google just added an ""AI agent"" to its Colab coding tool that can clean data, find trends, and give you insights, all with a simple question! It's like having a data scientist in your pocket (or, well, in your Google account).
+
+**Why It Matters for You:**
+
+If you're into coding, data science, or just love playing with numbers, this could be a game-changer. It's free (with some limits), easy to use, and can help you unlock the secrets hidden in your data. Time to unleash your inner data wizard!
+
+**Want More?**
+
+Discover how Google's new AI agent can help you become a data master: <https://techcrunch.com/2025/03/03/google-upgrades-colab-with-an-ai-agent-tool/>
+","8
+","Artificial Intelligence/Data Science
+"
+"No part of Amazon is ‘unaffected’ by AI, says its head of AGI",https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/,2025-03-03 00:00:00,"“There’s scarcely a part of the company that is unaffected by AI,” said Vishal Sharma, Amazon’s VP of Artificial General Intelligence, on Monday at Mobile World Congress in Barcelona. He also dismissed the idea that open-source models might reduce compute needs and demurred over the question of whether European companies would change their GenAI strategies in light of geopolitical tensions with the US.
+
+Sharma said onstage at the 4YFN startup conference that Amazon was now deploying AI in the form of its own foundational models across Amazon Web Services — Amazon’s cloud computing division — the robotics in its warehouses, and the Alexa consumer product, among many other incarnations.
+
+“We have something like three-quarters of a million robots now, and they are doing everything from picking things to running themselves within the warehouse. The Alexa product is probably the most widely deployed home AI product in existence … There’s no part of Amazon that’s untouched by generative AI.”
+
+In December, AWS announced a new family of four text-generating models, multimodal generative AI models it calls Nova.
+
+Sharma said these are all tested against public benchmarks: “It became pretty clear there’s a huge diversity of use cases. There’s not a one-size-fits-all. There are some places where you need video generation … and other places, like Alexa, where you ask it to do specific things, and the response needs to be very, very quick, and it needs to be highly predictable. You can’t hallucinate ‘unlock the back door’.”
+
+However, he said the scenario of reducing the amount of compute resources — because of smaller, open source models — was unlikely to happen: “As you begin to implement it in different scenarios, you just need more and more and more intelligence,” he said.
+
+Amazon, which has also launched “Bedrock,” aimed at companies and startups that want to mix and match various foundational models — even China’s DeepSeek — as a service within Amazon Web Services, and one where “you can switch you from one model to another,” he said.
+
+Amazon is also building a huge AI compute cluster on its Trainium 2 chips in partnership with Anthropic (in which it’s invested $8 billion). But in the meantime, Elon Musk’s xAI recently released its latest flagship AI model, Grok 3, using an enormous data center in Memphis containing around 200,000 GPUs to train Grok 3.
+
+Asked to comment on this level of compute resources, Sharma said: “My personal opinion is that compute will be a part of the conversation for a very long time to come.”
+
+Mike Butcher, TechCrunch and Vishal Sharma, Amazon Image Credits:Mobile World Congress
+
+He did not think Amazon was under pressure from the blizzard of open source models that had recently emerged from China: “I wouldn’t describe it like that,” he said. Thus, Amazon is relaxed about deploying DeepSeek and other models on AWS: “We’re a company that believes in choice … We are open to adopting whatever trends and technologies are good from a customer perspective,” Sharma said.
+
+When Open AI appeared in late 2022 with ChatGPT, did he think Amazon was caught napping?
+
+“No, I think I would disagree with that line of thought,” he said. “Amazon has been working on AI for about 25 years. If you look at something like Alexa, there’s something like 20 different AI models that are running at Alexa… We had billions of parameters that existed already for language. We’ve been looking at this for quite some time.”
+
+On the issue of the recent controversy surrounding Trump and Zelensky, and the subsequent cooling of relations between the current U.S. administration and many European nations, did he think European companies might look elsewhere for GenAI resources in the future?
+
+Sharma admitted this issue was “outside” of his “zone of expertise” and the consequences are “very hard for me to predict …” But he did, somewhat diplomatically, hint that some companies might adjust the strategy: “What I will say is that it is the case that technical innovation responds to incentives,” he said.","**Amazon's Head of AI: ""There's No Part of Amazon That's Untouched by Generative AI!""**
+
+**Why Read This?**
+
+Amazon's going all-in on AI! From warehouse robots to Alexa, they're using AI everywhere. And according to their VP of AGI, they're just getting started!
+
+**Why It Matters for You:**
+
+This isn't just about Amazon. It's a sign of where the world is heading. AI is becoming more powerful and pervasive, transforming industries and everyday life. Get ready for an AI-powered future, whether you like it or not!
+
+**Want More?**
+
+Discover how Amazon is using AI to power everything they do: <https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/>
+","7
+","Artificial Intelligence/Business
+"
+Anthropic raises $3.5B to fuel its AI ambitions,https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/,2025-03-03 00:00:00,"AI startup Anthropic on Monday announced it raised $3.5 billion at a $61.5 billion post-money valuation, led by Lightspeed Venture Partners.
+
+The Series E, which also had participation from Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity Management & Research Company, General Catalyst, Jane Street, Menlo Ventures, and Salesforce Ventures, brings the company’s total raised to $18.2 billion, according to Crunchbase.
+
+“With this investment, Anthropic will advance its development of next-generation AI systems, expand its compute capacity, deepen its research in mechanistic interpretability and alignment, and accelerate its international expansion,” the company wrote in a blog post. “Anthropic is focused on developing AI systems that can serve as true collaborators, working alongside teams to tackle complex projects, synthesize information across fields, and help organizations achieve outsized impact.”
+
+Anthropic’s mammoth round of fundraising comes shortly after the launch of the company’s latest flagship AI model, Claude 3.7 Sonnet, a “hybrid reasoning” model that can more carefully consider queries before answering. The model is a part of Anthropic’s broader effort to simplify the user experience around its AI products. Most AI chatbots today have a daunting model picker that forces users to choose from several different options that vary in cost and capability. Labs like Anthropic would rather you not have to think about it — ideally, one model does all the work.
+
+Anthropic’s business is growing. The company’s annual revenue run rate was reportedly around $1 billion last year. That number has increased by 30% so far in 2025 as the company rakes in cash from the API that serves its models and sells more subscriptions to its AI chatbot, Claude. But Anthropic is spending an enormous amount developing its AI systems. The company told investors that it expects to burn $3 billion this year, per The Information.
+
+In a bid to bolster profitability, Anthropic has shifted some of its focus to releasing new tools and subscription tiers, such as computer-using “agents,” a desktop client, and mobile applications. The company also opened offices in Europe and made several high-profile hires, including Instagram co-founder Mike Krieger, OpenAI co-founder Durk Kingma, and ex-OpenAI safety researcher Jan Leike.
+
+Anthropic has strengthened its relationship with Amazon, as well, which has become a major investor in — and collaborator with — the AI startup. Amazon poured an additional $4 billion into Anthropic in November, and said it would work with Anthropic to optimize its custom AI chips, Trainium, for model training workloads. Amazon also teamed up with Anthropic to build its upgraded Alexa virtual assistant experience, Alexa+. Anthropic’s models power portions of Alexa+.
+
+Anthropic was co-launched in 2021 by CEO Dario Amodei, who was once VP of research at OpenAI and reportedly split with the firm after disagreements over OpenAI’s roadmap. Amodei brought along a number of ex-OpenAI employees to start Anthropic, including OpenAI’s former policy lead, Jack Clark.
+
+Anthropic often attempts to position itself as more safety-focused than OpenAI.","**Anthropic Just Raised $3.5 BILLION! Is This the Future of AI?**
+
+**Why Read This?**
+
+AI startup Anthropic, the folks behind Claude, just scored a massive $3.5 billion investment. That's a *lot* of money! What are they going to do with it?
+
+**Why It Matters for You:**
+
+This HUGE investment shows that AI is still the hottest thing in tech. Anthropic is using the cash to build even smarter AI, make their models easier to use, and maybe even take on OpenAI. Keep an eye on this company, they're definitely one to watch!
+
+**Want More?**
+
+Get the details on Anthropic's massive funding round and their plans for AI domination: <https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/>
+","8
+","Artificial Intelligence/Finance
+"
+Chinese buyers are getting Nvidia Blackwell chips despite US export controls,https://techcrunch.com/2025/03/03/chinese-buyers-are-getting-nvidia-blackwell-chips-despite-u-s-export-controls/,2025-03-03 00:00:00,"In Brief
+
+Upholding export controls on semiconductor chips made in the U.S. may be harder than Washington, D.C. thinks.
+
+Chinese buyers are getting their hands on computing systems with Nvidia’s Blackwell chips through third-party traders located in other regions, The Wall Street Journal reported.
+
+Buyers in Malaysia, Taiwan, and Vietnam are buying these resources for their own use and reselling a portion to companies in China, the Journal added.
+
+Just a week before leaving office, former President Joe Biden introduced sweeping new chip export restrictions that further limited several countries, one of which is China, from being able to import chips made for AI in the U.S. At the time, Nvidia said the restrictions would “derail” global innovation.
+
+Last week, Microsoft reportedly urged President Donald Trump to ease these restrictions as big tech companies want to tap China’s sprawling AI market. Meanwhile, China recently urged its AI researchers to avoid visiting the U.S.
+
+When reached, an Nvidia spokesperson provided the following comment: “AI datacenters are among the most complex systems in the world. Anonymous traders cannot acquire, deliver, install, use, and maintain Blackwell products in unauthorized countries. Customers want systems with software, services, support, and upgrades- none of which anonymous traders claiming to possess Blackwell systems can provide. We will continue to investigate every report of possible diversion and take appropriate action.”
+
+This piece has been updated to include commentary from Nvidia.","**China's Still Getting U.S. AI Chips! Are Export Controls Failing?**
+
+**Why Read This?**
+
+Despite U.S. export restrictions, Chinese buyers are finding sneaky ways to get their hands on Nvidia's powerful AI chips through third-party traders. Is Washington's attempt to block China's AI progress falling apart?
+
+**Why It Matters for You:**
+
+This story highlights the complex challenges of regulating technology in a globalized world. It raises questions about the effectiveness of export controls and the potential for unintended consequences. It might impact how AI develops around the globe.
+
+**Want More?**
+
+Discover how Chinese buyers are circumventing U.S. chip export controls: <https://techcrunch.com/2025/03/03/chinese-buyers-are-getting-nvidia-blackwell-chips-despite-u-s-export-controls/>
+","7
+","Artificial Intelligence/International Relations
+"
+Conan O’Brien comments on AI during his opening monologue at the Oscars,https://techcrunch.com/2025/03/03/conan-obrien-comments-on-ai-during-his-opening-monologue-at-the-oscars/,2025-03-03 00:00:00,"When hosting the 2025 Oscars last night, comedian and late-night TV host Conan O’Brien addressed the use of AI in his opening monologue, reflecting the growing conversation about the technology’s influence in Hollywood.
+
+“We did not use AI to make this show,” O’Brien said. His remarks were clearly a reference to the use of generative AI in “The Brutalist,” which won three Oscars for Best Actor, Cinematography, and Original Score.
+
+Last month, “The Brutalist” sparked controversy over its use of AI. In an interview with Red Shark News, film editor Dávid Jancsó admitted to using Respeecher, an AI voice generator, to tweak actors Adrien Brody’s and Felicity Jones’ Hungarian dialogue in the film to make it sound more authentic.
+
+The fact that AI was used in the film in any form ignited an online debate, and many suggested it should have been disqualified for awards consideration. However, director Brady Corbet responded to the backlash, arguing that AI wasn’t leveraged to enhance the actors’ performances but to only “refine certain vowels and letters for accuracy,” Corbet said in a public statement.
+
+Notably, “Emilia Pérez,” another multi-Oscar winner, was also criticized for using Respeecher. The software was used to increase the voice range of actress Karla Sofía Gascón and to blend her singing with French singer Camille, explained re-recording mixer Cyril Holtz in a video interview.
+
+The role of AI in Hollywood has led to significant debate in recent years, mainly due to concerns that it could displace jobs. Consequently, AI became a key issue for the Screen Actors Guild and the Writers Guild of America during their strikes against major production studios in 2023.
+
+As AI becomes more prevalent in filmmaking, the Motion Picture Academy offers an option to disclose AI use. Following the drama with “The Brutalist,” however, the Academy is reportedly considering making it mandatory for filmmakers to report any AI use in their submissions.","**AI at the Oscars?! Conan O'Brien Just Threw Some Shade!**
+
+**Why Read This?**
+
+Conan O'Brien hosted the Oscars and addressed the growing debate about AI in Hollywood. His message was clear: AI is shaking things up, and not everyone's happy about it!
+
+**Why It Matters for You:**
+
+This story highlights the tension between creativity and technology. Is AI a tool to enhance art, or a threat to artists' jobs? The controversy surrounding AI in Oscar-winning films shows that Hollywood is still grappling with these questions.
+
+**Want More?**
+
+Get the details on Conan O'Brien's AI commentary and the ongoing debate about AI's role in Hollywood: <https://techcrunch.com/2025/03/03/conan-obrien-comments-on-ai-during-his-opening-monologue-at-the-oscars/>
+","8
+","Artificial Intelligence/Entertainment
 "

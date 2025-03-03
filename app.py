@@ -33,6 +33,11 @@ from sqlalchemy.dialects.postgresql import JSON
 from loguru import logger
 import json
 from typing import Dict
+from dotenv import load_dotenv
+import os
+
+load_dotenv('.env')
+
 from pydantic import BaseModel
 
 class UserRegisterRequest(BaseModel):
@@ -45,7 +50,7 @@ class UserRegisterRequest(BaseModel):
 
 logger.add("app3.log", backtrace=True, diagnose=True)
 app = FastAPI()
-scheduler = BackgroundScheduler()
+# scheduler = BackgroundScheduler()
 
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -63,6 +68,16 @@ DATABASE_URL = "sqlite:///./users.db"
 engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
+
+# from sqlalchemy import create_engine
+
+# DATABASE_URL = os.getenv("DATABASE_URL")
+# # print(f"db url : {DATABASE_URL}")
+
+# engine = create_engine(DATABASE_URL)
+# SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+# Base = declarative_base()
+
 
 class User(Base):
     __tablename__ = "users"
@@ -83,10 +98,6 @@ class NewsArticle(Base):
 
 Base.metadata.create_all(bind=engine)
 
-from dotenv import load_dotenv
-import os
-
-load_dotenv('.env')
 
 # Email Configuration
 conf = ConnectionConfig(
@@ -171,7 +182,11 @@ async def register_user(request: UserRegisterRequest):
 
 import pandas as pd
 import re
+from main import main
+
 def load_news_from_csv(file_path: str = "CSV/processed_ai_news_articles.csv"):
+    main(logger) # this is the function which fetches the latest AI news from websites
+    
     url_pattern = r"https?://[^\s]+"
     df = pd.read_csv(file_path)
     db = SessionLocal()
@@ -282,26 +297,27 @@ async def send_emails():
     fm = FastMail(conf)
     await fm.send_message(message)
 
+@app.get("/send_email_job")
 def send_emails_wrapper():
     asyncio.run(send_emails())
     logger.info("Emails sent successfully!")
 
 # Schedule Email Sending
-job = scheduler.add_job(send_emails_wrapper, "interval", hours=1) 
-scheduler.start()
-next_run_time = job.next_run_time  # This gives the next execution time (UTC)
+# job = scheduler.add_job(send_emails_wrapper, "interval", minutes = 30) 
+# scheduler.start()
+# next_run_time = job.next_run_time  # This gives the next execution time (UTC)
 
 
 @app.get("/")
 async def home():
     return {"message": "Welcome to AI News Service!"}
 
-import _datetime 
-@app.get("/time-remain")
-async def time_remian():
-    current_time = _datetime.datetime.now(_datetime.timezone.utc)  # Get current UTC time
-    time_left = next_run_time - current_time
-    return {"Time Left " : time_left * 0.000277778}
+# import _datetime 
+# @app.get("/time-remain")
+# async def time_remian():
+#     current_time = _datetime.datetime.now(_datetime.timezone.utc)  # Get current UTC time
+#     time_left = next_run_time - current_time
+#     return {"Time Left " : time_left * 0.000277778}
 
 
 @app.get("/test-email")

@@ -11,4 +11,5 @@ python-dotenv
 google-genai
 google-generativeai
 newspaper3k 
-lxml_html_clean 
+lxml_html_clean
+psycopg2

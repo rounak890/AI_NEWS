@@ -16,7 +16,7 @@ def fetch_recent_articles(url,recency_threshold, logger ,limit=5):
             article.download()
             article.parse()
             if article.publish_date:
-                article_date = str(article.publish_date.date())
+                article_date = article.publish_date.date()
                 if article_date >= recency_threshold:
                     recent_articles.append({
                         "title": article.title,

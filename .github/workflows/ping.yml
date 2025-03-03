@@ -1,15 +1,26 @@
-name: Ping Website Every 10 Minutes
+name: Ping Websites
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Runs every 10 minutes
+    - cron: '*/9 * * * *'  # Runs every 10 minutes
+    - cron: '0 0 * * *'    # Runs every 24 hours
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  ping:
+  ping_frequent:
+    if: github.event.schedule == '*/9 * * * *'  # Runs only for 10-minute interval
     runs-on: ubuntu-latest
     steps:
-      - name: Ping Website
+      - name: Ping Primary Website
         env:
           URL: ${{ secrets.WEBSITE_URL }}
         run: curl -Is "$URL" | head -n 1
+
+  ping_daily:
+    if: github.event.schedule == '0 0 * * *'  # Runs only for 24-hour interval
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Secondary Website
+        env:
+          URL_SECONDARY: ${{ secrets.SECOND_WEBSITE_URL }}
+        run: curl -Is "$URL_SECONDARY" | head -n 1
