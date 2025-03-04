@@ -273,15 +273,30 @@ async def send_emails(test = False):
 
     for article in news_articles:
         
-        news_content += f"""
-            <li>
-                <h3>{article.title}</h3>
-                <p>{article.content.replace('**', '<strong>').replace("\\n", "<br>")}</p>
-                <p><strong>Virality Score:</strong> {article.virality_score}</p>
-                <p>Publish Date : {article.publish_date}</p>
+        # news_content += f"""
+        #     <li>
+        #         <h3>{article.title}</h3>
+        #         <p>{article.content.replace('**', '<strong>').replace("\\n", "<br>")}</p>
+        #         <p><strong>Virality Score:</strong> {article.virality_score}</p>
+        #         <p>Publish Date : {article.publish_date}</p>
 
-            </li>
-        """
+        #     </li>
+        # """
+
+        news_content += """
+        <li>
+            <h3>{}</h3>
+            <p>{}</p>
+            <p><strong>Virality Score:</strong> {}</p>
+            <p>Publish Date : {}</p>
+        </li>
+    """.format(
+        article.title,
+        article.content.replace("**", "<strong>").replace("\n", "<br>"),
+        article.virality_score,
+        article.publish_date
+    )
+
 
     news_content += """
         </ul>
