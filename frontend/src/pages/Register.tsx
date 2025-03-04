@@ -97,8 +97,8 @@ const Register = () => {
             onChange={handleChange}
           >
             <option value="email">Email</option>
-            <option value="whatsapp">WhatsApp</option>
-            <option value="telegram">Telegram</option>
+            <option value="whatsapp" disabled>WhatsApp</option>
+            <option value="telegram" disabled>Telegram</option>
           </select>
         </div>
 
