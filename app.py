@@ -249,7 +249,7 @@ async def send_emails(test = False):
     # news_content = "Daily AI News:\n\n"
     # for article in news_articles:
     #     news_content += f"Title: {article.title}\n"
-    #     news_content += f"Content: {article.content}\n"
+    #     news_content += f"Content: {article.content}\n" <p>{article.content.replace('**', '<strong>').replace('\n', '<br>')}</p>
     #     news_content += f"Virality Score: {article.virality_score}\n\n"
 
     news_content = """
@@ -276,7 +276,7 @@ async def send_emails(test = False):
         news_content += f"""
             <li>
                 <h3>{article.title}</h3>
-                <p>{article.content.replace('**', '<strong>').replace('\n', '<br>')}</p>
+                <p>{article.content.replace('**', '<strong>').replace("\\n", "<br>")}</p>
                 <p><strong>Virality Score:</strong> {article.virality_score}</p>
                 <p>Publish Date : {article.publish_date}</p>
 
