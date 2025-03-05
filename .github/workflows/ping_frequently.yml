@@ -1,0 +1,15 @@
+name: Ping Primary Website Frequently
+
+on:
+  schedule:
+    - cron: '*/9 * * * *'  # Runs every 10 minutes
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  ping_frequent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Primary Website
+        env:
+          URL: ${{ secrets.WEBSITE_URL }}
+        run: curl -Is "$URL" | head -n 1

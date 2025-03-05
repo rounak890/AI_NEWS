@@ -1,0 +1,15 @@
+name: Ping Secondary Website Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every 24 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  ping_daily:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Secondary Website
+        env:
+          URL_SECONDARY: ${{ secrets.SECOND_WEBSITE_URL }}
+        run: curl -Is "$URL_SECONDARY" | head -n 1
