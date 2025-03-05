@@ -1,8 +1,8 @@
-name: Ping Secondary Website Daily
+name: Ping Secondary Website Twice Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every 24 hours
+    - cron: '0 */12 * * *'  # Runs every 12 hours
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
