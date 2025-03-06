@@ -1,4 +1,3 @@
-
 """
 (A) User Authentication
 @app.route('/register', methods=['POST']) → Register a new user
@@ -300,6 +299,9 @@ async def send_emails(test = False):
 
     news_content += """
         </ul>
+        <p>Best regards,</p>
+        <p>Rounak Gera</p>
+        <p><a href="https://www.linkedin.com/in/rounak-gera-229a46287/">Connect with me on LinkedIn</a></p>
     </body>
     </html>
     """
