@@ -12,4 +12,4 @@ jobs:
       - name: Ping Secondary Website
         env:
           URL_SECONDARY: ${{ secrets.SECOND_WEBSITE_URL }}
-        run: curl -Is "$URL_SECONDARY" | head -n 1
+        run: curl -X GET -I "$URL_SECONDARY" | head -n 1
