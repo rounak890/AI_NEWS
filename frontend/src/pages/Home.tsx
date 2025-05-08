@@ -25,7 +25,7 @@ export default function Home() {
     <div className="space-y-16">
       <section className="text-center space-y-6">
         <Bot className="h-16 w-16 mx-auto text-blue-600" />
-        <h1 className="text-4xl font-bold text-gray-900">Stay Ahead with AI News Daily</h1>
+        <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 text-transparent bg-clip-text drop-shadow-sm">Stay Ahead with AI News Daily</h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
           Get curated AI news delivered directly to you. Stay informed about the latest developments
           in artificial intelligence, machine learning, and technology.

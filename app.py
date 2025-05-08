@@ -101,20 +101,21 @@ Base.metadata.create_all(bind=engine)
 
 # Email Configuration
 conf = ConnectionConfig(
-    MAIL_USERNAME= os.getenv("EMAIL"),
-    MAIL_PASSWORD= os.getenv("MAIL_PASSWORD"),
+    MAIL_USERNAME = os.getenv("EMAIL"),
+    MAIL_PASSWORD = os.getenv("MAIL_PASSWORD"),
     MAIL_FROM = os.getenv("EMAIL"),
-    MAIL_PORT=587,
-    MAIL_SERVER="smtp.gmail.com",
-    MAIL_STARTTLS=True,  # Use STARTTLS
-    MAIL_SSL_TLS=False,  # Not using SSL/TLS
-    USE_CREDENTIALS=True,
-    VALIDATE_CERTS=True
+    MAIL_PORT = 587,
+    MAIL_SERVER = "smtp.gmail.com",
+    MAIL_STARTTLS = True,
+    MAIL_SSL_TLS = False,  # Must be False when using STARTTLS
+    USE_CREDENTIALS = True,
+    VALIDATE_CERTS = True,
 )
+
 
 # Store Users
 # @app.post("/register")
-# async def register_user(email: str):
+# async def register_user(email: str):fg
 class UserDeRegisterRequest(BaseModel):
     email: str
     

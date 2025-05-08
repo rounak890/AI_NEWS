@@ -9,7 +9,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center space-x-2">
             <Bot className="h-8 w-8 text-blue-600" />
-            <span className="text-xl font-bold text-gray-900">AI News Daily</span>
+            <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 text-transparent bg-clip-text drop-shadow-sm">AI News Daily</span>
           </Link>
           
           <div className="flex space-x-6">
